@@ -1,0 +1,13360 @@
+(lp0
+ccopy_reg
+_reconstructor
+p1
+(cnetworkx.classes.digraph
+DiGraph
+p2
+c__builtin__
+object
+p3
+Ntp4
+Rp5
+(dp6
+S'node'
+p7
+(dp8
+VChristian Wolff (philosopher)
+p9
+(dp10
+sVEli Siegel
+p11
+(dp12
+sVMarsilius of Inghen
+p13
+(dp14
+sVSolomon Passy
+p15
+(dp16
+sVHeinrich Gustav Hotho
+p17
+(dp18
+sVIsaiah Berlin
+p19
+(dp20
+sVAndrea Bonomì
+p21
+(dp22
+sVTodd May
+p23
+(dp24
+sVHans Pfitzner
+p25
+(dp26
+sVMazen Asfour
+p27
+(dp28
+sVEnrique Dussel
+p29
+(dp30
+sVJoxe Azurmendi
+p31
+(dp32
+sVDong Zhongshu
+p33
+(dp34
+sVBahmany\u0101r
+p35
+(dp36
+sVDuns Scotus
+p37
+(dp38
+sVGeoffrey Sayre-McCord
+p39
+(dp40
+sVTenzin Gyatso
+p41
+(dp42
+sVClaude Lévi-Strauss
+p43
+(dp44
+sVMoses
+p45
+(dp46
+sVR. G. Collingwood
+p47
+(dp48
+sVNewton da Costa
+p49
+(dp50
+sVLysander Spooner
+p51
+(dp52
+sVMarquis de Sade
+p53
+(dp54
+sVHouston Stewart Chamberlain
+p55
+(dp56
+sVGuy Aldred
+p57
+(dp58
+sVRoderick Long
+p59
+(dp60
+sVMiguel A. De La Torre
+p61
+(dp62
+sVPlato
+p63
+(dp64
+sVRuqaiya Hasan
+p65
+(dp66
+sVNosson Tzvi Finkel (Slabodka)
+p67
+(dp68
+sVGerald Sacks
+p69
+(dp70
+sVOswald von Nell-Breuning
+p71
+(dp72
+sVJ. M. E. McTaggart
+p73
+(dp74
+sVRosalind Hursthouse
+p75
+(dp76
+sVHolly Martin Smith
+p77
+(dp78
+sVYoung Hegelians
+p79
+(dp80
+sVGarlandus Compotista
+p81
+(dp82
+sVDavid D. Friedman
+p83
+(dp84
+sVDavid Makinson
+p85
+(dp86
+sVNayef Al-Rodhan
+p87
+(dp88
+sVParmenides
+p89
+(dp90
+sVKazimierz Twardowski
+p91
+(dp92
+sVMichael A. Smith
+p93
+(dp94
+sVSocrates
+p95
+(dp96
+sVDavid K. Lewis
+p97
+(dp98
+sVNicolai A. Vasiliev
+p99
+(dp100
+sVGeorge Edward Moore
+p101
+(dp102
+sVMax Horkheimer
+p103
+(dp104
+sVJonathan Wolff (philosopher)
+p105
+(dp106
+sVRoger Scruton
+p107
+(dp108
+sVSpencer Heath
+p109
+(dp110
+sVSun Tzu
+p111
+(dp112
+sVAndrzej Tadeusz Kijowski
+p113
+(dp114
+sVRichard Routley
+p115
+(dp116
+sVBlaise Pascal
+p117
+(dp118
+sVGeorge Berkeley
+p119
+(dp120
+sVHilary Kornblith
+p121
+(dp122
+sVPLATO
+p123
+(dp124
+sVMilo Yiannopoulos
+p125
+(dp126
+sVAhmed Raza Khan
+p127
+(dp128
+sVJoseph Diaz Gergonne
+p129
+(dp130
+sVFriedrich Hayek
+p131
+(dp132
+sVFranco Burgersdijk
+p133
+(dp134
+sVRaymond Geuss
+p135
+(dp136
+sVMani Kaul
+p137
+(dp138
+sVJohn Duns Scotus
+p139
+(dp140
+sVJacques Maritain
+p141
+(dp142
+sVGregory Chaitin
+p143
+(dp144
+sVCora Diamond
+p145
+(dp146
+sVJean-François Lyotard
+p147
+(dp148
+sVMichael O. Rabin
+p149
+(dp150
+sVArthur Danto
+p151
+(dp152
+sVMozi
+p153
+(dp154
+sVDuncan Kennedy (legal philosopher)
+p155
+(dp156
+sVMonroe Beardsley
+p157
+(dp158
+sVGyörgy Lukács
+p159
+(dp160
+sVFriedrich Wilhelm Joseph von Schelling
+p161
+(dp162
+sVWilliam K. Frankena
+p163
+(dp164
+sVJoseph Priestley
+p165
+(dp166
+sVFrédéric Bastiat
+p167
+(dp168
+sVDavid Crocker
+p169
+(dp170
+sVErnst Bloch
+p171
+(dp172
+sVGiambattista Vico
+p173
+(dp174
+sVStephen Bronner
+p175
+(dp176
+sVBerit Brogaard
+p177
+(dp178
+sVPeter Singer
+p179
+(dp180
+sVJacques Herbrand
+p181
+(dp182
+sVRichard Milton Martin
+p183
+(dp184
+sVPeter of Spain (author)
+p185
+(dp186
+sVSusanne Langer
+p187
+(dp188
+sVIgor Pribac
+p189
+(dp190
+sVAugust Wilhelm Schlegel
+p191
+(dp192
+sVAxel Honneth
+p193
+(dp194
+sVEdward Hundert
+p195
+(dp196
+sVBoethius
+p197
+(dp198
+sVWalter Benjamin
+p199
+(dp200
+sVGraham Priest
+p201
+(dp202
+sVLeslie Stephen
+p203
+(dp204
+sVConimbricenses
+p205
+(dp206
+sVSusanna Siegel
+p207
+(dp208
+sVRaimond Gaita
+p209
+(dp210
+sVThomas Nagel
+p211
+(dp212
+sVJerry Farber
+p213
+(dp214
+sVB. F. Skinner
+p215
+(dp216
+sVLeonard Read
+p217
+(dp218
+sVSamuel Scheffler
+p219
+(dp220
+sVJulian Gumperz
+p221
+(dp222
+sVBaruch Spinoza
+p223
+(dp224
+sVHendrik Verwoerd
+p225
+(dp226
+sVGeorge Kateb
+p227
+(dp228
+sVPetrus Ramus
+p229
+(dp230
+sVRadhakamal Mukerjee
+p231
+(dp232
+sVEhud Hrushovski
+p233
+(dp234
+sVRichard Whately
+p235
+(dp236
+sVKenneth Kunen
+p237
+(dp238
+sVJonathan Edwards (theologian)
+p239
+(dp240
+sVDavid Bohm
+p241
+(dp242
+sVArnold Berleant
+p243
+(dp244
+sVG. E. M. Anscombe
+p245
+(dp246
+sVHilary Putnam
+p247
+(dp248
+sVMarianne Weber
+p249
+(dp250
+sVSally Haslanger
+p251
+(dp252
+sVGilbert Harman
+p253
+(dp254
+sVHerbert Spencer
+p255
+(dp256
+sVSamuel Bailey
+p257
+(dp258
+sVJeffrey Friedman (political scientist)
+p259
+(dp260
+sVGeorg Cantor
+p261
+(dp262
+sVBernard Bolzano
+p263
+(dp264
+sVL. A. Paul
+p265
+(dp266
+sVWilliam Alvin Howard
+p267
+(dp268
+sVJohn Pagus
+p269
+(dp270
+sVGabriele Taylor
+p271
+(dp272
+sVNancy Cartwright (philosopher)
+p273
+(dp274
+sVFriedrich Daniel Ernst Schleiermacher
+p275
+(dp276
+sVRuth Benedict
+p277
+(dp278
+sVDimiter Skordev
+p279
+(dp280
+sVGeorges Bataille
+p281
+(dp282
+sVLeon Chwistek
+p283
+(dp284
+sVOgy\u016b Sorai
+p285
+(dp286
+sVArthur Moeller van den Bruck
+p287
+(dp288
+sVHarriet Taylor Mill
+p289
+(dp290
+sVNicolas Malebranche
+p291
+(dp292
+sVPaul R. Patton
+p293
+(dp294
+sVThomas Bradwardine
+p295
+(dp296
+sVHayashi Razan
+p297
+(dp298
+sVB. R. Ambedkar
+p299
+(dp300
+sVDag Prawitz
+p301
+(dp302
+sVMao Zedong
+p303
+(dp304
+sVWilhelm Dilthey
+p305
+(dp306
+sVDavid Prychitko
+p307
+(dp308
+sVYi I
+p309
+(dp310
+sVFrank Meyer (political philosopher)
+p311
+(dp312
+sVR. M. Hare
+p313
+(dp314
+sVCalvin Seerveld
+p315
+(dp316
+sVHans Kelsen
+p317
+(dp318
+sVXenocrates
+p319
+(dp320
+sVEvert Willem Beth
+p321
+(dp322
+sVJack Russell Weinstein
+p323
+(dp324
+sVIan Rumfitt
+p325
+(dp326
+sVGottlob Frege
+p327
+(dp328
+sVRichard M. Weaver
+p329
+(dp330
+sVSerge Moscovici
+p331
+(dp332
+sVMazdak
+p333
+(dp334
+sVJames Joyce
+p335
+(dp336
+sVAbraham ibn Daud
+p337
+(dp338
+sVHermann Lotze
+p339
+(dp340
+sVJohn Shelby Spong
+p341
+(dp342
+sVJohn Maeda
+p343
+(dp344
+sVGiacomo Marramao
+p345
+(dp346
+sVJames VI and I
+p347
+(dp348
+sVHenry George
+p349
+(dp350
+sVRobert M. Solovay
+p351
+(dp352
+sVJohn Dumbleton
+p353
+(dp354
+sVSergei Adian
+p355
+(dp356
+sVBahá'u'lláh
+p357
+(dp358
+sVDerek Parfit
+p359
+(dp360
+sVAlfred Horn
+p361
+(dp362
+sVKarl-Otto Apel
+p363
+(dp364
+sVAustin Osman Spare
+p365
+(dp366
+sVMichael Devitt
+p367
+(dp368
+sVGottfried Leibniz
+p369
+(dp370
+sVSherrilyn Roush
+p371
+(dp372
+sVMortimer Adler
+p373
+(dp374
+sVStefan Molyneux
+p375
+(dp376
+sVKurt Gödel
+p377
+(dp378
+sVNoel Preston
+p379
+(dp380
+sVRonald Dworkin
+p381
+(dp382
+sVShadworth Hodgson
+p383
+(dp384
+sVAlexander of Aphrodisias
+p385
+(dp386
+sVShelly Kagan
+p387
+(dp388
+sVThomas Berry
+p389
+(dp390
+sVElliot N. Dorff
+p391
+(dp392
+sVFriedrich Nietzsche
+p393
+(dp394
+sVJack Copeland
+p395
+(dp396
+sVTripp York
+p397
+(dp398
+sVYusuf Balasagun
+p399
+(dp400
+sVEtienne Gilson
+p401
+(dp402
+sVIsaac Malitz
+p403
+(dp404
+sVPeter Lunenfeld
+p405
+(dp406
+sVCatherine Elgin
+p407
+(dp408
+sVW. Hugh Woodin
+p409
+(dp410
+sVEmma Goldman
+p411
+(dp412
+sVFriedrich Engels
+p413
+(dp414
+sVGeorg Anton Friedrich Ast
+p415
+(dp416
+sVRichard Montague
+p417
+(dp418
+sVRaymond Frey
+p419
+(dp420
+sVJohn Cage
+p421
+(dp422
+sVJoachim Jungius
+p423
+(dp424
+sVHermann Theodor Hettner
+p425
+(dp426
+sVMax Weber
+p427
+(dp428
+sVElizabeth Anscombe
+p429
+(dp430
+sVWalter Burley
+p431
+(dp432
+sVFazlur Rahman
+p433
+(dp434
+sVPaul Häberlin
+p435
+(dp436
+sVLewis Carroll
+p437
+(dp438
+sVJin Yuelin
+p439
+(dp440
+sVPeter Kropotkin
+p441
+(dp442
+sVFrançois Hemsterhuis
+p443
+(dp444
+sVLewis Call
+p445
+(dp446
+sVThucydides
+p447
+(dp448
+sVAntónio Castanheira Neves
+p449
+(dp450
+sVPhilo the Dialectician
+p451
+(dp452
+sVLauri Ingman
+p453
+(dp454
+sVLaurence Bonjour
+p455
+(dp456
+sVCarveth Read
+p457
+(dp458
+sVEdmund Burke
+p459
+(dp460
+sVStanis\u0142aw Ja\u015bkowski
+p461
+(dp462
+sVJeff Paris
+p463
+(dp464
+sVPhilo
+p465
+(dp466
+sVBjarni Jónsson
+p467
+(dp468
+sVIsrar Ahmed
+p469
+(dp470
+sVGeorg Wilhelm Friedrich Hegel
+p471
+(dp472
+sVJohn R. Steel
+p473
+(dp474
+sVGuy Sircello
+p475
+(dp476
+sVL. T. F. Gamut
+p477
+(dp478
+sVVictor Cousin
+p479
+(dp480
+sVJoseph Raz
+p481
+(dp482
+sVJon Barwise
+p483
+(dp484
+sVRonald Paulson
+p485
+(dp486
+sVList of Confucianists
+p487
+(dp488
+sVLucius Annaeus Seneca
+p489
+(dp490
+sVJawaharlal Nehru
+p491
+(dp492
+sVPhaleas of Chalcedon
+p493
+(dp494
+sVJules Vuillemin
+p495
+(dp496
+sVAlon Ben-Meir
+p497
+(dp498
+sVFélix Guattari
+p499
+(dp500
+sVMargaret Canovan
+p501
+(dp502
+sVAl-Ghazali
+p503
+(dp504
+sVArthur Prior
+p505
+(dp506
+sVDamon Young
+p507
+(dp508
+sVCornelius Castoriadis
+p509
+(dp510
+sVKit Fine
+p511
+(dp512
+sVTheodore Slaman
+p513
+(dp514
+sVWilhelm Ackermann
+p515
+(dp516
+sVJames Childress
+p517
+(dp518
+sVGiorgio Del Vecchio
+p519
+(dp520
+sVL.A. Paul
+p521
+(dp522
+sVImmanuel Kant
+p523
+(dp524
+sVSteven Poole
+p525
+(dp526
+sVFrederick Rowbottom
+p527
+(dp528
+sVWesley J. Smith
+p529
+(dp530
+sVAlice Crary
+p531
+(dp532
+sVChristopher Janaway
+p533
+(dp534
+sVMoj\u017cesz Presburger
+p535
+(dp536
+sVFelix Kaufmann
+p537
+(dp538
+sVErnst von Glasersfeld
+p539
+(dp540
+sVLalita Pandit
+p541
+(dp542
+sVStanley Cavell
+p543
+(dp544
+sVInayatullah Khan Mashriqi
+p545
+(dp546
+sVLeon Henkin
+p547
+(dp548
+sVJohn Hospers
+p549
+(dp550
+sVHenry Andrew Pogorzelski
+p551
+(dp552
+sVHorace Romano Harré
+p553
+(dp554
+sVBoris Furlan
+p555
+(dp556
+sVJessica Wilson
+p557
+(dp558
+sVLouis Pojman
+p559
+(dp560
+sVNomy Arpaly
+p561
+(dp562
+sVCheng Yi (philosopher)
+p563
+(dp564
+sVFrancis Hutcheson (philosopher)
+p565
+(dp566
+sVPaul Lorenzen
+p567
+(dp568
+sVDisciples of Confucius
+p569
+(dp570
+sVStuart Wilde
+p571
+(dp572
+sVPierre Bourdieu
+p573
+(dp574
+sVRobin Gandy
+p575
+(dp576
+sVGeorg W. F. Hegel
+p577
+(dp578
+sVKarl Immanuel Nitzsch
+p579
+(dp580
+sVFranz Xaver von Baader
+p581
+(dp582
+sVRichard Kilvington
+p583
+(dp584
+sVJean-Louis Le Moigne
+p585
+(dp586
+sVGalileo Galilei
+p587
+(dp588
+sVGiorgi Japaridze
+p589
+(dp590
+sVReinhold Niebuhr
+p591
+(dp592
+sVDiodorus Cronus
+p593
+(dp594
+sVCharles Parsons (philosopher)
+p595
+(dp596
+sVAllan Gibbard
+p597
+(dp598
+sVFrancisco de Vitoria
+p599
+(dp600
+sVXun Kuang
+p601
+(dp602
+sVJohann Albert Fabricius
+p603
+(dp604
+sVShmuel Alexandrov
+p605
+(dp606
+sVMarcion of Sinope
+p607
+(dp608
+sVPeter B. Andrews (mathematician)
+p609
+(dp610
+sVFrancis Parker Yockey
+p611
+(dp612
+sVRobert Stalnaker
+p613
+(dp614
+sVJohn Etchemendy
+p615
+(dp616
+sVMencius
+p617
+(dp618
+sVDonald A. Martin
+p619
+(dp620
+sVDavid Kaplan (philosopher)
+p621
+(dp622
+sVSøren Kierkegaard
+p623
+(dp624
+sVMichael Fourman
+p625
+(dp626
+sVMichael Sprinker
+p627
+(dp628
+sVGautama Buddha
+p629
+(dp630
+sVTadeusz Cze\u017cowski
+p631
+(dp632
+sVAndré Malraux
+p633
+(dp634
+sVPer Martin-Löf
+p635
+(dp636
+sVMurray Bookchin
+p637
+(dp638
+sVJohn Arthur (philosopher)
+p639
+(dp640
+sVPer Lindström
+p641
+(dp642
+sVGilbert de la Porrée
+p643
+(dp644
+sVHaskell Curry
+p645
+(dp646
+sVPolybius
+p647
+(dp648
+sVHugo Grotius
+p649
+(dp650
+sVH. L. A. Hart
+p651
+(dp652
+sVCornel West
+p653
+(dp654
+sVAuberon Herbert
+p655
+(dp656
+sVPierre-André Taguieff
+p657
+(dp658
+sVReuben Louis Goodstein
+p659
+(dp660
+sVHar Dayal
+p661
+(dp662
+sVJames Tully (philosopher)
+p663
+(dp664
+sVList of critical theorists
+p665
+(dp666
+sVMax Stirner
+p667
+(dp668
+sVMagnus Hundt
+p669
+(dp670
+sVAlexander Gottlieb Baumgarten
+p671
+(dp672
+sVRaúl Prebisch
+p673
+(dp674
+sVGarry Hagberg
+p675
+(dp676
+sVHenry Pachter
+p677
+(dp678
+sVGiannina Braschi
+p679
+(dp680
+sVBernard Williams
+p681
+(dp682
+sVRobert P. George
+p683
+(dp684
+sVSaul Kripke
+p685
+(dp686
+sVLuitzen Egbertus Jan Brouwer
+p687
+(dp688
+sVMarilyn McCord Adams
+p689
+(dp690
+sVIsaac Levi
+p691
+(dp692
+sVCarl Schmitt
+p693
+(dp694
+sVHans-Hermann Hoppe
+p695
+(dp696
+sVJohn Anderson (philosopher)
+p697
+(dp698
+sVHenry Hazlitt
+p699
+(dp700
+sVTara Smith (philosopher)
+p701
+(dp702
+sVRoger Crisp
+p703
+(dp704
+sVProclus Lycaeus
+p705
+(dp706
+sVWilliam Craig (logician)
+p707
+(dp708
+sVFujiwara Seika
+p709
+(dp710
+sVHans Küng
+p711
+(dp712
+sVJames Frederick Ferrier
+p713
+(dp714
+sVBruce Lee
+p715
+(dp716
+sVIsabel Paterson
+p717
+(dp718
+sVJohn Howard Yoder
+p719
+(dp720
+sVSiegfried Gottwald
+p721
+(dp722
+sVHan Ryner
+p723
+(dp724
+sVRuss Shafer-Landau
+p725
+(dp726
+sVCarew Arthur Meredith
+p727
+(dp728
+sVRobert Audi
+p729
+(dp730
+sVSwami Vivekananda
+p731
+(dp732
+sVJulia Driver
+p733
+(dp734
+sVPetr Hájek
+p735
+(dp736
+sVOliver Wendell Holmes, Jr.
+p737
+(dp738
+sVMichael A. E. Dummett
+p739
+(dp740
+sVHammurabi
+p741
+(dp742
+sVJean Grondin
+p743
+(dp744
+sVXavier Zubiri
+p745
+(dp746
+sVLennart Åqvist
+p747
+(dp748
+sVJohn Stevens Cabot Abbott
+p749
+(dp750
+sVAlexander Bain
+p751
+(dp752
+sVRobert Merrihew Adams
+p753
+(dp754
+sVPenelope Maddy
+p755
+(dp756
+sVJesus
+p757
+(dp758
+sVJulia Annas
+p759
+(dp760
+sVBarry Stroud
+p761
+(dp762
+sVW.K. Wimsatt
+p763
+(dp764
+sVProdicus
+p765
+(dp766
+sVIris Murdoch
+p767
+(dp768
+sVAdolf Hitler
+p769
+(dp770
+sVGiovanni Girolamo Saccheri
+p771
+(dp772
+sVClaudio Canaparo
+p773
+(dp774
+sVSedulius Scottus
+p775
+(dp776
+sVMikhail Bakunin
+p777
+(dp778
+sVJohn Woods (logician)
+p779
+(dp780
+sVFrank Sibley (philosopher)
+p781
+(dp782
+sVPeter Ludlow
+p783
+(dp784
+sVWilliam Whewell
+p785
+(dp786
+sVJohn Searle
+p787
+(dp788
+sVLewis H. Morgan
+p789
+(dp790
+sVVernon Lee
+p791
+(dp792
+sVWilliam of Ockham
+p793
+(dp794
+sVMartin Luther King, Jr.
+p795
+(dp796
+sVDavid Kellogg Lewis
+p797
+(dp798
+sVMilan Kangrga
+p799
+(dp800
+sVAlexander Zinoviev
+p801
+(dp802
+sVPyotr Novikov
+p803
+(dp804
+sVÉtienne de La Boétie
+p805
+(dp806
+sVLon L. Fuller
+p807
+(dp808
+sVDavid Gauthier
+p809
+(dp810
+sVOskar Negt
+p811
+(dp812
+sVHoward Zinn
+p813
+(dp814
+sVGerhard Gentzen
+p815
+(dp816
+sVHenry Home, Lord Kames
+p817
+(dp818
+sVPythagoras
+p819
+(dp820
+sVRalf Dahrendorf
+p821
+(dp822
+sVRichard Wollheim
+p823
+(dp824
+sVRobert Nozick
+p825
+(dp826
+sVH. Richard Niebuhr
+p827
+(dp828
+sVHans Singer
+p829
+(dp830
+sVBenedetto Croce
+p831
+(dp832
+sVPaul of Venice
+p833
+(dp834
+sVJohn Joseph O'Connor
+p835
+(dp836
+sVDugald Macpherson
+p837
+(dp838
+sVJohn Dewey
+p839
+(dp840
+sVGualtiero Piccinini
+p841
+(dp842
+sVRussell Kirk
+p843
+(dp844
+sVJulius Binder
+p845
+(dp846
+sVTerence McKenna
+p847
+(dp848
+sVXun Zi
+p849
+(dp850
+sVJohn Austin (legal philosopher)
+p851
+(dp852
+sVAlasdair MacIntyre
+p853
+(dp854
+sVCategoriae decem
+p855
+(dp856
+sVEric Voegelin
+p857
+(dp858
+sVFred Poché
+p859
+(dp860
+sVOwen Flanagan
+p861
+(dp862
+sVMioara Mugur-Schächter
+p863
+(dp864
+sVMihailo Markovi\u0107
+p865
+(dp866
+sVPaul Virilio
+p867
+(dp868
+sVKeith Lehrer
+p869
+(dp870
+sVCostas Douzinas
+p871
+(dp872
+sVClarence Irving Lewis
+p873
+(dp874
+sVMaimonides
+p875
+(dp876
+sVWilliam C. Dowling
+p877
+(dp878
+sVWilliam Fontaine
+p879
+(dp880
+sVMartin Heidegger
+p881
+(dp882
+sVMargaret Mead
+p883
+(dp884
+sVDaniel Brock
+p885
+(dp886
+sVGary Chartier
+p887
+(dp888
+sVAlan Ross Anderson
+p889
+(dp890
+sVMargaret Elizabeth Egan
+p891
+(dp892
+sVSaunders MacLane
+p893
+(dp894
+sVJean-Yves Girard
+p895
+(dp896
+sVAdrian Johnston (philosopher)
+p897
+(dp898
+sVBertrand Russell
+p899
+(dp900
+sVMoshe Y. Vardi
+p901
+(dp902
+sVCesare Brandi
+p903
+(dp904
+sVDaniel Guérin
+p905
+(dp906
+sVLynne Rudder Baker
+p907
+(dp908
+sVLudwig Wittgenstein
+p909
+(dp910
+sVAndrzej Mostowski
+p911
+(dp912
+sVTheophrastus
+p913
+(dp914
+sVWillard V. O. Quine
+p915
+(dp916
+sVJudith Jarvis Thomson
+p917
+(dp918
+sVAlain Badiou
+p919
+(dp920
+sVHeraclitus
+p921
+(dp922
+sVLudwig von Mises
+p923
+(dp924
+sVLorenzo Peña
+p925
+(dp926
+sVRoberto Mangabeira Unger
+p927
+(dp928
+sVRobert Kilwardby
+p929
+(dp930
+sVIsmail Raji' al-Faruqi
+p931
+(dp932
+sVErnest Wamba dia Wamba
+p933
+(dp934
+sVJohn Hawthorne
+p935
+(dp936
+sVWilliam James
+p937
+(dp938
+sVPeter van Inwagen
+p939
+(dp940
+sVYamaga Sok\u014d
+p941
+(dp942
+sVWilliam Wollaston
+p943
+(dp944
+sVJohn Oswald (activist)
+p945
+(dp946
+sVManuel De Landa
+p947
+(dp948
+sVRaymond Smullyan
+p949
+(dp950
+sVWilliam Alston
+p951
+(dp952
+sVEmmanuel Levinas
+p953
+(dp954
+sVEmma Rush
+p955
+(dp956
+sVGeorg Jellinek
+p957
+(dp958
+sVSimon Critchley
+p959
+(dp960
+sVVilfredo Pareto
+p961
+(dp962
+sVWesley Newcomb Hohfeld
+p963
+(dp964
+sVJamie Whyte
+p965
+(dp966
+sVTheodor Sternberg
+p967
+(dp968
+sVDemocritus
+p969
+(dp970
+sVGiorgio Agamben
+p971
+(dp972
+sVCheng Hao
+p973
+(dp974
+sVDietrich Bonhoeffer
+p975
+(dp976
+sVOctave Mirbeau
+p977
+(dp978
+sVTerence Parsons
+p979
+(dp980
+sVSandra Harding
+p981
+(dp982
+sVPaul Hawken
+p983
+(dp984
+sVDick de Jongh
+p985
+(dp986
+sVSimone de Beauvoir
+p987
+(dp988
+sVGustave de Molinari
+p989
+(dp990
+sVHans Achterhuis
+p991
+(dp992
+sVPeter Medawar
+p993
+(dp994
+sVStanley Grenz
+p995
+(dp996
+sVBruno Leoni
+p997
+(dp998
+sVMonarchomachs
+p999
+(dp1000
+sVT. H. Irwin
+p1001
+(dp1002
+sVRushworth Kidder
+p1003
+(dp1004
+sVJean Anthelme Brillat-Savarin
+p1005
+(dp1006
+sVEdward Nelson
+p1007
+(dp1008
+sVProtagoras
+p1009
+(dp1010
+sVHeiric of Auxerre
+p1011
+(dp1012
+sVFerruccio Busoni
+p1013
+(dp1014
+sVAlonzo Church
+p1015
+(dp1016
+sVArthur Linton Corbin
+p1017
+(dp1018
+sVCarl Joachim Friedrich
+p1019
+(dp1020
+sVFerdinand de Saussure
+p1021
+(dp1022
+sVRichard Price
+p1023
+(dp1024
+sVDavid Miller (political theorist)
+p1025
+(dp1026
+sVYves Marie André
+p1027
+(dp1028
+sVAnandavardhana
+p1029
+(dp1030
+sVDana Scott
+p1031
+(dp1032
+sVRolf Schock
+p1033
+(dp1034
+sVTudor Vianu
+p1035
+(dp1036
+sVJacques Lacan
+p1037
+(dp1038
+sVOscar Wilde
+p1039
+(dp1040
+sVJohn von Neumann
+p1041
+(dp1042
+sVTheodor W. Adorno
+p1043
+(dp1044
+sVEdgar Morin
+p1045
+(dp1046
+sVJohn Peters Humphrey
+p1047
+(dp1048
+sVNorbert Leser
+p1049
+(dp1050
+sVJeremy Bentham
+p1051
+(dp1052
+sVJohn Harsanyi
+p1053
+(dp1054
+sVMartha Nussbaum
+p1055
+(dp1056
+sVPhilip Pettit
+p1057
+(dp1058
+sVPaul Bernays
+p1059
+(dp1060
+sVDavid Chalmers
+p1061
+(dp1062
+sVlist of political scientists
+p1063
+(dp1064
+sVJody Azzouni
+p1065
+(dp1066
+sVHao Wang (academic)
+p1067
+(dp1068
+sVIbn Taymiyyah
+p1069
+(dp1070
+sVPaolo Virno
+p1071
+(dp1072
+sVVissarion Belinsky
+p1073
+(dp1074
+sVNorman Malcolm
+p1075
+(dp1076
+sVJoseph Kosuth
+p1077
+(dp1078
+sVMichael Novak
+p1079
+(dp1080
+sVCharles C. Ragin
+p1081
+(dp1082
+sVUmberto Eco
+p1083
+(dp1084
+sVAlgernon Charles Swinburne
+p1085
+(dp1086
+sVPeter Lamborn Wilson
+p1087
+(dp1088
+sVMax Baginski
+p1089
+(dp1090
+sVAlvin Goldman
+p1091
+(dp1092
+sVMorris Weitz
+p1093
+(dp1094
+sVJózef Maria Boche\u0144ski
+p1095
+(dp1096
+sVRichard Sylvan
+p1097
+(dp1098
+sVMartin Buber
+p1099
+(dp1100
+sVDavid Friedrich Strauss
+p1101
+(dp1102
+sVPeter Geach
+p1103
+(dp1104
+sVCarrie Ichikawa Jenkins
+p1105
+(dp1106
+sVLonginus (literature)
+p1107
+(dp1108
+sVPhilippe Van Parijs
+p1109
+(dp1110
+sVEpicurus
+p1111
+(dp1112
+sVJean Nicod
+p1113
+(dp1114
+sVWilliam Ernest Johnson
+p1115
+(dp1116
+sVLeonard Peikoff
+p1117
+(dp1118
+sVNuel Belnap
+p1119
+(dp1120
+sVJohn_Greco (philosopher)
+p1121
+(dp1122
+sVJohn Lane Bell
+p1123
+(dp1124
+sVJan \u0141ukasiewicz
+p1125
+(dp1126
+sVIvan Orlov (philosopher)
+p1127
+(dp1128
+sVJean Buridan
+p1129
+(dp1130
+sVJames Mill
+p1131
+(dp1132
+sVRight Hegelians
+p1133
+(dp1134
+sVSun Yat-sen
+p1135
+(dp1136
+sVYehoshua Bar-Hillel
+p1137
+(dp1138
+sVAlcuin
+p1139
+(dp1140
+sVGeorge Pappas
+p1141
+(dp1142
+sVLiu Xie
+p1143
+(dp1144
+sVKarl Marx
+p1145
+(dp1146
+sVJoshua Cohen (philosopher)
+p1147
+(dp1148
+sVPhilippa Foot
+p1149
+(dp1150
+sVMartin Davis
+p1151
+(dp1152
+sVSimplicius of Cilicia
+p1153
+(dp1154
+sVJulien Offray de La Mettrie
+p1155
+(dp1156
+sVStanley Hauerwas
+p1157
+(dp1158
+sVTony Honoré
+p1159
+(dp1160
+sVGerald Dworkin
+p1161
+(dp1162
+sVZiauddin Sardar
+p1163
+(dp1164
+sVSol Garfunkel
+p1165
+(dp1166
+sVSimone Weil
+p1167
+(dp1168
+sVJohn Locke
+p1169
+(dp1170
+sVArda Denkel
+p1171
+(dp1172
+sVRudolf Christoph Eucken
+p1173
+(dp1174
+sVGiuseppe Peano
+p1175
+(dp1176
+sVMario Tronti
+p1177
+(dp1178
+sVKarel Lambert
+p1179
+(dp1180
+sVG. E. Moore
+p1181
+(dp1182
+sVChristine Korsgaard
+p1183
+(dp1184
+sVKevin Carson
+p1185
+(dp1186
+sVDugald Stewart
+p1187
+(dp1188
+sVVictor Basch
+p1189
+(dp1190
+sVHenk Barendregt
+p1191
+(dp1192
+sVJerrold Levinson
+p1193
+(dp1194
+sVG.W.F. Hegel
+p1195
+(dp1196
+sVStanis\u0142aw Le\u015bniewski
+p1197
+(dp1198
+sVAlfred North Whitehead
+p1199
+(dp1200
+sVMary Daly
+p1201
+(dp1202
+sVAdolf Lindenbaum
+p1203
+(dp1204
+sVJudith Butler
+p1205
+(dp1206
+sVNicolas Bourbaki
+p1207
+(dp1208
+sVAbhinavagupta
+p1209
+(dp1210
+sVEdward Burnett Tylor
+p1211
+(dp1212
+sVRichard Shusterman
+p1213
+(dp1214
+sVUmar bin al-Khattab
+p1215
+(dp1216
+sVZhuang Zhou
+p1217
+(dp1218
+sVNoam Chomsky
+p1219
+(dp1220
+sVTadeusz Kotarbi\u0144ski
+p1221
+(dp1222
+sVHeinz von Foerster
+p1223
+(dp1224
+sVAlan Ryan
+p1225
+(dp1226
+sVOtto Casmann
+p1227
+(dp1228
+sVCharles Stevenson
+p1229
+(dp1230
+sVZalman Schachter-Shalomi
+p1231
+(dp1232
+sVDavid Pearce (philosopher)
+p1233
+(dp1234
+sVGeorge Holmes Howison
+p1235
+(dp1236
+sVAlasdair Urquhart
+p1237
+(dp1238
+sVJulian Savulescu
+p1239
+(dp1240
+sVMaurice Brinton
+p1241
+(dp1242
+sVAldo Leopold
+p1243
+(dp1244
+sVKarl Wilhelm Friedrich von Schlegel
+p1245
+(dp1246
+sVAlexander S. Kechris
+p1247
+(dp1248
+sVErnst Schröder
+p1249
+(dp1250
+sVAugustus De Morgan
+p1251
+(dp1252
+sVMuhammad Iqbal
+p1253
+(dp1254
+sVNestor Makhno
+p1255
+(dp1256
+sVErich Fromm
+p1257
+(dp1258
+sVVladimir Andreyevich Uspensky
+p1259
+(dp1260
+sVJeroen Groenendijk
+p1261
+(dp1262
+sVRonald Jensen
+p1263
+(dp1264
+sVMohandas Gandhi
+p1265
+(dp1266
+sVRoland Barthes
+p1267
+(dp1268
+sVGeorge Ohsawa
+p1269
+(dp1270
+sVFriedrich A. Hayek
+p1271
+(dp1272
+sVRichard Rorty
+p1273
+(dp1274
+sVFriedrich Eduard Beneke
+p1275
+(dp1276
+sVNorbert Bolz
+p1277
+(dp1278
+sVWalter Pater
+p1279
+(dp1280
+sVPlotinus
+p1281
+(dp1282
+sVRaghunatha Siromani
+p1283
+(dp1284
+sVJoachim Lambek
+p1285
+(dp1286
+sVThomas Henry Huxley
+p1287
+(dp1288
+sVDavid Wiggins
+p1289
+(dp1290
+sVDavid Hume
+p1291
+(dp1292
+sVLinda Trinkaus Zagzebski
+p1293
+(dp1294
+sVFrancis Fukuyama
+p1295
+(dp1296
+sVLouis Althusser
+p1297
+(dp1298
+sVZeno of Elea
+p1299
+(dp1300
+sVLoren Lomasky
+p1301
+(dp1302
+sVFrancis Jeffrey
+p1303
+(dp1304
+sVHarold Bloom
+p1305
+(dp1306
+sVFyodor Shcherbatskoy
+p1307
+(dp1308
+sVNorman Daniels
+p1309
+(dp1310
+sVAnne Sjerp Troelstra
+p1311
+(dp1312
+sVNader El-Bizri
+p1313
+(dp1314
+sVWarren Buffett
+p1315
+(dp1316
+sVJean Piaget
+p1317
+(dp1318
+sVEdmund Gettier
+p1319
+(dp1320
+sVChaïm Perelman
+p1321
+(dp1322
+sVJonathan Dancy
+p1323
+(dp1324
+sVStewart Shapiro
+p1325
+(dp1326
+sVNiccolò Machiavelli
+p1327
+(dp1328
+sVJoseph Fletcher
+p1329
+(dp1330
+sVGhazali
+p1331
+(dp1332
+sVJ. L. Mackie
+p1333
+(dp1334
+sVÞorsteinn Gylfason
+p1335
+(dp1336
+sVJames Earl Baumgartner
+p1337
+(dp1338
+sVRobert S. Hartman
+p1339
+(dp1340
+sVErnst Zermelo
+p1341
+(dp1342
+sVJohn William Miller
+p1343
+(dp1344
+sVMax Black
+p1345
+(dp1346
+sVJ. J. C. Smart
+p1347
+(dp1348
+sVGary R. Mar
+p1349
+(dp1350
+sVW. D. Ross
+p1351
+(dp1352
+sVGerhard Vollmer
+p1353
+(dp1354
+sVGeorge Boole
+p1355
+(dp1356
+sVMichel Foucault
+p1357
+(dp1358
+sVErich Heller
+p1359
+(dp1360
+sVNy\u0101ya S\u016btras
+p1361
+(dp1362
+sVJohn Corcoran (logician)
+p1363
+(dp1364
+sVRobert K. Merton
+p1365
+(dp1366
+sVAdam Smith
+p1367
+(dp1368
+sVFerdinand Gotthelf Hand
+p1369
+(dp1370
+sVFrancis Bacon
+p1371
+(dp1372
+sVRandy Cohen
+p1373
+(dp1374
+sVHerman Oliphant
+p1375
+(dp1376
+sVRózsa Péter
+p1377
+(dp1378
+sVGeorge Boolos
+p1379
+(dp1380
+sVHoward Jerome Keisler
+p1381
+(dp1382
+sVRosa Luxemburg
+p1383
+(dp1384
+sVGeorge Santayana
+p1385
+(dp1386
+sVRudolf Steiner
+p1387
+(dp1388
+sVJohn Zerzan
+p1389
+(dp1390
+sVAlan Bundy
+p1391
+(dp1392
+sVPeter Kivy
+p1393
+(dp1394
+sVHans Köchler
+p1395
+(dp1396
+sVBahya ibn Paquda
+p1397
+(dp1398
+sVIt\u014d Jinsai
+p1399
+(dp1400
+sVPiergiorgio Odifreddi
+p1401
+(dp1402
+sVJohn Rawls
+p1403
+(dp1404
+sVHarriet Martineau
+p1405
+(dp1406
+sVEduard Hanslick
+p1407
+(dp1408
+sVJohn McDowell
+p1409
+(dp1410
+sVNiklas Luhmann
+p1411
+(dp1412
+sVFatema Mernissi
+p1413
+(dp1414
+sVRalph Waldo Emerson
+p1415
+(dp1416
+sVPer Bauhn
+p1417
+(dp1418
+sVMoritz Schlick
+p1419
+(dp1420
+sVPekka Himanen
+p1421
+(dp1422
+sVQuintilian
+p1423
+(dp1424
+sVList of Existentialists
+p1425
+(dp1426
+sVMohandas Karamchand Gandhi
+p1427
+(dp1428
+sVKaibara Ekken
+p1429
+(dp1430
+sVGilbert Simondon
+p1431
+(dp1432
+sVPaul Janet
+p1433
+(dp1434
+sVR. Edward Freeman
+p1435
+(dp1436
+sVRichard Ferrybridge
+p1437
+(dp1438
+sVThiruvalluvar
+p1439
+(dp1440
+sVStobaeus
+p1441
+(dp1442
+sVDonna Haraway
+p1443
+(dp1444
+sVAli Shariati
+p1445
+(dp1446
+sVEugen Rosenstock-Huessy
+p1447
+(dp1448
+sVClive Bell
+p1449
+(dp1450
+sVJohan van Benthem (logician)
+p1451
+(dp1452
+sVGerald Cohen
+p1453
+(dp1454
+sVWalter Pitts
+p1455
+(dp1456
+sVWilliam Paley
+p1457
+(dp1458
+sVGotthold Ephraim Lessing
+p1459
+(dp1460
+sVLorenzo Valla
+p1461
+(dp1462
+sVJohn M. Cooper (philosopher)
+p1463
+(dp1464
+sVTheodore Sider
+p1465
+(dp1466
+sVTan Sitong
+p1467
+(dp1468
+sVColin Wilson
+p1469
+(dp1470
+sVAlbert Schweitzer
+p1471
+(dp1472
+sVJürgen Habermas
+p1473
+(dp1474
+sVGlenn McGee
+p1475
+(dp1476
+sVKarla Jessen Williamson
+p1477
+(dp1478
+sVThomas Aquinas
+p1479
+(dp1480
+sVJoan Tronto
+p1481
+(dp1482
+sVDirk van Dalen
+p1483
+(dp1484
+sVSaharon Shelah
+p1485
+(dp1486
+sVFrancis Ernest Jackson
+p1487
+(dp1488
+sVRichard Jeffrey
+p1489
+(dp1490
+sVPeter Lipton
+p1491
+(dp1492
+sVBarron H. Lerner
+p1493
+(dp1494
+sVHelena Rasiowa
+p1495
+(dp1496
+sVHenry Babcock Veatch
+p1497
+(dp1498
+sVFriedrich Adolf Trendelenburg
+p1499
+(dp1500
+sVDana Ward
+p1501
+(dp1502
+sVNigel Warburton
+p1503
+(dp1504
+sVClaude Lefort
+p1505
+(dp1506
+sVHenri Bergson
+p1507
+(dp1508
+sVAlvin Plantinga
+p1509
+(dp1510
+sVJohn of St. Thomas
+p1511
+(dp1512
+sVAlan Turing
+p1513
+(dp1514
+sVMichael Davis (philosopher)
+p1515
+(dp1516
+sVOnora O'Neill, Baroness O'Neill of Bengarve
+p1517
+(dp1518
+sVGianfranco Sanguinetti
+p1519
+(dp1520
+sVMichael Otsuka
+p1521
+(dp1522
+sVLeopold Löwenheim
+p1523
+(dp1524
+sVRoger Chao
+p1525
+(dp1526
+sVAndrei Marga
+p1527
+(dp1528
+sVAlexander Gerard
+p1529
+(dp1530
+sVWilliam Lycan
+p1531
+(dp1532
+sVAdam Müller
+p1533
+(dp1534
+sVKarl Loewenstein
+p1535
+(dp1536
+sVJanet Coleman
+p1537
+(dp1538
+sVGeorg Simmel
+p1539
+(dp1540
+sVFranz Boas
+p1541
+(dp1542
+sVFrithjof Schuon
+p1543
+(dp1544
+sVJeffrey Stout
+p1545
+(dp1546
+sVJoseph de Torre
+p1547
+(dp1548
+sVJenny Teichman
+p1549
+(dp1550
+sVLeonidas Donskis
+p1551
+(dp1552
+sVPavel Tichý
+p1553
+(dp1554
+sVPaolo da Pergola
+p1555
+(dp1556
+sVCharles Sanders Peirce
+p1557
+(dp1558
+sVWilliam of Sherwood
+p1559
+(dp1560
+sVBenjamin Tucker
+p1561
+(dp1562
+sVJoseph Fins
+p1563
+(dp1564
+sVXenophanes
+p1565
+(dp1566
+sVSri Aurobindo
+p1567
+(dp1568
+sVOtto Weininger
+p1569
+(dp1570
+sVMax Scheler
+p1571
+(dp1572
+sVJacques Derrida
+p1573
+(dp1574
+sVRodolphus Agricola
+p1575
+(dp1576
+sVJohn Stuart Mill
+p1577
+(dp1578
+sVWilliam George Ward
+p1579
+(dp1580
+sVWolfgang Smith
+p1581
+(dp1582
+sVGraeme Forbes
+p1583
+(dp1584
+sVCraig Paterson
+p1585
+(dp1586
+sVPeter D. Klein
+p1587
+(dp1588
+sVVirgil Aldrich
+p1589
+(dp1590
+sVRichard Brinkley
+p1591
+(dp1592
+sVGeorge Birkhoff
+p1593
+(dp1594
+sVThomas Hill Green
+p1595
+(dp1596
+sVRalph Strode
+p1597
+(dp1598
+sVEdgar Allan Poe
+p1599
+(dp1600
+sVHenri Lefebvre
+p1601
+(dp1602
+sVJacob M. Appel
+p1603
+(dp1604
+sVDharmakirti
+p1605
+(dp1606
+sVCarlos Santiago Nino
+p1607
+(dp1608
+sVArmin Mohler
+p1609
+(dp1610
+sVRaya Dunayevskaya
+p1611
+(dp1612
+sVWalter Terence Stace
+p1613
+(dp1614
+sVMoses Schönfinkel
+p1615
+(dp1616
+sVPhilip Jourdain
+p1617
+(dp1618
+sVRobert Lawson Vaught
+p1619
+(dp1620
+sVThéodore Simon Jouffroy
+p1621
+(dp1622
+sVRoland Fraïssé
+p1623
+(dp1624
+sVHan Fei
+p1625
+(dp1626
+sVHui Shi
+p1627
+(dp1628
+sVFriedrich Schiller
+p1629
+(dp1630
+sVJohann Heinrich Lambert
+p1631
+(dp1632
+sVPorphyry (philosopher)
+p1633
+(dp1634
+sVSusan Wolf
+p1635
+(dp1636
+sVJean Van Heijenoort
+p1637
+(dp1638
+sVRené Girard
+p1639
+(dp1640
+sVJane Jacobs
+p1641
+(dp1642
+sVWu Enyu
+p1643
+(dp1644
+sVRamon Llull
+p1645
+(dp1646
+sVDean Zimmerman
+p1647
+(dp1648
+sVYiannis N. Moschovakis
+p1649
+(dp1650
+sVWilliam Stanley Jevons
+p1651
+(dp1652
+sVHenry David Thoreau
+p1653
+(dp1654
+sVJacques Rancière
+p1655
+(dp1656
+sVGregory Currie
+p1657
+(dp1658
+sVJames Brusseau
+p1659
+(dp1660
+sVVoltairine de Cleyre
+p1661
+(dp1662
+sVGeorge Croom Robertson
+p1663
+(dp1664
+sVWilliam Sweet
+p1665
+(dp1666
+sVGeorg Henrik von Wright
+p1667
+(dp1668
+sVRichard Meltzer
+p1669
+(dp1670
+sVGeorg Kreisel
+p1671
+(dp1672
+sVVoltaire
+p1673
+(dp1674
+sVPhilip Wicksteed
+p1675
+(dp1676
+sVLawrence Kohlberg
+p1677
+(dp1678
+sVKurt Schütte
+p1679
+(dp1680
+sVEdmund Gurney
+p1681
+(dp1682
+sVMaurice Blanchot
+p1683
+(dp1684
+sVAnaximander
+p1685
+(dp1686
+sVJay Rosenberg
+p1687
+(dp1688
+sVLeopold Kronecker
+p1689
+(dp1690
+sVToju Nakae
+p1691
+(dp1692
+sVPeter Sloterdijk
+p1693
+(dp1694
+sVAristoxenus
+p1695
+(dp1696
+sVNathan Salmon
+p1697
+(dp1698
+sVLucretius
+p1699
+(dp1700
+sVCharles Taylor (philosopher)
+p1701
+(dp1702
+sVT. M. Scanlon
+p1703
+(dp1704
+sVDov Gabbay
+p1705
+(dp1706
+sV:nl:Martinus Dorpius
+p1707
+(dp1708
+sVJean-Jacques Rousseau
+p1709
+(dp1710
+sVGuy Debord
+p1711
+(dp1712
+sVMikelis Avlichos
+p1713
+(dp1714
+sVArend Heyting
+p1715
+(dp1716
+sVRoberto Esposito
+p1717
+(dp1718
+sVJ. Barkley Rosser
+p1719
+(dp1720
+sVHans-Georg Gadamer
+p1721
+(dp1722
+sVAristotle
+p1723
+(dp1724
+sVArthur Caplan
+p1725
+(dp1726
+sV\u0130oanna Kuçuradi
+p1727
+(dp1728
+sVMoshe Chaim Luzzatto
+p1729
+(dp1730
+sVWilliam Lloyd Garrison
+p1731
+(dp1732
+sVYuri Matiyasevich
+p1733
+(dp1734
+sVAbraham Joshua Heschel
+p1735
+(dp1736
+sVJohann Friedrich Herbart
+p1737
+(dp1738
+sVDavid Sosa
+p1739
+(dp1740
+sVJaakko Hintikka
+p1741
+(dp1742
+sVMichel Onfray
+p1743
+(dp1744
+sVlist of economists
+p1745
+(dp1746
+sVRudolf Arnheim
+p1747
+(dp1748
+sVSusanna Schellenberg
+p1749
+(dp1750
+sVFrank Herbert
+p1751
+(dp1752
+sVJohn Burnheim
+p1753
+(dp1754
+sVAntoine Garaby de La Luzerne
+p1755
+(dp1756
+sVSlavoj \u017di\u017eek
+p1757
+(dp1758
+sVJohann Gottfried Herder
+p1759
+(dp1760
+sVGerrard Winstanley
+p1761
+(dp1762
+sVVictor Gollancz
+p1763
+(dp1764
+sVTheodor Zwinger
+p1765
+(dp1766
+sVKarl Popper
+p1767
+(dp1768
+sVTalcott Parsons
+p1769
+(dp1770
+sVNelson Goodman
+p1771
+(dp1772
+sVMichael J. Sandel
+p1773
+(dp1774
+sVDonella Meadows
+p1775
+(dp1776
+sVSolomon Feferman
+p1777
+(dp1778
+sVMatthew Foreman
+p1779
+(dp1780
+sVRaphael M. Robinson
+p1781
+(dp1782
+sVPierre Abélard
+p1783
+(dp1784
+sVMichael Oakeshott
+p1785
+(dp1786
+sVMenedemus
+p1787
+(dp1788
+sVMaurice Cranston
+p1789
+(dp1790
+sVGiovanni Battista Scaramelli
+p1791
+(dp1792
+sVJohn Ralston Saul
+p1793
+(dp1794
+sVMargaret Somerville
+p1795
+(dp1796
+sVPhilip Doddridge
+p1797
+(dp1798
+sVAlexander Campbell Fraser
+p1799
+(dp1800
+sVGaisi Takeuti
+p1801
+(dp1802
+sVFrank Schmalleger
+p1803
+(dp1804
+sVAmartya Sen
+p1805
+(dp1806
+sVP. F. Strawson
+p1807
+(dp1808
+sVPaul Grice
+p1809
+(dp1810
+sVIsrael Kirzner
+p1811
+(dp1812
+sVRobert Kowalski
+p1813
+(dp1814
+sVMartin Löb
+p1815
+(dp1816
+sVSeyyed Hossein Nasr
+p1817
+(dp1818
+sVThoralf Skolem
+p1819
+(dp1820
+sVRichard Swineshead
+p1821
+(dp1822
+sVC. D. Broad
+p1823
+(dp1824
+sVD. Stephen Long
+p1825
+(dp1826
+sVCarlo Lottieri
+p1827
+(dp1828
+sVWau Holland
+p1829
+(dp1830
+sVDavid Lewis (philosopher)
+p1831
+(dp1832
+sVCicero
+p1833
+(dp1834
+sVJean-Yves Béziau
+p1835
+(dp1836
+sVTrenton Merricks
+p1837
+(dp1838
+sVLeo Tolstoy
+p1839
+(dp1840
+sVC. Wright Mills
+p1841
+(dp1842
+sVPeter Abelard
+p1843
+(dp1844
+sVSamuel Edward Konkin III
+p1845
+(dp1846
+sVJohn Major (philosopher)
+p1847
+(dp1848
+sVAlastair Norcross
+p1849
+(dp1850
+sVRené Descartes
+p1851
+(dp1852
+sVHirata Atsutane
+p1853
+(dp1854
+sVGrigori Mints
+p1855
+(dp1856
+sVPeter Railton
+p1857
+(dp1858
+sVJuan Luis Vives
+p1859
+(dp1860
+sVPaul Benacerraf
+p1861
+(dp1862
+sVStephen Cole Kleene
+p1863
+(dp1864
+sVChanakya
+p1865
+(dp1866
+sVJohn Finnis
+p1867
+(dp1868
+sVPaul Tillich
+p1869
+(dp1870
+sVJacopo Zabarella
+p1871
+(dp1872
+sVAugustine of Hippo
+p1873
+(dp1874
+sVUdayana
+p1875
+(dp1876
+sVA. J. Ayer
+p1877
+(dp1878
+sVAndronicus of Rhodes
+p1879
+(dp1880
+sVFred Dretske
+p1881
+(dp1882
+sVClaude Adrien Helvétius
+p1883
+(dp1884
+sVAverroes
+p1885
+(dp1886
+sVArthur Schopenhauer
+p1887
+(dp1888
+sVKazimierz Ajdukiewicz
+p1889
+(dp1890
+sVNicolai Hartmann
+p1891
+(dp1892
+sVJanet Biehl
+p1893
+(dp1894
+sVAbraham Robinson
+p1895
+(dp1896
+sVTheodor Mundt
+p1897
+(dp1898
+sVLotfi A. Zadeh
+p1899
+(dp1900
+sVAshoka
+p1901
+(dp1902
+sVJohn Venn
+p1903
+(dp1904
+sVThomas Reid
+p1905
+(dp1906
+sVKendall Walton
+p1907
+(dp1908
+sVRuth Barcan Marcus
+p1909
+(dp1910
+sVAlfred Rosenberg
+p1911
+(dp1912
+sVRichard the Sophister
+p1913
+(dp1914
+sVThomas Hobbes
+p1915
+(dp1916
+sVEmil Leon Post
+p1917
+(dp1918
+sVAlija Izetbegovi\u0107
+p1919
+(dp1920
+sVPeter Unger
+p1921
+(dp1922
+sVMelvin Fitting
+p1923
+(dp1924
+sVGene Callahan (economist)
+p1925
+(dp1926
+sVPhillip H. Wiebe
+p1927
+(dp1928
+sVIris Marion Young
+p1929
+(dp1930
+sVlist of ethics topics
+p1931
+(dp1932
+sVAmbrose
+p1933
+(dp1934
+sVHierocles of Alexandria
+p1935
+(dp1936
+sVJean Bodin
+p1937
+(dp1938
+sVRainer Forst
+p1939
+(dp1940
+sVAvicenna
+p1941
+(dp1942
+sVlist of philosophers
+p1943
+(dp1944
+sVConfucius
+p1945
+(dp1946
+sVConstantin R\u0103dulescu-Motru
+p1947
+(dp1948
+sVPaul Cohen (mathematician)
+p1949
+(dp1950
+sVYamazaki Ansai
+p1951
+(dp1952
+sVJohn Ruskin
+p1953
+(dp1954
+sVChristine Ladd-Franklin
+p1955
+(dp1956
+sVHenri Focillon
+p1957
+(dp1958
+sVPierre Teilhard de Chardin
+p1959
+(dp1960
+sVMartin Stokhof
+p1961
+(dp1962
+sVTakis Fotopoulos
+p1963
+(dp1964
+sVBertrand de Jouvenel
+p1965
+(dp1966
+sVRobert Paul Wolff
+p1967
+(dp1968
+sVAlexander Esenin-Volpin
+p1969
+(dp1970
+sVHugh MacColl
+p1971
+(dp1972
+sVIsaac Watts
+p1973
+(dp1974
+sVMario Kopi\u0107
+p1975
+(dp1976
+sVChrysippus
+p1977
+(dp1978
+sVHsun Tzu
+p1979
+(dp1980
+sVFriedrich Schleiermacher
+p1981
+(dp1982
+sVNick Bostrom
+p1983
+(dp1984
+sVJames Martineau
+p1985
+(dp1986
+sVGilles Deleuze
+p1987
+(dp1988
+sVNassim Nicholas Taleb
+p1989
+(dp1990
+sVDavid Kolb
+p1991
+(dp1992
+sVBryan Caplan
+p1993
+(dp1994
+sVErnest Sosa
+p1995
+(dp1996
+sVBrian Leftow
+p1997
+(dp1998
+sVAlfred Tarski
+p1999
+(dp2000
+sVDign\u0101ga
+p2001
+(dp2002
+sVAbul Kalam Azad
+p2003
+(dp2004
+sVValentin Feldman
+p2005
+(dp2006
+sVTom Beauchamp
+p2007
+(dp2008
+sVAntonio Negri
+p2009
+(dp2010
+sVFrancesco D'Andrea
+p2011
+(dp2012
+sVAbraham Fraenkel
+p2013
+(dp2014
+sVLeonard Borgzinner
+p2015
+(dp2016
+sVAlbert of Saxony (philosopher)
+p2017
+(dp2018
+sVList of political philosophers
+p2019
+(dp2020
+sVDavid L. Norton
+p2021
+(dp2022
+sVJennifer Lackey
+p2023
+(dp2024
+sVHarry Binswanger
+p2025
+(dp2026
+sVJean-Paul Sartre
+p2027
+(dp2028
+sVW.V.O. Quine
+p2029
+(dp2030
+sVPhilip Mazzei
+p2031
+(dp2032
+sVWillard Van Orman Quine
+p2033
+(dp2034
+sVEdward Said
+p2035
+(dp2036
+sVGeorg Brandes
+p2037
+(dp2038
+sVAlan Gewirth
+p2039
+(dp2040
+sVBenjamin Wiker
+p2041
+(dp2042
+sVLangdon Winner
+p2043
+(dp2044
+sVBob Meyer (logician)
+p2045
+(dp2046
+sVGeorg Mehlis
+p2047
+(dp2048
+sVPeter Goldie
+p2049
+(dp2050
+sVDavid Malet Armstrong
+p2051
+(dp2052
+sVAnne Conway (philosopher)
+p2053
+(dp2054
+sVLeo Harrington
+p2055
+(dp2056
+sVMuhammad Asad
+p2057
+(dp2058
+sVAyn Rand
+p2059
+(dp2060
+sVPeter Glassen
+p2061
+(dp2062
+sVRada Ivekovi\u0107
+p2063
+(dp2064
+sVRudolf Carnap
+p2065
+(dp2066
+sVTom Regan
+p2067
+(dp2068
+sVMurray Rothbard
+p2069
+(dp2070
+sVHarvey Friedman
+p2071
+(dp2072
+sVJohann Georg Walch
+p2073
+(dp2074
+sVJerzy \u0141o\u015b
+p2075
+(dp2076
+sVFrank Plumpton Ramsey
+p2077
+(dp2078
+sVPartha Dasgupta
+p2079
+(dp2080
+sVDaniel Wikler
+p2081
+(dp2082
+sVAlbert Camus
+p2083
+(dp2084
+sVMario Bunge
+p2085
+(dp2086
+sVMontesquieu
+p2087
+(dp2088
+sVAlan Carter (philosopher)
+p2089
+(dp2090
+sVAlexis de Tocqueville
+p2091
+(dp2092
+sVHartry Field
+p2093
+(dp2094
+sVH. B. Acton
+p2095
+(dp2096
+sVDavid Korten
+p2097
+(dp2098
+sVHannah Arendt
+p2099
+(dp2100
+sVDavid Schmidtz
+p2101
+(dp2102
+sVS. Barry Cooper
+p2103
+(dp2104
+sVSusan Haack
+p2105
+(dp2106
+sVDavid Hilbert
+p2107
+(dp2108
+sVHenry Sidgwick
+p2109
+(dp2110
+sVDimitris Dimitrakos
+p2111
+(dp2112
+sVJames Hinton
+p2113
+(dp2114
+sVKarl Wilhelm Ferdinand Solger
+p2115
+(dp2116
+sVIvan Sviták
+p2117
+(dp2118
+ssS'node_dict_factory'
+p2119
+c__builtin__
+dict
+p2120
+sS'edge_attr_dict_factory'
+p2121
+g2120
+sS'succ'
+p2122
+(dp2123
+g9
+(dp2124
+sg11
+(dp2125
+sg13
+(dp2126
+sg15
+(dp2127
+sg17
+(dp2128
+sg19
+(dp2129
+sg21
+(dp2130
+sg23
+(dp2131
+sg25
+(dp2132
+sg27
+(dp2133
+sg29
+(dp2134
+sg31
+(dp2135
+g1887
+(dp2136
+sg393
+(dp2137
+ssg33
+(dp2138
+sg35
+(dp2139
+VAvicenna
+p2140
+(dp2141
+ssg37
+(dp2142
+sg39
+(dp2143
+sg41
+(dp2144
+sg43
+(dp2145
+sg45
+(dp2146
+sg47
+(dp2147
+sg49
+(dp2148
+sg51
+(dp2149
+sg53
+(dp2150
+g1683
+(dp2151
+sg2059
+(dp2152
+sg1267
+(dp2153
+ssg55
+(dp2154
+sg57
+(dp2155
+sg59
+(dp2156
+sg61
+(dp2157
+sg63
+(dp2158
+g1573
+(dp2159
+sg1833
+(dp2160
+sg1723
+(dp2161
+ssg65
+(dp2162
+sg67
+(dp2163
+sg69
+(dp2164
+sg71
+(dp2165
+sg73
+(dp2166
+g1823
+(dp2167
+ssg75
+(dp2168
+sg77
+(dp2169
+sg79
+(dp2170
+sg81
+(dp2171
+sg83
+(dp2172
+sg85
+(dp2173
+sg87
+(dp2174
+sg89
+(dp2175
+g1767
+(dp2176
+ssg91
+(dp2177
+sg93
+(dp2178
+sg95
+(dp2179
+g141
+(dp2180
+sg313
+(dp2181
+sg447
+(dp2182
+ssg97
+(dp2183
+sg99
+(dp2184
+sg101
+(dp2185
+sg103
+(dp2186
+sg105
+(dp2187
+sg107
+(dp2188
+sg109
+(dp2189
+sg111
+(dp2190
+sg113
+(dp2191
+sg115
+(dp2192
+sg117
+(dp2193
+sg119
+(dp2194
+g1799
+(dp2195
+sg239
+(dp2196
+sVC. D. Broad
+p2197
+(dp2198
+sg899
+(dp2199
+sg101
+(dp2200
+ssg121
+(dp2201
+sg123
+(dp2202
+VJacques Derrida
+p2203
+(dp2204
+sVCicero
+p2205
+(dp2206
+sVAristotle
+p2207
+(dp2208
+ssg125
+(dp2209
+sg127
+(dp2210
+sg129
+(dp2211
+sg131
+(dp2212
+sg133
+(dp2213
+sg135
+(dp2214
+sg137
+(dp2215
+sg139
+(dp2216
+sg141
+(dp2217
+sg143
+(dp2218
+sg145
+(dp2219
+sg147
+(dp2220
+g919
+(dp2221
+ssg149
+(dp2222
+sg151
+(dp2223
+g2027
+(dp2224
+ssg153
+(dp2225
+sg155
+(dp2226
+sg157
+(dp2227
+sg159
+(dp2228
+VMax Horkheimer
+p2229
+(dp2230
+sg1297
+(dp2231
+ssg161
+(dp2232
+sg163
+(dp2233
+sg165
+(dp2234
+sg167
+(dp2235
+g989
+(dp2236
+ssg169
+(dp2237
+sg171
+(dp2238
+VTheodor W. Adorno
+p2239
+(dp2240
+ssg173
+(dp2241
+VIsaiah Berlin
+p2242
+(dp2243
+ssg175
+(dp2244
+sg177
+(dp2245
+sg179
+(dp2246
+sg181
+(dp2247
+sg183
+(dp2248
+sg185
+(dp2249
+sg187
+(dp2250
+g937
+(dp2251
+ssg189
+(dp2252
+sg191
+(dp2253
+sg193
+(dp2254
+sg195
+(dp2255
+sg197
+(dp2256
+VAristotle
+p2257
+(dp2258
+sg1633
+(dp2259
+ssg199
+(dp2260
+VJacques Derrida
+p2261
+(dp2262
+ssg201
+(dp2263
+sg203
+(dp2264
+sg205
+(dp2265
+sg207
+(dp2266
+sg209
+(dp2267
+sg211
+(dp2268
+sg213
+(dp2269
+sg215
+(dp2270
+sg217
+(dp2271
+sg219
+(dp2272
+sg221
+(dp2273
+sg223
+(dp2274
+g2009
+(dp2275
+sVRoger Scruton
+p2276
+(dp2277
+sg1987
+(dp2278
+ssg225
+(dp2279
+sg227
+(dp2280
+sg229
+(dp2281
+sg231
+(dp2282
+sg233
+(dp2283
+sg235
+(dp2284
+sg237
+(dp2285
+sg239
+(dp2286
+sg241
+(dp2287
+sg243
+(dp2288
+sg245
+(dp2289
+sg247
+(dp2290
+VPaul Benacerraf
+p2291
+(dp2292
+ssg249
+(dp2293
+sg251
+(dp2294
+sg253
+(dp2295
+VJudith Jarvis Thomson
+p2296
+(dp2297
+sVNoam Chomsky
+p2298
+(dp2299
+ssg255
+(dp2300
+g2109
+(dp2301
+sVHenry George
+p2302
+(dp2303
+sVWilliam James
+p2304
+(dp2305
+ssg257
+(dp2306
+sg259
+(dp2307
+sg261
+(dp2308
+g1341
+(dp2309
+sg523
+(dp2310
+sg1617
+(dp2311
+ssg263
+(dp2312
+sg265
+(dp2313
+sg267
+(dp2314
+sg269
+(dp2315
+sg271
+(dp2316
+sg273
+(dp2317
+sg275
+(dp2318
+sg277
+(dp2319
+sg279
+(dp2320
+sg281
+(dp2321
+VJacques Derrida
+p2322
+(dp2323
+sg1357
+(dp2324
+sVMaurice Blanchot
+p2325
+(dp2326
+sVRoland Barthes
+p2327
+(dp2328
+ssg283
+(dp2329
+sg285
+(dp2330
+sg287
+(dp2331
+sg289
+(dp2332
+sg291
+(dp2333
+sg293
+(dp2334
+sg295
+(dp2335
+sg297
+(dp2336
+sg299
+(dp2337
+sg301
+(dp2338
+sg303
+(dp2339
+sg305
+(dp2340
+sg307
+(dp2341
+g923
+(dp2342
+ssg309
+(dp2343
+sg311
+(dp2344
+sg313
+(dp2345
+g1877
+(dp2346
+sg909
+(dp2347
+sVPeter Singer
+p2348
+(dp2349
+sVImmanuel Kant
+p2350
+(dp2351
+sg681
+(dp2352
+ssg315
+(dp2353
+sg317
+(dp2354
+sg319
+(dp2355
+sg321
+(dp2356
+sg323
+(dp2357
+sg325
+(dp2358
+sg327
+(dp2359
+VAlain Badiou
+p2360
+(dp2361
+sg1103
+(dp2362
+sg1379
+(dp2363
+sg595
+(dp2364
+ssg329
+(dp2365
+g843
+(dp2366
+sg857
+(dp2367
+ssg331
+(dp2368
+sg333
+(dp2369
+sg335
+(dp2370
+sg337
+(dp2371
+sg339
+(dp2372
+sg341
+(dp2373
+sg343
+(dp2374
+sg345
+(dp2375
+sg347
+(dp2376
+sg349
+(dp2377
+g1577
+(dp2378
+sVAdam Smith
+p2379
+(dp2380
+sg1169
+(dp2381
+ssg351
+(dp2382
+sg353
+(dp2383
+sg355
+(dp2384
+sg357
+(dp2385
+sg359
+(dp2386
+g1703
+(dp2387
+ssg361
+(dp2388
+g279
+(dp2389
+ssg363
+(dp2390
+sg365
+(dp2391
+sg367
+(dp2392
+sg369
+(dp2393
+sg371
+(dp2394
+sg373
+(dp2395
+sg375
+(dp2396
+sg377
+(dp2397
+g949
+(dp2398
+sg1777
+(dp2399
+sg1861
+(dp2400
+sg1067
+(dp2401
+sg1741
+(dp2402
+ssg379
+(dp2403
+sg381
+(dp2404
+sg383
+(dp2405
+sg385
+(dp2406
+sg387
+(dp2407
+sg389
+(dp2408
+g1199
+(dp2409
+ssg391
+(dp2410
+sg393
+(dp2411
+VMichel Foucault
+p2412
+(dp2413
+sVJacques Derrida
+p2414
+(dp2415
+sVParmenides
+p2416
+(dp2417
+sVBaruch Spinoza
+p2418
+(dp2419
+sg881
+(dp2420
+sVGeorges Bataille
+p2421
+(dp2422
+sVAyn Rand
+p2423
+(dp2424
+sVJean-Paul Sartre
+p2425
+(dp2426
+sg1415
+(dp2427
+sVArthur Schopenhauer
+p2428
+(dp2429
+sVBernard Williams
+p2430
+(dp2431
+sg921
+(dp2432
+sg1759
+(dp2433
+sg1043
+(dp2434
+sg2083
+(dp2435
+sVGilles Deleuze
+p2436
+(dp2437
+sg1975
+(dp2438
+sg1253
+(dp2439
+ssg395
+(dp2440
+VArthur Prior
+p2441
+(dp2442
+ssg397
+(dp2443
+sg399
+(dp2444
+sg401
+(dp2445
+sg403
+(dp2446
+sg405
+(dp2447
+sg407
+(dp2448
+sg409
+(dp2449
+sg411
+(dp2450
+sg413
+(dp2451
+sg415
+(dp2452
+sg417
+(dp2453
+VSolomon Feferman
+p2454
+(dp2455
+sg1349
+(dp2456
+ssg419
+(dp2457
+sg421
+(dp2458
+sg423
+(dp2459
+sg425
+(dp2460
+sg427
+(dp2461
+sg429
+(dp2462
+VPeter Geach
+p2463
+(dp2464
+sg1149
+(dp2465
+ssg431
+(dp2466
+sg433
+(dp2467
+sg435
+(dp2468
+sg437
+(dp2469
+sg439
+(dp2470
+VBertrand Russell
+p2471
+(dp2472
+sVHao Wang (academic)
+p2473
+(dp2474
+ssg441
+(dp2475
+sg443
+(dp2476
+sg445
+(dp2477
+sg447
+(dp2478
+sg449
+(dp2479
+sg451
+(dp2480
+sg453
+(dp2481
+sg455
+(dp2482
+sg457
+(dp2483
+sg459
+(dp2484
+VRussell Kirk
+p2485
+(dp2486
+ssg461
+(dp2487
+sg463
+(dp2488
+sg465
+(dp2489
+sg467
+(dp2490
+sg469
+(dp2491
+sg471
+(dp2492
+VPeter Singer
+p2493
+(dp2494
+sg1701
+(dp2495
+ssg473
+(dp2496
+sg475
+(dp2497
+sg477
+(dp2498
+sg479
+(dp2499
+VPaul Janet
+p2500
+(dp2501
+ssg481
+(dp2502
+sg483
+(dp2503
+sg485
+(dp2504
+sg487
+(dp2505
+g709
+(dp2506
+sg617
+(dp2507
+sg569
+(dp2508
+sg1945
+(dp2509
+sVOgy\u016b Sorai
+p2510
+(dp2511
+sg1691
+(dp2512
+sVHayashi Razan
+p2513
+(dp2514
+sg849
+(dp2515
+sVYi I
+p2516
+(dp2517
+ssg489
+(dp2518
+sg491
+(dp2519
+sg493
+(dp2520
+sg495
+(dp2521
+sg497
+(dp2522
+sg499
+(dp2523
+VAntonio Negri
+p2524
+(dp2525
+sVGilles Deleuze
+p2526
+(dp2527
+ssg501
+(dp2528
+sg503
+(dp2529
+sg505
+(dp2530
+g395
+(dp2531
+ssg507
+(dp2532
+sg509
+(dp2533
+VAxel Honneth
+p2534
+(dp2535
+sg1273
+(dp2536
+sg1473
+(dp2537
+sg1963
+(dp2538
+sg1241
+(dp2539
+ssg511
+(dp2540
+sg513
+(dp2541
+sg515
+(dp2542
+g2107
+(dp2543
+ssg517
+(dp2544
+g2007
+(dp2545
+ssg519
+(dp2546
+sg521
+(dp2547
+sg523
+(dp2548
+VRoger Scruton
+p2549
+(dp2550
+sVMartin Heidegger
+p2551
+(dp2552
+sVHouston Stewart Chamberlain
+p2553
+(dp2554
+sVC. D. Broad
+p2555
+(dp2556
+sVDerek Parfit
+p2557
+(dp2558
+sg1807
+(dp2559
+sVJohn McDowell
+p2560
+(dp2561
+sVGilles Deleuze
+p2562
+(dp2563
+ssg525
+(dp2564
+sg527
+(dp2565
+sg529
+(dp2566
+sg531
+(dp2567
+sg533
+(dp2568
+sg535
+(dp2569
+sg537
+(dp2570
+sg539
+(dp2571
+sg541
+(dp2572
+VJacques Lacan
+p2573
+(dp2574
+ssg543
+(dp2575
+sg545
+(dp2576
+g1145
+(dp2577
+ssg547
+(dp2578
+sg549
+(dp2579
+sg551
+(dp2580
+sg553
+(dp2581
+sg555
+(dp2582
+g831
+(dp2583
+ssg557
+(dp2584
+sg559
+(dp2585
+sg561
+(dp2586
+sg563
+(dp2587
+sg565
+(dp2588
+sg567
+(dp2589
+sg569
+(dp2590
+sg571
+(dp2591
+sg573
+(dp2592
+sg575
+(dp2593
+sg577
+(dp2594
+sg579
+(dp2595
+sg581
+(dp2596
+sg583
+(dp2597
+sg585
+(dp2598
+VErnst von Glasersfeld
+p2599
+(dp2600
+sVEdgar Morin
+p2601
+(dp2602
+ssg587
+(dp2603
+sg589
+(dp2604
+sg591
+(dp2605
+g1869
+(dp2606
+ssg593
+(dp2607
+sg595
+(dp2608
+sg597
+(dp2609
+g1409
+(dp2610
+ssg599
+(dp2611
+sg601
+(dp2612
+sg603
+(dp2613
+sg605
+(dp2614
+sg607
+(dp2615
+sg609
+(dp2616
+sg611
+(dp2617
+sg613
+(dp2618
+sg615
+(dp2619
+sg617
+(dp2620
+g563
+(dp2621
+sg1291
+(dp2622
+ssg619
+(dp2623
+sg621
+(dp2624
+sg623
+(dp2625
+sg625
+(dp2626
+VJon Barwise
+p2627
+(dp2628
+ssg627
+(dp2629
+sg629
+(dp2630
+sg631
+(dp2631
+sg633
+(dp2632
+sg635
+(dp2633
+VCharles Sanders Peirce
+p2634
+(dp2635
+sVJaakko Hintikka
+p2636
+(dp2637
+sVAlfred Tarski
+p2638
+(dp2639
+sVAlan Turing
+p2640
+(dp2641
+sVGottlob Frege
+p2642
+(dp2643
+sVDana Scott
+p2644
+(dp2645
+sg2065
+(dp2646
+sVBertrand Russell
+p2647
+(dp2648
+sVJohn von Neumann
+p2649
+(dp2650
+sVDag Prawitz
+p2651
+(dp2652
+ssg637
+(dp2653
+g1893
+(dp2654
+ssg639
+(dp2655
+sg641
+(dp2656
+sg643
+(dp2657
+sg645
+(dp2658
+sg647
+(dp2659
+sg649
+(dp2660
+sg651
+(dp2661
+VMax Weber
+p2662
+(dp2663
+sg1159
+(dp2664
+sVRonald Dworkin
+p2665
+(dp2666
+sg851
+(dp2667
+ssg653
+(dp2668
+sg655
+(dp2669
+sg657
+(dp2670
+sg659
+(dp2671
+sg661
+(dp2672
+sg663
+(dp2673
+sg665
+(dp2674
+VAlain Badiou
+p2675
+(dp2676
+sVCornelius Castoriadis
+p2677
+(dp2678
+sVJürgen Habermas
+p2679
+(dp2680
+sVJean-François Lyotard
+p2681
+(dp2682
+sg1055
+(dp2683
+sg1601
+(dp2684
+sVGeorges Bataille
+p2685
+(dp2686
+sVEnrique Dussel
+p2687
+(dp2688
+sVFriedrich Engels
+p2689
+(dp2690
+sg1205
+(dp2691
+sg653
+(dp2692
+sg1757
+(dp2693
+sVAntonio Negri
+p2694
+(dp2695
+sVClaude Lévi-Strauss
+p2696
+(dp2697
+sg811
+(dp2698
+sVStephen Bronner
+p2699
+(dp2700
+sVMichel Foucault
+p2701
+(dp2702
+sVAxel Honneth
+p2703
+(dp2704
+sVPierre Bourdieu
+p2705
+(dp2706
+sg867
+(dp2707
+sVGiorgio Agamben
+p2708
+(dp2709
+sVWalter Benjamin
+p2710
+(dp2711
+sg2035
+(dp2712
+sg1383
+(dp2713
+sg1037
+(dp2714
+sg1655
+(dp2715
+sVErich Fromm
+p2716
+(dp2717
+sVRoland Barthes
+p2718
+(dp2719
+sVKarl-Otto Apel
+p2720
+(dp2721
+sg953
+(dp2722
+sVKarl Marx
+p2723
+(dp2724
+sVMax Horkheimer
+p2725
+(dp2726
+sVFélix Guattari
+p2727
+(dp2728
+sg1021
+(dp2729
+sg1711
+(dp2730
+sVLouis Althusser
+p2731
+(dp2732
+sg1443
+(dp2733
+sg2099
+(dp2734
+sVSimone Weil
+p2735
+(dp2736
+sg171
+(dp2737
+sVJacques Derrida
+p2738
+(dp2739
+sg1721
+(dp2740
+sVRaymond Geuss
+p2741
+(dp2742
+sVGilles Deleuze
+p2743
+(dp2744
+ssg667
+(dp2745
+sg669
+(dp2746
+sg671
+(dp2747
+sg673
+(dp2748
+sg675
+(dp2749
+sg677
+(dp2750
+VStephen Bronner
+p2751
+(dp2752
+ssg679
+(dp2753
+sg681
+(dp2754
+g1805
+(dp2755
+ssg683
+(dp2756
+sg685
+(dp2757
+g247
+(dp2758
+sg1697
+(dp2759
+ssg687
+(dp2760
+sg689
+(dp2761
+g1479
+(dp2762
+sg833
+(dp2763
+ssg691
+(dp2764
+sg693
+(dp2765
+g971
+(dp2766
+sVJacques Derrida
+p2767
+(dp2768
+ssg695
+(dp2769
+VCarlo Lottieri
+p2770
+(dp2771
+ssg697
+(dp2772
+sg699
+(dp2773
+sg701
+(dp2774
+sg703
+(dp2775
+sg705
+(dp2776
+sg707
+(dp2777
+sg709
+(dp2778
+sg711
+(dp2779
+sg713
+(dp2780
+sg715
+(dp2781
+sg717
+(dp2782
+sg719
+(dp2783
+sg721
+(dp2784
+sg723
+(dp2785
+sg725
+(dp2786
+sg727
+(dp2787
+sg729
+(dp2788
+sg731
+(dp2789
+sg733
+(dp2790
+sg735
+(dp2791
+sg737
+(dp2792
+sg739
+(dp2793
+sg741
+(dp2794
+sg743
+(dp2795
+sg745
+(dp2796
+sg747
+(dp2797
+sg749
+(dp2798
+sg751
+(dp2799
+sg753
+(dp2800
+sg755
+(dp2801
+sg757
+(dp2802
+sg759
+(dp2803
+VPlato
+p2804
+(dp2805
+sVAristotle
+p2806
+(dp2807
+ssg761
+(dp2808
+sg763
+(dp2809
+sg765
+(dp2810
+sg767
+(dp2811
+sg769
+(dp2812
+sg771
+(dp2813
+sg773
+(dp2814
+sg775
+(dp2815
+sg777
+(dp2816
+g905
+(dp2817
+ssg779
+(dp2818
+VAristotle
+p2819
+(dp2820
+ssg781
+(dp2821
+sg783
+(dp2822
+sg785
+(dp2823
+sg787
+(dp2824
+sg789
+(dp2825
+sg791
+(dp2826
+sg793
+(dp2827
+sg795
+(dp2828
+sg797
+(dp2829
+sg799
+(dp2830
+sg801
+(dp2831
+sg803
+(dp2832
+sg805
+(dp2833
+VMurray Rothbard
+p2834
+(dp2835
+ssg807
+(dp2836
+sg809
+(dp2837
+sg811
+(dp2838
+sg813
+(dp2839
+VHenry David Thoreau
+p2840
+(dp2841
+sg1219
+(dp2842
+ssg815
+(dp2843
+VBertrand Russell
+p2844
+(dp2845
+sVPaul Bernays
+p2846
+(dp2847
+ssg817
+(dp2848
+sg819
+(dp2849
+g1695
+(dp2850
+sVXenocrates
+p2851
+(dp2852
+sVPorphyry (philosopher)
+p2853
+(dp2854
+sVPlato
+p2855
+(dp2856
+sVAristotle
+p2857
+(dp2858
+sg1935
+(dp2859
+sg913
+(dp2860
+ssg821
+(dp2861
+sg823
+(dp2862
+VArthur Danto
+p2863
+(dp2864
+ssg825
+(dp2865
+sg827
+(dp2866
+sg829
+(dp2867
+sg831
+(dp2868
+g47
+(dp2869
+ssg833
+(dp2870
+VWilliam of Ockham
+p2871
+(dp2872
+sVGiovanni Girolamo Saccheri
+p2873
+(dp2874
+ssg835
+(dp2875
+sg837
+(dp2876
+sg839
+(dp2877
+g1225
+(dp2878
+ssg841
+(dp2879
+sg843
+(dp2880
+sg845
+(dp2881
+sg847
+(dp2882
+sg849
+(dp2883
+sg851
+(dp2884
+sg853
+(dp2885
+sg855
+(dp2886
+sg857
+(dp2887
+sg859
+(dp2888
+VJacques Derrida
+p2889
+(dp2890
+ssg861
+(dp2891
+sg863
+(dp2892
+sg865
+(dp2893
+sg867
+(dp2894
+sg869
+(dp2895
+sg871
+(dp2896
+sg873
+(dp2897
+sg875
+(dp2898
+VThomas Aquinas
+p2899
+(dp2900
+sg1735
+(dp2901
+sg1885
+(dp2902
+ssg877
+(dp2903
+sg879
+(dp2904
+sg881
+(dp2905
+VJacques Derrida
+p2906
+(dp2907
+sVPierre Bourdieu
+p2908
+(dp2909
+sg1313
+(dp2910
+sVJean-François Lyotard
+p2911
+(dp2912
+ssg883
+(dp2913
+VRuth Benedict
+p2914
+(dp2915
+ssg885
+(dp2916
+sg887
+(dp2917
+VJohn Rawls
+p2918
+(dp2919
+sVRichard Rorty
+p2920
+(dp2921
+sg2101
+(dp2922
+ssg889
+(dp2923
+sg891
+(dp2924
+sg893
+(dp2925
+sg895
+(dp2926
+sg897
+(dp2927
+sg899
+(dp2928
+VA. J. Ayer
+p2929
+(dp2930
+sg1385
+(dp2931
+sVAlfred North Whitehead
+p2932
+(dp2933
+ssg901
+(dp2934
+sg903
+(dp2935
+sg905
+(dp2936
+sg907
+(dp2937
+sg909
+(dp2938
+VSaul Kripke
+p2939
+(dp2940
+sg1075
+(dp2941
+sg145
+(dp2942
+sVAlfred North Whitehead
+p2943
+(dp2944
+sg663
+(dp2945
+sVBertrand Russell
+p2946
+(dp2947
+sVSøren Kierkegaard
+p2948
+(dp2949
+sVAlice Crary
+p2950
+(dp2951
+ssg911
+(dp2952
+sg913
+(dp2953
+sg915
+(dp2954
+sg917
+(dp2955
+sg919
+(dp2956
+VGiorgio Agamben
+p2957
+(dp2958
+sg959
+(dp2959
+sVAdrian Johnston (philosopher)
+p2960
+(dp2961
+sVSlavoj \u017di\u017eek
+p2962
+(dp2963
+ssg921
+(dp2964
+VDemocritus
+p2965
+(dp2966
+ssg923
+(dp2967
+VMurray Rothbard
+p2968
+(dp2969
+ssg925
+(dp2970
+sg927
+(dp2971
+sg929
+(dp2972
+sg931
+(dp2973
+sg933
+(dp2974
+sg935
+(dp2975
+g1465
+(dp2976
+ssg937
+(dp2977
+sg939
+(dp2978
+g1647
+(dp2979
+ssg941
+(dp2980
+sg943
+(dp2981
+sg945
+(dp2982
+sg947
+(dp2983
+sg949
+(dp2984
+sg951
+(dp2985
+sg953
+(dp2986
+VFred Poché
+p2987
+(dp2988
+sVSimon Critchley
+p2989
+(dp2990
+sVJacques Derrida
+p2991
+(dp2992
+sVMartin Buber
+p2993
+(dp2994
+sg2005
+(dp2995
+sVMario Kopi\u0107
+p2996
+(dp2997
+ssg955
+(dp2998
+sg957
+(dp2999
+sg959
+(dp3000
+sg961
+(dp3001
+sg963
+(dp3002
+sg965
+(dp3003
+sg967
+(dp3004
+sg969
+(dp3005
+VBertrand Russell
+p3006
+(dp3007
+ssg971
+(dp3008
+VRoland Barthes
+p3009
+(dp3010
+sVGilles Deleuze
+p3011
+(dp3012
+sVMario Kopi\u0107
+p3013
+(dp3014
+ssg973
+(dp3015
+sg975
+(dp3016
+sg977
+(dp3017
+sg979
+(dp3018
+sg981
+(dp3019
+sg983
+(dp3020
+sg985
+(dp3021
+sg987
+(dp3022
+sg989
+(dp3023
+sg991
+(dp3024
+sg993
+(dp3025
+VA. J. Ayer
+p3026
+(dp3027
+sVKarl Popper
+p3028
+(dp3029
+ssg995
+(dp3030
+sg997
+(dp3031
+g1827
+(dp3032
+ssg999
+(dp3033
+sg1001
+(dp3034
+sg1003
+(dp3035
+sg1005
+(dp3036
+sg1007
+(dp3037
+sg1009
+(dp3038
+sg1011
+(dp3039
+sg1013
+(dp3040
+sg1015
+(dp3041
+sg1017
+(dp3042
+sg1019
+(dp3043
+sg1021
+(dp3044
+sg1023
+(dp3045
+sg1025
+(dp3046
+sg1027
+(dp3047
+sg1029
+(dp3048
+sg1031
+(dp3049
+VMichael O. Rabin
+p3050
+(dp3051
+sVSolomon Feferman
+p3052
+(dp3053
+sVJack Copeland
+p3054
+(dp3055
+ssg1033
+(dp3056
+sg1035
+(dp3057
+sg1037
+(dp3058
+VAlain Badiou
+p3059
+(dp3060
+sVAdrian Johnston (philosopher)
+p3061
+(dp3062
+sVSlavoj \u017di\u017eek
+p3063
+(dp3064
+ssg1039
+(dp3065
+sg1041
+(dp3066
+sg1043
+(dp3067
+VJürgen Habermas
+p3068
+(dp3069
+ssg1045
+(dp3070
+sg1047
+(dp3071
+sg1049
+(dp3072
+sg1051
+(dp3073
+sg1053
+(dp3074
+sg1055
+(dp3075
+sg1057
+(dp3076
+sg1059
+(dp3077
+sg1061
+(dp3078
+sg1063
+(dp3079
+g1965
+(dp3080
+sg1295
+(dp3081
+sVEric Voegelin
+p3082
+(dp3083
+sg1327
+(dp3084
+sg1403
+(dp3085
+sVVilfredo Pareto
+p3086
+(dp3087
+sg1645
+(dp3088
+sVKarl Popper
+p3089
+(dp3090
+sVAntonio Negri
+p3091
+(dp3092
+sVB. R. Ambedkar
+p3093
+(dp3094
+sg1025
+(dp3095
+ssg1065
+(dp3096
+sg1067
+(dp3097
+sg1069
+(dp3098
+sg1071
+(dp3099
+VAntonio Negri
+p3100
+(dp3101
+sg1177
+(dp3102
+ssg1073
+(dp3103
+VIsaiah Berlin
+p3104
+(dp3105
+ssg1075
+(dp3106
+g1667
+(dp3107
+ssg1077
+(dp3108
+VJean-François Lyotard
+p3109
+(dp3110
+ssg1079
+(dp3111
+sg1081
+(dp3112
+sg1083
+(dp3113
+sg1085
+(dp3114
+sg1087
+(dp3115
+sg1089
+(dp3116
+sg1091
+(dp3117
+sg1093
+(dp3118
+sg1095
+(dp3119
+sg1097
+(dp3120
+sg1099
+(dp3121
+sg1101
+(dp3122
+sg1103
+(dp3123
+VAlasdair MacIntyre
+p3124
+(dp3125
+ssg1105
+(dp3126
+sg1107
+(dp3127
+sg1109
+(dp3128
+sg1111
+(dp3129
+VKarl Marx
+p3130
+(dp3131
+ssg1113
+(dp3132
+VBertrand Russell
+p3133
+(dp3134
+ssg1115
+(dp3135
+sg1117
+(dp3136
+sg1119
+(dp3137
+sg1121
+(dp3138
+g1995
+(dp3139
+sg1015
+(dp3140
+ssg1123
+(dp3141
+sg1125
+(dp3142
+g1197
+(dp3143
+sVKazimierz Twardowski
+p3144
+(dp3145
+ssg1127
+(dp3146
+sg1129
+(dp3147
+sg1131
+(dp3148
+sg1133
+(dp3149
+VHeinrich Gustav Hotho
+p3150
+(dp3151
+ssg1135
+(dp3152
+sg1137
+(dp3153
+sg1139
+(dp3154
+sg1141
+(dp3155
+VGeorge Berkeley
+p3156
+(dp3157
+ssg1143
+(dp3158
+sg1145
+(dp3159
+VYoung Hegelians
+p3160
+(dp3161
+sVIsaiah Berlin
+p3162
+(dp3163
+sVGeorg Wilhelm Friedrich Hegel
+p3164
+(dp3165
+sVFriedrich Engels
+p3166
+(dp3167
+sg1453
+(dp3168
+sg2069
+(dp3169
+sVColin Wilson
+p3170
+(dp3171
+ssg1147
+(dp3172
+sg1149
+(dp3173
+VJudith Jarvis Thomson
+p3174
+(dp3175
+sVRosalind Hursthouse
+p3176
+(dp3177
+sVIris Murdoch
+p3178
+(dp3179
+ssg1151
+(dp3180
+sg1153
+(dp3181
+sg1155
+(dp3182
+sg1157
+(dp3183
+VAlasdair MacIntyre
+p3184
+(dp3185
+ssg1159
+(dp3186
+VH. L. A. Hart
+p3187
+(dp3188
+ssg1161
+(dp3189
+sg1163
+(dp3190
+sg1165
+(dp3191
+sg1167
+(dp3192
+g975
+(dp3193
+ssg1169
+(dp3194
+VGerald Cohen
+p3195
+(dp3196
+sVJames Tully (philosopher)
+p3197
+(dp3198
+ssg1171
+(dp3199
+sg1173
+(dp3200
+sg1175
+(dp3201
+sg1177
+(dp3202
+g1717
+(dp3203
+sVKarl Marx
+p3204
+(dp3205
+ssg1179
+(dp3206
+sg1181
+(dp3207
+sg1183
+(dp3208
+sg1185
+(dp3209
+sg1187
+(dp3210
+sg1189
+(dp3211
+sg1191
+(dp3212
+sg1193
+(dp3213
+sg1195
+(dp3214
+sg1197
+(dp3215
+sg1199
+(dp3216
+VBertrand Russell
+p3217
+(dp3218
+sg2033
+(dp3219
+ssg1201
+(dp3220
+sg1203
+(dp3221
+sg1205
+(dp3222
+VMichel Foucault
+p3223
+(dp3224
+ssg1207
+(dp3225
+sg1209
+(dp3226
+sg1211
+(dp3227
+sg1213
+(dp3228
+g459
+(dp3229
+sVTheodor W. Adorno
+p3230
+(dp3231
+sVAlexander Gottlieb Baumgarten
+p3232
+(dp3233
+ssg1215
+(dp3234
+sg1217
+(dp3235
+sg1219
+(dp3236
+sg1221
+(dp3237
+sg1223
+(dp3238
+sg1225
+(dp3239
+sg1227
+(dp3240
+sg1229
+(dp3241
+sg1231
+(dp3242
+sg1233
+(dp3243
+sg1235
+(dp3244
+sg1237
+(dp3245
+sg1239
+(dp3246
+sg1241
+(dp3247
+sg1243
+(dp3248
+sg1245
+(dp3249
+sg1247
+(dp3250
+VAlfred Tarski
+p3251
+(dp3252
+sVKurt Gödel
+p3253
+(dp3254
+ssg1249
+(dp3255
+VHilary Putnam
+p3256
+(dp3257
+sVClarence Irving Lewis
+p3258
+(dp3259
+ssg1251
+(dp3260
+sg1253
+(dp3261
+sg1255
+(dp3262
+VEmma Goldman
+p3263
+(dp3264
+ssg1257
+(dp3265
+sg1259
+(dp3266
+sg1261
+(dp3267
+sg1263
+(dp3268
+sg1265
+(dp3269
+sg1267
+(dp3270
+VJacques Derrida
+p3271
+(dp3272
+ssg1269
+(dp3273
+sg1271
+(dp3274
+sg1273
+(dp3275
+VMichel Foucault
+p3276
+(dp3277
+sVMartin Heidegger
+p3278
+(dp3279
+sVJürgen Habermas
+p3280
+(dp3281
+sVJohn Rawls
+p3282
+(dp3283
+sVJohn McDowell
+p3284
+(dp3285
+sVJacques Derrida
+p3286
+(dp3287
+sVRaymond Geuss
+p3288
+(dp3289
+sVFriedrich Nietzsche
+p3290
+(dp3291
+sVCornel West
+p3292
+(dp3293
+sVWillard Van Orman Quine
+p3294
+(dp3295
+sVJohn Dewey
+p3296
+(dp3297
+sVLudwig Wittgenstein
+p3298
+(dp3299
+ssg1275
+(dp3300
+sg1277
+(dp3301
+sg1279
+(dp3302
+sg1281
+(dp3303
+sg1283
+(dp3304
+sg1285
+(dp3305
+sg1287
+(dp3306
+sg1289
+(dp3307
+sg1291
+(dp3308
+g761
+(dp3309
+sVKarl Popper
+p3310
+(dp3311
+sVFrancis Hutcheson (philosopher)
+p3312
+(dp3313
+sVTom Beauchamp
+p3314
+(dp3315
+sVJ. L. Mackie
+p3316
+(dp3317
+sVGeorge Berkeley
+p3318
+(dp3319
+sg1419
+(dp3320
+sVCicero
+p3321
+(dp3322
+sVJohn Stuart Mill
+p3323
+(dp3324
+sVAdam Smith
+p3325
+(dp3326
+sVJohn Locke
+p3327
+(dp3328
+sg1915
+(dp3329
+sVImmanuel Kant
+p3330
+(dp3331
+sVNicolas Malebranche
+p3332
+(dp3333
+sVWilliam James
+p3334
+(dp3335
+sg1709
+(dp3336
+sVMencius
+p3337
+(dp3338
+sVArthur Schopenhauer
+p3339
+(dp3340
+sg1905
+(dp3341
+sVGilles Deleuze
+p3342
+(dp3343
+sVBertrand Russell
+p3344
+(dp3345
+ssg1293
+(dp3346
+sg1295
+(dp3347
+sg1297
+(dp3348
+sg1299
+(dp3349
+sg1301
+(dp3350
+sg1303
+(dp3351
+sg1305
+(dp3352
+VPlato
+p3353
+(dp3354
+ssg1307
+(dp3355
+sg1309
+(dp3356
+VThomas Reid
+p3357
+(dp3358
+ssg1311
+(dp3359
+sg1313
+(dp3360
+sg1315
+(dp3361
+sg1317
+(dp3362
+g1677
+(dp3363
+sVJürgen Habermas
+p3364
+(dp3365
+ssg1319
+(dp3366
+VRobert Nozick
+p3367
+(dp3368
+ssg1321
+(dp3369
+sg1323
+(dp3370
+sg1325
+(dp3371
+sg1327
+(dp3372
+sg1329
+(dp3373
+sg1331
+(dp3374
+sg1333
+(dp3375
+sg1335
+(dp3376
+sg1337
+(dp3377
+VLeo Harrington
+p3378
+(dp3379
+ssg1339
+(dp3380
+sg1341
+(dp3381
+sg1343
+(dp3382
+sg1345
+(dp3383
+sg1347
+(dp3384
+VBernard Williams
+p3385
+(dp3386
+ssg1349
+(dp3387
+sg1351
+(dp3388
+sg1353
+(dp3389
+sg1355
+(dp3390
+sg1357
+(dp3391
+VAlasdair MacIntyre
+p3392
+(dp3393
+sVGilles Deleuze
+p3394
+(dp3395
+ssg1359
+(dp3396
+g1747
+(dp3397
+ssg1361
+(dp3398
+sg1363
+(dp3399
+VMartin Davis
+p3400
+(dp3401
+sVStewart Shapiro
+p3402
+(dp3403
+sVClarence Irving Lewis
+p3404
+(dp3405
+sVHilary Putnam
+p3406
+(dp3407
+ssg1365
+(dp3408
+g1769
+(dp3409
+ssg1367
+(dp3410
+sg1369
+(dp3411
+sg1371
+(dp3412
+sg1373
+(dp3413
+sg1375
+(dp3414
+sg1377
+(dp3415
+sg1379
+(dp3416
+VCharles Parsons (philosopher)
+p3417
+(dp3418
+sVDavid Hume
+p3419
+(dp3420
+sVRobert M. Solovay
+p3421
+(dp3422
+sVEvert Willem Beth
+p3423
+(dp3424
+sVSolomon Feferman
+p3425
+(dp3426
+sVGottlob Frege
+p3427
+(dp3428
+sVRichard Jeffrey
+p3429
+(dp3430
+sVHilary Putnam
+p3431
+(dp3432
+sg2071
+(dp3433
+sVJon Barwise
+p3434
+(dp3435
+sVPaul Benacerraf
+p3436
+(dp3437
+ssg1381
+(dp3438
+sg1383
+(dp3439
+sg1385
+(dp3440
+sg1387
+(dp3441
+sg1389
+(dp3442
+sg1391
+(dp3443
+sg1393
+(dp3444
+sg1395
+(dp3445
+sg1397
+(dp3446
+sg1399
+(dp3447
+sg1401
+(dp3448
+sg1403
+(dp3449
+VThomas Hobbes
+p3450
+(dp3451
+ssg1405
+(dp3452
+sg1407
+(dp3453
+sg1409
+(dp3454
+VRosalind Hursthouse
+p3455
+(dp3456
+ssg1411
+(dp3457
+VJürgen Habermas
+p3458
+(dp3459
+ssg1413
+(dp3460
+sg1415
+(dp3461
+sg1417
+(dp3462
+sg1419
+(dp3463
+sg1421
+(dp3464
+sg1423
+(dp3465
+sg1425
+(dp3466
+sg1427
+(dp3467
+sg1429
+(dp3468
+sg1431
+(dp3469
+VGilles Deleuze
+p3470
+(dp3471
+ssg1433
+(dp3472
+sg1435
+(dp3473
+sg1437
+(dp3474
+sg1439
+(dp3475
+sg1441
+(dp3476
+sg1443
+(dp3477
+sg1445
+(dp3478
+sg1447
+(dp3479
+sg1449
+(dp3480
+sg1451
+(dp3481
+sg1453
+(dp3482
+sg1455
+(dp3483
+VGualtiero Piccinini
+p3484
+(dp3485
+ssg1457
+(dp3486
+sg1459
+(dp3487
+sg1461
+(dp3488
+sg1463
+(dp3489
+sg1465
+(dp3490
+sg1467
+(dp3491
+sg1469
+(dp3492
+sg1471
+(dp3493
+sg1473
+(dp3494
+VMax Weber
+p3495
+(dp3496
+sVRaymond Geuss
+p3497
+(dp3498
+sVRichard Rorty
+p3499
+(dp3500
+sg1557
+(dp3501
+sVJean Piaget
+p3502
+(dp3503
+ssg1475
+(dp3504
+sg1477
+(dp3505
+sg1479
+(dp3506
+VJacques Maritain
+p3507
+(dp3508
+sVAlasdair MacIntyre
+p3509
+(dp3510
+sVG. E. M. Anscombe
+p3511
+(dp3512
+sg1867
+(dp3513
+ssg1481
+(dp3514
+sg1483
+(dp3515
+VYehoshua Bar-Hillel
+p3516
+(dp3517
+sVHenk Barendregt
+p3518
+(dp3519
+ssg1485
+(dp3520
+sg1487
+(dp3521
+sg1489
+(dp3522
+VGeorge Boolos
+p3523
+(dp3524
+ssg1491
+(dp3525
+sg1493
+(dp3526
+sg1495
+(dp3527
+sg1497
+(dp3528
+sg1499
+(dp3529
+VImmanuel Kant
+p3530
+(dp3531
+ssg1501
+(dp3532
+sg1503
+(dp3533
+sg1505
+(dp3534
+VEdgar Morin
+p3535
+(dp3536
+ssg1507
+(dp3537
+VMax Horkheimer
+p3538
+(dp3539
+sVBertrand Russell
+p3540
+(dp3541
+sVGilles Deleuze
+p3542
+(dp3543
+sVWilliam James
+p3544
+(dp3545
+ssg1509
+(dp3546
+VPeter van Inwagen
+p3547
+(dp3548
+ssg1511
+(dp3549
+sg1513
+(dp3550
+VJack Copeland
+p3551
+(dp3552
+ssg1515
+(dp3553
+sg1517
+(dp3554
+sg1519
+(dp3555
+VGuy Debord
+p3556
+(dp3557
+ssg1521
+(dp3558
+sg1523
+(dp3559
+VThoralf Skolem
+p3560
+(dp3561
+sVWillard Van Orman Quine
+p3562
+(dp3563
+ssg1525
+(dp3564
+sg1527
+(dp3565
+sg1529
+(dp3566
+sg1531
+(dp3567
+sg1533
+(dp3568
+VAdam Smith
+p3569
+(dp3570
+ssg1535
+(dp3571
+sg1537
+(dp3572
+sg1539
+(dp3573
+sg1541
+(dp3574
+sg1543
+(dp3575
+g1581
+(dp3576
+sVSeyyed Hossein Nasr
+p3577
+(dp3578
+ssg1545
+(dp3579
+sg1547
+(dp3580
+sg1549
+(dp3581
+sg1551
+(dp3582
+sg1553
+(dp3583
+sg1555
+(dp3584
+sg1557
+(dp3585
+VAlfred Tarski
+p3586
+(dp3587
+sVArthur Prior
+p3588
+(dp3589
+sVOliver Wendell Holmes, Jr.
+p3590
+(dp3591
+ssg1559
+(dp3592
+sg1561
+(dp3593
+sg1563
+(dp3594
+sg1565
+(dp3595
+sg1567
+(dp3596
+sg1569
+(dp3597
+sg1571
+(dp3598
+sg1573
+(dp3599
+VRoger Scruton
+p3600
+(dp3601
+sVMichel Foucault
+p3602
+(dp3603
+sVJürgen Habermas
+p3604
+(dp3605
+sVJohn Searle
+p3606
+(dp3607
+sVSimon Critchley
+p3608
+(dp3609
+sVRichard Rorty
+p3610
+(dp3611
+sVGiorgio Agamben
+p3612
+(dp3613
+sVMaurice Blanchot
+p3614
+(dp3615
+sVNader El-Bizri
+p3616
+(dp3617
+sVMario Kopi\u0107
+p3618
+(dp3619
+ssg1575
+(dp3620
+sg1577
+(dp3621
+sg1579
+(dp3622
+sg1581
+(dp3623
+sg1583
+(dp3624
+sg1585
+(dp3625
+sg1587
+(dp3626
+sg1589
+(dp3627
+sg1591
+(dp3628
+sg1593
+(dp3629
+sg1595
+(dp3630
+VHenry Sidgwick
+p3631
+(dp3632
+ssg1597
+(dp3633
+sg1599
+(dp3634
+g1305
+(dp3635
+sg1083
+(dp3636
+ssg1601
+(dp3637
+sg1603
+(dp3638
+sg1605
+(dp3639
+VWilliam of Ockham
+p3640
+(dp3641
+sVDign\u0101ga
+p3642
+(dp3643
+sVFyodor Shcherbatskoy
+p3644
+(dp3645
+ssg1607
+(dp3646
+sg1609
+(dp3647
+sg1611
+(dp3648
+sg1613
+(dp3649
+VWilliam James
+p3650
+(dp3651
+ssg1615
+(dp3652
+sg1617
+(dp3653
+VAugustus De Morgan
+p3654
+(dp3655
+sVGeorg Cantor
+p3656
+(dp3657
+ssg1619
+(dp3658
+VSolomon Feferman
+p3659
+(dp3660
+ssg1621
+(dp3661
+sg1623
+(dp3662
+sg1625
+(dp3663
+sg1627
+(dp3664
+sg1629
+(dp3665
+sg1631
+(dp3666
+sg1633
+(dp3667
+sg1635
+(dp3668
+sg1637
+(dp3669
+sg1639
+(dp3670
+sg1641
+(dp3671
+sg1643
+(dp3672
+sg1645
+(dp3673
+sg1647
+(dp3674
+VPeter van Inwagen
+p3675
+(dp3676
+ssg1649
+(dp3677
+sg1651
+(dp3678
+sg1653
+(dp3679
+sg1655
+(dp3680
+VLouis Althusser
+p3681
+(dp3682
+ssg1657
+(dp3683
+sg1659
+(dp3684
+sg1661
+(dp3685
+VHenry David Thoreau
+p3686
+(dp3687
+sVEmma Goldman
+p3688
+(dp3689
+ssg1663
+(dp3690
+VAlexander Bain
+p3691
+(dp3692
+ssg1665
+(dp3693
+sg1667
+(dp3694
+sg1669
+(dp3695
+sg1671
+(dp3696
+g1191
+(dp3697
+ssg1673
+(dp3698
+sg1675
+(dp3699
+sg1677
+(dp3700
+sg1679
+(dp3701
+sg1681
+(dp3702
+sg1683
+(dp3703
+VMichel Foucault
+p3704
+(dp3705
+sVEmmanuel Levinas
+p3706
+(dp3707
+sVMario Kopi\u0107
+p3708
+(dp3709
+ssg1685
+(dp3710
+VSimplicius of Cilicia
+p3711
+(dp3712
+sVAristotle
+p3713
+(dp3714
+ssg1687
+(dp3715
+sg1689
+(dp3716
+sg1691
+(dp3717
+sg1693
+(dp3718
+sg1695
+(dp3719
+VSocrates
+p3720
+(dp3721
+sVPorphyry (philosopher)
+p3722
+(dp3723
+ssg1697
+(dp3724
+sg1699
+(dp3725
+sg1701
+(dp3726
+VBernard Williams
+p3727
+(dp3728
+sVAlasdair MacIntyre
+p3729
+(dp3730
+sVJürgen Habermas
+p3731
+(dp3732
+sVMartha Nussbaum
+p3733
+(dp3734
+sVJames Tully (philosopher)
+p3735
+(dp3736
+sVRichard Rorty
+p3737
+(dp3738
+ssg1703
+(dp3739
+sg1705
+(dp3740
+sg1707
+(dp3741
+sg1709
+(dp3742
+g1789
+(dp3743
+sVDavid Gauthier
+p3744
+(dp3745
+sVGeorge Kateb
+p3746
+(dp3747
+ssg1711
+(dp3748
+sg1713
+(dp3749
+sg1715
+(dp3750
+sg1717
+(dp3751
+sg1719
+(dp3752
+sg1721
+(dp3753
+sg1723
+(dp3754
+VConimbricenses
+p3755
+(dp3756
+ssg1725
+(dp3757
+sg1727
+(dp3758
+sg1729
+(dp3759
+sg1731
+(dp3760
+sg1733
+(dp3761
+VMartin Davis
+p3762
+(dp3763
+ssg1735
+(dp3764
+sg1737
+(dp3765
+sg1739
+(dp3766
+sg1741
+(dp3767
+VSaul Kripke
+p3768
+(dp3769
+sVCharles Sanders Peirce
+p3770
+(dp3771
+sVAlfred Tarski
+p3772
+(dp3773
+sVRudolf Carnap
+p3774
+(dp3775
+sVWillard Van Orman Quine
+p3776
+(dp3777
+sVLudwig Wittgenstein
+p3778
+(dp3779
+ssg1743
+(dp3780
+sg1745
+(dp3781
+VJeremy Bentham
+p3782
+(dp3783
+sVHans Singer
+p3784
+(dp3785
+sVLudwig von Mises
+p3786
+(dp3787
+sVJohn Harsanyi
+p3788
+(dp3789
+sVThomas Aquinas
+p3790
+(dp3791
+sg1405
+(dp3792
+sVFriedrich Engels
+p3793
+(dp3794
+sVFrédéric Bastiat
+p3795
+(dp3796
+sVB. R. Ambedkar
+p3797
+(dp3798
+sVRaúl Prebisch
+p3799
+(dp3800
+sVMax Weber
+p3801
+(dp3802
+sVMurray Rothbard
+p3803
+(dp3804
+sg2079
+(dp3805
+sVVilfredo Pareto
+p3806
+(dp3807
+sVPlato
+p3808
+(dp3809
+sVAdam Smith
+p3810
+(dp3811
+sVHenry Hazlitt
+p3812
+(dp3813
+sVPeter Kropotkin
+p3814
+(dp3815
+sVJean Bodin
+p3816
+(dp3817
+sVRosa Luxemburg
+p3818
+(dp3819
+sVMurray Bookchin
+p3820
+(dp3821
+sVAmartya Sen
+p3822
+(dp3823
+sVKevin Carson
+p3824
+(dp3825
+sVGustave de Molinari
+p3826
+(dp3827
+sVHenry George
+p3828
+(dp3829
+sVDavid D. Friedman
+p3830
+(dp3831
+sg695
+(dp3832
+sVIsrael Kirzner
+p3833
+(dp3834
+sg2077
+(dp3835
+sVKarl Marx
+p3836
+(dp3837
+sVRichard Whately
+p3838
+(dp3839
+sVWilliam Stanley Jevons
+p3840
+(dp3841
+sVDavid Hume
+p3842
+(dp3843
+sg1895
+(dp3844
+sVBryan Caplan
+p3845
+(dp3846
+sVPhilippe Van Parijs
+p3847
+(dp3848
+sVJohn Locke
+p3849
+(dp3850
+sVJohn Stuart Mill
+p3851
+(dp3852
+sVFriedrich Hayek
+p3853
+(dp3854
+sVAristotle
+p3855
+(dp3856
+sVJohn von Neumann
+p3857
+(dp3858
+sVHenry Sidgwick
+p3859
+(dp3860
+ssg1747
+(dp3861
+sg1749
+(dp3862
+sg1751
+(dp3863
+sg1753
+(dp3864
+sg1755
+(dp3865
+sg1757
+(dp3866
+sg1759
+(dp3867
+VIsaiah Berlin
+p3868
+(dp3869
+sVJoxe Azurmendi
+p3870
+(dp3871
+ssg1761
+(dp3872
+sg1763
+(dp3873
+sg1765
+(dp3874
+sg1767
+(dp3875
+VLudwig Wittgenstein
+p3876
+(dp3877
+ssg1769
+(dp3878
+sg1771
+(dp3879
+VCatherine Elgin
+p3880
+(dp3881
+ssg1773
+(dp3882
+sg1775
+(dp3883
+sg1777
+(dp3884
+sg1779
+(dp3885
+sg1781
+(dp3886
+g1999
+(dp3887
+sg547
+(dp3888
+ssg1783
+(dp3889
+sg1785
+(dp3890
+VEdmund Burke
+p3891
+(dp3892
+sVBaruch Spinoza
+p3893
+(dp3894
+sVPlato
+p3895
+(dp3896
+sVGeorg Simmel
+p3897
+(dp3898
+sVR. G. Collingwood
+p3899
+(dp3900
+sVThomas Hobbes
+p3901
+(dp3902
+sVImmanuel Kant
+p3903
+(dp3904
+sVAristotle
+p3905
+(dp3906
+sVWalter Pater
+p3907
+(dp3908
+sg305
+(dp3909
+ssg1787
+(dp3910
+sg1789
+(dp3911
+sg1791
+(dp3912
+sg1793
+(dp3913
+sg1795
+(dp3914
+sg1797
+(dp3915
+sg1799
+(dp3916
+VThomas Reid
+p3917
+(dp3918
+ssg1801
+(dp3919
+sg1803
+(dp3920
+sg1805
+(dp3921
+sg1807
+(dp3922
+sg1809
+(dp3923
+sg1811
+(dp3924
+sg1813
+(dp3925
+sg1815
+(dp3926
+sg1817
+(dp3927
+sg1819
+(dp3928
+g1523
+(dp3929
+ssg1821
+(dp3930
+sg1823
+(dp3931
+sg1825
+(dp3932
+sg1827
+(dp3933
+VHans-Hermann Hoppe
+p3934
+(dp3935
+ssg1829
+(dp3936
+sg1831
+(dp3937
+sg1833
+(dp3938
+sg1835
+(dp3939
+sg1837
+(dp3940
+sg1839
+(dp3941
+VHenry David Thoreau
+p3942
+(dp3943
+ssg1841
+(dp3944
+sg1843
+(dp3945
+sg1845
+(dp3946
+VMurray Rothbard
+p3947
+(dp3948
+ssg1847
+(dp3949
+VThomas Reid
+p3950
+(dp3951
+sVJean Buridan
+p3952
+(dp3953
+ssg1849
+(dp3954
+sg1851
+(dp3955
+VAntonio Negri
+p3956
+(dp3957
+sVMartin Heidegger
+p3958
+(dp3959
+ssg1853
+(dp3960
+sg1855
+(dp3961
+sg1857
+(dp3962
+sg1859
+(dp3963
+sg1861
+(dp3964
+sg1863
+(dp3965
+sg1865
+(dp3966
+sg1867
+(dp3967
+sg1869
+(dp3968
+sg1871
+(dp3969
+sg1873
+(dp3970
+VRobert Kilwardby
+p3971
+(dp3972
+sVBlaise Pascal
+p3973
+(dp3974
+sVJonathan Edwards (theologian)
+p3975
+(dp3976
+sVThomas Bradwardine
+p3977
+(dp3978
+ssg1875
+(dp3979
+sg1877
+(dp3980
+sg1879
+(dp3981
+sg1881
+(dp3982
+sg1883
+(dp3983
+sg1885
+(dp3984
+sg1887
+(dp3985
+VPlato
+p3986
+(dp3987
+sVImmanuel Kant
+p3988
+(dp3989
+ssg1889
+(dp3990
+sg1891
+(dp3991
+sg1893
+(dp3992
+sg1895
+(dp3993
+sg1897
+(dp3994
+sg1899
+(dp3995
+sg1901
+(dp3996
+sg1903
+(dp3997
+g1355
+(dp3998
+ssg1905
+(dp3999
+sg1907
+(dp4000
+sg1909
+(dp4001
+VAlan Ross Anderson
+p4002
+(dp4003
+ssg1911
+(dp4004
+sg1913
+(dp4005
+sg1915
+(dp4006
+VMichael Oakeshott
+p4007
+(dp4008
+sVThucydides
+p4009
+(dp4010
+ssg1917
+(dp4011
+sg1919
+(dp4012
+sg1921
+(dp4013
+sg1923
+(dp4014
+sg1925
+(dp4015
+sg1927
+(dp4016
+sg1929
+(dp4017
+VJohn Rawls
+p4018
+(dp4019
+sVJudith Butler
+p4020
+(dp4021
+sVCharles Taylor (philosopher)
+p4022
+(dp4023
+sVJean-Paul Sartre
+p4024
+(dp4025
+sVHannah Arendt
+p4026
+(dp4027
+ssg1931
+(dp4028
+sg1933
+(dp4029
+sg1935
+(dp4030
+sg1937
+(dp4031
+sg1939
+(dp4032
+sg1941
+(dp4033
+VNader El-Bizri
+p4034
+(dp4035
+ssg1943
+(dp4036
+sg1945
+(dp4037
+sg1947
+(dp4038
+g1035
+(dp4039
+sVFriedrich Nietzsche
+p4040
+(dp4041
+sVGeorg Wilhelm Friedrich Hegel
+p4042
+(dp4043
+ssg1949
+(dp4044
+sg1951
+(dp4045
+sg1953
+(dp4046
+sg1955
+(dp4047
+sg1957
+(dp4048
+sg1959
+(dp4049
+VThomas Berry
+p4050
+(dp4051
+sVHenri Bergson
+p4052
+(dp4053
+ssg1961
+(dp4054
+sg1963
+(dp4055
+sg1965
+(dp4056
+sg1967
+(dp4057
+sg1969
+(dp4058
+sg1971
+(dp4059
+g873
+(dp4060
+ssg1973
+(dp4061
+sg1975
+(dp4062
+sg1977
+(dp4063
+sg1979
+(dp4064
+sg1981
+(dp4065
+VWilhelm Dilthey
+p4066
+(dp4067
+ssg1983
+(dp4068
+sg1985
+(dp4069
+VHenry Sidgwick
+p4070
+(dp4071
+ssg1987
+(dp4072
+VAlain Badiou
+p4073
+(dp4074
+sg1431
+(dp4075
+ssg1989
+(dp4076
+sg1991
+(dp4077
+sg1993
+(dp4078
+sg1995
+(dp4079
+sg1997
+(dp4080
+sg1999
+(dp4081
+VKarl Popper
+p4082
+(dp4083
+sVJohn Corcoran (logician)
+p4084
+(dp4085
+sVSolomon Feferman
+p4086
+(dp4087
+sVHoward Jerome Keisler
+p4088
+(dp4089
+sVBjarni Jónsson
+p4090
+(dp4091
+sVRudolf Carnap
+p4092
+(dp4093
+sVJohn Etchemendy
+p4094
+(dp4095
+sVWillard Van Orman Quine
+p4096
+(dp4097
+sVRichard Montague
+p4098
+(dp4099
+sVAndrzej Mostowski
+p4100
+(dp4101
+sVJan \u0141ukasiewicz
+p4102
+(dp4103
+sVLeon Henkin
+p4104
+(dp4105
+ssg2001
+(dp4106
+g1605
+(dp4107
+ssg2003
+(dp4108
+sg2005
+(dp4109
+sg2007
+(dp4110
+sg2009
+(dp4111
+VRené Descartes
+p4112
+(dp4113
+sVPaolo Virno
+p4114
+(dp4115
+sVBaruch Spinoza
+p4116
+(dp4117
+ssg2011
+(dp4118
+sg2013
+(dp4119
+VYehoshua Bar-Hillel
+p4120
+(dp4121
+ssg2015
+(dp4122
+sg2017
+(dp4123
+sg2019
+(dp4124
+VJeremy Bentham
+p4125
+(dp4126
+sVThomas Hill Green
+p4127
+(dp4128
+sVIsaiah Berlin
+p4129
+(dp4130
+sVMartin Heidegger
+p4131
+(dp4132
+sVJoxe Azurmendi
+p4133
+(dp4134
+sVCharles Taylor (philosopher)
+p4135
+(dp4136
+sVBaruch Spinoza
+p4137
+(dp4138
+sVPlato
+p4139
+(dp4140
+sVGeorg W. F. Hegel
+p4141
+(dp4142
+sVHenry David Thoreau
+p4143
+(dp4144
+sVJacques Rancière
+p4145
+(dp4146
+sVEmma Goldman
+p4147
+(dp4148
+sVMontesquieu
+p4149
+(dp4150
+sVJames Mill
+p4151
+(dp4152
+sVBenjamin Tucker
+p4153
+(dp4154
+sVSun Yat-sen
+p4155
+(dp4156
+sVImmanuel Kant
+p4157
+(dp4158
+sVSøren Kierkegaard
+p4159
+(dp4160
+sVKarl Marx
+p4161
+(dp4162
+sVMax Horkheimer
+p4163
+(dp4164
+sVMencius
+p4165
+(dp4166
+sVGuy Debord
+p4167
+(dp4168
+sVJean-Jacques Rousseau
+p4169
+(dp4170
+sVSimone Weil
+p4171
+(dp4172
+sVJohn Locke
+p4173
+(dp4174
+sVFriedrich Hayek
+p4175
+(dp4176
+sVAristotle
+p4177
+(dp4178
+sVThomas Nagel
+p4179
+(dp4180
+sVMozi
+p4181
+(dp4182
+sVJames Tully (philosopher)
+p4183
+(dp4184
+sVJudith Butler
+p4185
+(dp4186
+sVMax Stirner
+p4187
+(dp4188
+sVSlavoj \u017di\u017eek
+p4189
+(dp4190
+sVGerrard Winstanley
+p4191
+(dp4192
+sVBernard Williams
+p4193
+(dp4194
+sVMurray Rothbard
+p4195
+(dp4196
+sVHugo Grotius
+p4197
+(dp4198
+sVCarl Schmitt
+p4199
+(dp4200
+sVFriedrich Nietzsche
+p4201
+(dp4202
+sVMartin Buber
+p4203
+(dp4204
+sVWalter Benjamin
+p4205
+(dp4206
+sVMuhammad Iqbal
+p4207
+(dp4208
+sVErich Fromm
+p4209
+(dp4210
+sVRoland Barthes
+p4211
+(dp4212
+sVHammurabi
+p4213
+(dp4214
+sVDavid Hume
+p4215
+(dp4216
+sVRonald Dworkin
+p4217
+(dp4218
+sVLouis Althusser
+p4219
+(dp4220
+sVSamuel Edward Konkin III
+p4221
+(dp4222
+sVMikhail Bakunin
+p4223
+(dp4224
+sVAugustine of Hippo
+p4225
+(dp4226
+sVNiccolò Machiavelli
+p4227
+(dp4228
+sVIbn Taymiyyah
+p4229
+(dp4230
+sVWilliam of Ockham
+p4231
+(dp4232
+sVGhazali
+p4233
+(dp4234
+sVVoltaire
+p4235
+(dp4236
+sVArthur Schopenhauer
+p4237
+(dp4238
+sVMichael Oakeshott
+p4239
+(dp4240
+sVMichel Foucault
+p4241
+(dp4242
+sVAverroes
+p4243
+(dp4244
+sVAdam Smith
+p4245
+(dp4246
+sVRobert Nozick
+p4247
+(dp4248
+sVThomas Hobbes
+p4249
+(dp4250
+sVJean Bodin
+p4251
+(dp4252
+sVJohn Dewey
+p4253
+(dp4254
+sVRosa Luxemburg
+p4255
+(dp4256
+sVGiacomo Marramao
+p4257
+(dp4258
+sVXun Zi
+p4259
+(dp4260
+sVJohn Rawls
+p4261
+(dp4262
+sVConfucius
+p4263
+(dp4264
+sVMaimonides
+p4265
+(dp4266
+sVTakis Fotopoulos
+p4267
+(dp4268
+sVChanakya
+p4269
+(dp4270
+sVThiruvalluvar
+p4271
+(dp4272
+sVBertrand Russell
+p4273
+(dp4274
+sVGilles Deleuze
+p4275
+(dp4276
+sVHerbert Spencer
+p4277
+(dp4278
+sVHannah Arendt
+p4279
+(dp4280
+sVJürgen Habermas
+p4281
+(dp4282
+sVFrancis Bacon
+p4283
+(dp4284
+sVFriedrich Engels
+p4285
+(dp4286
+sVAntonio Negri
+p4287
+(dp4288
+sVEdmund Burke
+p4289
+(dp4290
+sVJean-Paul Sartre
+p4291
+(dp4292
+sVPeter Kropotkin
+p4293
+(dp4294
+sVMurray Bookchin
+p4295
+(dp4296
+sVMax Weber
+p4297
+(dp4298
+sVGustave de Molinari
+p4299
+(dp4300
+sVCicero
+p4301
+(dp4302
+sg2057
+(dp4303
+sVAyn Rand
+p4304
+(dp4305
+sVKarl Popper
+p4306
+(dp4307
+sVAlbert Camus
+p4308
+(dp4309
+sVBenedetto Croce
+p4310
+(dp4311
+sg2091
+(dp4312
+sVFélix Guattari
+p4313
+(dp4314
+sVCornelius Castoriadis
+p4315
+(dp4316
+sVSocrates
+p4317
+(dp4318
+sVJohn Stuart Mill
+p4319
+(dp4320
+sg925
+(dp4321
+ssg2021
+(dp4322
+sg2023
+(dp4323
+sg2025
+(dp4324
+sg2027
+(dp4325
+sg2029
+(dp4326
+sg2031
+(dp4327
+sg2033
+(dp4328
+VPaul Grice
+p4329
+(dp4330
+sVHilary Putnam
+p4331
+(dp4332
+ssg2035
+(dp4333
+sg2037
+(dp4334
+VJohn Stuart Mill
+p4335
+(dp4336
+ssg2039
+(dp4337
+sg2041
+(dp4338
+sg2043
+(dp4339
+sg2045
+(dp4340
+sg2047
+(dp4341
+sg2049
+(dp4342
+sg2051
+(dp4343
+sg2053
+(dp4344
+sg2055
+(dp4345
+VJeff Paris
+p4346
+(dp4347
+sg1485
+(dp4348
+ssg2057
+(dp4349
+sg2059
+(dp4350
+sg2061
+(dp4351
+sg2063
+(dp4352
+sg2065
+(dp4353
+VRichard Jeffrey
+p4354
+(dp4355
+ssg2067
+(dp4356
+VPeter Singer
+p4357
+(dp4358
+ssg2069
+(dp4359
+sg2071
+(dp4360
+VLeo Harrington
+p4361
+(dp4362
+ssg2073
+(dp4363
+sg2075
+(dp4364
+sg2077
+(dp4365
+sg2079
+(dp4366
+sg2081
+(dp4367
+sg2083
+(dp4368
+sg2085
+(dp4369
+sg2087
+(dp4370
+sg2089
+(dp4371
+sg2091
+(dp4372
+sg2093
+(dp4373
+sg2095
+(dp4374
+sg2097
+(dp4375
+sg2099
+(dp4376
+VMichel Onfray
+p4377
+(dp4378
+sVMario Kopi\u0107
+p4379
+(dp4380
+ssg2101
+(dp4381
+sg2103
+(dp4382
+sg2105
+(dp4383
+VCharles Sanders Peirce
+p4384
+(dp4385
+ssg2107
+(dp4386
+VPiergiorgio Odifreddi
+p4387
+(dp4388
+ssg2109
+(dp4389
+VDerek Parfit
+p4390
+(dp4391
+ssg2111
+(dp4392
+sg2113
+(dp4393
+sg2115
+(dp4394
+sg2117
+(dp4395
+ssS'edge'
+p4396
+g2123
+sS'graph'
+p4397
+(dp4398
+sS'adjlist_dict_factory'
+p4399
+g2120
+sS'adj'
+p4400
+g2123
+sS'pred'
+p4401
+(dp4402
+g9
+(dp4403
+sg11
+(dp4404
+sg13
+(dp4405
+sg15
+(dp4406
+sg17
+(dp4407
+g1133
+g3151
+ssg19
+(dp4408
+g2019
+g4130
+sg1073
+g3105
+sVKarl Marx
+p4409
+g3163
+sg173
+g2243
+sVJohann Gottfried Herder
+p4410
+g3869
+ssg21
+(dp4411
+sg23
+(dp4412
+sg25
+(dp4413
+sg27
+(dp4414
+sg29
+(dp4415
+g665
+g2688
+ssg31
+(dp4416
+g2019
+g4134
+sg4410
+g3871
+ssg33
+(dp4417
+sg35
+(dp4418
+sg37
+(dp4419
+sg39
+(dp4420
+sg41
+(dp4421
+sg43
+(dp4422
+g665
+g2697
+ssg45
+(dp4423
+sg47
+(dp4424
+VBenedetto Croce
+p4425
+g2869
+sg1785
+g3900
+ssg49
+(dp4426
+sg51
+(dp4427
+sg53
+(dp4428
+sg55
+(dp4429
+VImmanuel Kant
+p4430
+g2554
+ssg57
+(dp4431
+sg59
+(dp4432
+sg61
+(dp4433
+sg63
+(dp4434
+g819
+g2856
+sVHarold Bloom
+p4435
+g3354
+sg2019
+g4140
+sg759
+g2805
+sVArthur Schopenhauer
+p4436
+g3987
+sg1745
+g3809
+sg1785
+g3896
+ssg65
+(dp4437
+sg67
+(dp4438
+sg69
+(dp4439
+sg71
+(dp4440
+sg73
+(dp4441
+sg75
+(dp4442
+VPhilippa Foot
+p4443
+g3177
+sVJohn McDowell
+p4444
+g3456
+ssg77
+(dp4445
+sg79
+(dp4446
+g4409
+g3161
+ssg81
+(dp4447
+sg83
+(dp4448
+g1745
+g3831
+ssg85
+(dp4449
+sg87
+(dp4450
+sg89
+(dp4451
+VFriedrich Nietzsche
+p4452
+g2417
+ssg91
+(dp4453
+g1125
+g3145
+ssg93
+(dp4454
+sg95
+(dp4455
+VAristoxenus
+p4456
+g3721
+sg2019
+g4318
+ssg97
+(dp4457
+sg99
+(dp4458
+sg101
+(dp4459
+g119
+g2200
+ssg103
+(dp4460
+g2019
+g4164
+sg665
+g2726
+sg159
+g2230
+sg1507
+g3539
+ssg105
+(dp4461
+sg107
+(dp4462
+VJacques Derrida
+p4463
+g3601
+sg4430
+g2550
+sg223
+g2277
+ssg109
+(dp4464
+sg111
+(dp4465
+sg113
+(dp4466
+sg115
+(dp4467
+sg117
+(dp4468
+g1873
+g3974
+ssg119
+(dp4469
+VDavid Hume
+p4470
+g3319
+sg1141
+g3157
+ssg121
+(dp4471
+sg123
+(dp4472
+sg125
+(dp4473
+sg127
+(dp4474
+sg129
+(dp4475
+sg131
+(dp4476
+g2019
+g4176
+sg1745
+g3854
+ssg133
+(dp4477
+sg135
+(dp4478
+VRichard Rorty
+p4479
+g3289
+sg665
+g2742
+sVJürgen Habermas
+p4480
+g3498
+ssg137
+(dp4481
+sg139
+(dp4482
+sg141
+(dp4483
+VThomas Aquinas
+p4484
+g3508
+sg95
+g2180
+ssg143
+(dp4485
+sg145
+(dp4486
+VLudwig Wittgenstein
+p4487
+g2942
+ssg147
+(dp4488
+g1077
+g3110
+sg665
+g2682
+sVMartin Heidegger
+p4489
+g2912
+ssg149
+(dp4490
+g1031
+g3051
+ssg151
+(dp4491
+g823
+g2864
+ssg153
+(dp4492
+g2019
+g4182
+ssg155
+(dp4493
+sg157
+(dp4494
+sg159
+(dp4495
+sg161
+(dp4496
+sg163
+(dp4497
+sg165
+(dp4498
+sg167
+(dp4499
+g1745
+g3796
+ssg169
+(dp4500
+sg171
+(dp4501
+g665
+g2737
+ssg173
+(dp4502
+sg175
+(dp4503
+g665
+g2700
+sg677
+g2752
+ssg177
+(dp4504
+sg179
+(dp4505
+g2067
+g4358
+sVR. M. Hare
+p4506
+g2349
+sg471
+g2494
+ssg181
+(dp4507
+sg183
+(dp4508
+sg185
+(dp4509
+sg187
+(dp4510
+sg189
+(dp4511
+sg191
+(dp4512
+sg193
+(dp4513
+g665
+g2704
+sg509
+g2535
+ssg195
+(dp4514
+sg197
+(dp4515
+sg199
+(dp4516
+g2019
+g4206
+sg665
+g2711
+ssg201
+(dp4517
+sg203
+(dp4518
+sg205
+(dp4519
+VAristotle
+p4520
+g3756
+ssg207
+(dp4521
+sg209
+(dp4522
+sg211
+(dp4523
+g2019
+g4180
+ssg213
+(dp4524
+sg215
+(dp4525
+sg217
+(dp4526
+sg219
+(dp4527
+sg221
+(dp4528
+sg223
+(dp4529
+VAntonio Negri
+p4530
+g4117
+sg2019
+g4138
+sg4452
+g2419
+sg1785
+g3894
+ssg225
+(dp4531
+sg227
+(dp4532
+VJean-Jacques Rousseau
+p4533
+g3747
+ssg229
+(dp4534
+sg231
+(dp4535
+sg233
+(dp4536
+sg235
+(dp4537
+g1745
+g3839
+ssg237
+(dp4538
+sg239
+(dp4539
+g119
+g2196
+sg1873
+g3976
+ssg241
+(dp4540
+sg243
+(dp4541
+sg245
+(dp4542
+g4484
+g3512
+ssg247
+(dp4543
+g685
+g2758
+sVWillard Van Orman Quine
+p4544
+g4332
+sg1249
+g3257
+sVGeorge Boolos
+p4545
+g3432
+sg1363
+g3407
+ssg249
+(dp4546
+sg251
+(dp4547
+sg253
+(dp4548
+sg255
+(dp4549
+g2019
+g4278
+ssg257
+(dp4550
+sg259
+(dp4551
+sg261
+(dp4552
+VPhilip Jourdain
+p4553
+g3657
+ssg263
+(dp4554
+sg265
+(dp4555
+sg267
+(dp4556
+sg269
+(dp4557
+sg271
+(dp4558
+sg273
+(dp4559
+sg275
+(dp4560
+sg277
+(dp4561
+g883
+g2915
+ssg279
+(dp4562
+g361
+g2389
+ssg281
+(dp4563
+g665
+g2686
+sg4452
+g2422
+ssg283
+(dp4564
+sg285
+(dp4565
+g487
+g2511
+ssg287
+(dp4566
+sg289
+(dp4567
+sg291
+(dp4568
+g4470
+g3333
+ssg293
+(dp4569
+sg295
+(dp4570
+g1873
+g3978
+ssg297
+(dp4571
+g487
+g2514
+ssg299
+(dp4572
+g1063
+g3094
+sg1745
+g3798
+ssg301
+(dp4573
+g635
+g2652
+ssg303
+(dp4574
+sg305
+(dp4575
+g1785
+g3909
+sg1981
+g4067
+ssg307
+(dp4576
+sg309
+(dp4577
+g487
+g2517
+ssg311
+(dp4578
+sg313
+(dp4579
+g95
+g2181
+ssg315
+(dp4580
+sg317
+(dp4581
+sg319
+(dp4582
+g819
+g2852
+ssg321
+(dp4583
+g4545
+g3424
+ssg323
+(dp4584
+sg325
+(dp4585
+sg327
+(dp4586
+g635
+g2643
+sg4545
+g3428
+ssg329
+(dp4587
+sg331
+(dp4588
+sg333
+(dp4589
+sg335
+(dp4590
+sg337
+(dp4591
+sg339
+(dp4592
+sg341
+(dp4593
+sg343
+(dp4594
+sg345
+(dp4595
+g2019
+g4258
+ssg347
+(dp4596
+sg349
+(dp4597
+g255
+g2303
+sg1745
+g3829
+ssg351
+(dp4598
+g4545
+g3422
+ssg353
+(dp4599
+sg355
+(dp4600
+sg357
+(dp4601
+sg359
+(dp4602
+VHenry Sidgwick
+p4603
+g4391
+sg4430
+g2558
+ssg361
+(dp4604
+sg363
+(dp4605
+g665
+g2721
+ssg365
+(dp4606
+sg367
+(dp4607
+sg369
+(dp4608
+sg371
+(dp4609
+sg373
+(dp4610
+sg375
+(dp4611
+sg377
+(dp4612
+g1247
+g3254
+ssg379
+(dp4613
+sg381
+(dp4614
+g2019
+g4218
+sg651
+g2666
+ssg383
+(dp4615
+sg385
+(dp4616
+sg387
+(dp4617
+sg389
+(dp4618
+g1959
+g4051
+ssg391
+(dp4619
+sg393
+(dp4620
+g4479
+g3291
+sg2019
+g4202
+sg1947
+g4041
+sg31
+g2137
+ssg395
+(dp4621
+g1513
+g3552
+sg505
+g2531
+sg1031
+g3055
+ssg397
+(dp4622
+sg399
+(dp4623
+sg401
+(dp4624
+sg403
+(dp4625
+sg405
+(dp4626
+sg407
+(dp4627
+g1771
+g3881
+ssg409
+(dp4628
+sg411
+(dp4629
+g1255
+g3264
+sg1661
+g3689
+sg2019
+g4148
+ssg413
+(dp4630
+g2019
+g4286
+sg665
+g2690
+sg4409
+g3167
+sg1745
+g3794
+ssg415
+(dp4631
+sg417
+(dp4632
+VAlfred Tarski
+p4633
+g4099
+ssg419
+(dp4634
+sg421
+(dp4635
+sg423
+(dp4636
+sg425
+(dp4637
+sg427
+(dp4638
+g2019
+g4298
+sg651
+g2663
+sg4480
+g3496
+sg1745
+g3802
+ssg429
+(dp4639
+sg431
+(dp4640
+sg433
+(dp4641
+sg435
+(dp4642
+sg437
+(dp4643
+sg439
+(dp4644
+sg441
+(dp4645
+g2019
+g4294
+sg1745
+g3815
+ssg443
+(dp4646
+sg445
+(dp4647
+sg447
+(dp4648
+g95
+g2182
+sVThomas Hobbes
+p4649
+g4010
+ssg449
+(dp4650
+sg451
+(dp4651
+sg453
+(dp4652
+sg455
+(dp4653
+sg457
+(dp4654
+sg459
+(dp4655
+g2019
+g4290
+sg1785
+g3892
+sg1213
+g3229
+ssg461
+(dp4656
+sg463
+(dp4657
+g2055
+g4347
+ssg465
+(dp4658
+sg467
+(dp4659
+g4633
+g4091
+ssg469
+(dp4660
+sg471
+(dp4661
+g1947
+g4043
+sg4409
+g3165
+ssg473
+(dp4662
+sg475
+(dp4663
+sg477
+(dp4664
+sg479
+(dp4665
+sg481
+(dp4666
+sg483
+(dp4667
+g625
+g2628
+sg4545
+g3435
+ssg485
+(dp4668
+sg487
+(dp4669
+sg489
+(dp4670
+sg491
+(dp4671
+sg493
+(dp4672
+sg495
+(dp4673
+sg497
+(dp4674
+sg499
+(dp4675
+g2019
+g4314
+sg665
+g2728
+ssg501
+(dp4676
+sg503
+(dp4677
+sg505
+(dp4678
+VCharles Sanders Peirce
+p4679
+g3589
+sVJack Copeland
+p4680
+g2442
+ssg507
+(dp4681
+sg509
+(dp4682
+g2019
+g4316
+sg665
+g2678
+ssg511
+(dp4683
+sg513
+(dp4684
+sg515
+(dp4685
+sg517
+(dp4686
+sg519
+(dp4687
+sg521
+(dp4688
+sg523
+(dp4689
+g4470
+g3331
+sg2019
+g4158
+sg4436
+g3989
+sg4506
+g2351
+sg261
+g2310
+sg1499
+g3531
+sg1785
+g3904
+ssg525
+(dp4690
+sg527
+(dp4691
+sg529
+(dp4692
+sg531
+(dp4693
+g4487
+g2951
+ssg533
+(dp4694
+sg535
+(dp4695
+sg537
+(dp4696
+sg539
+(dp4697
+g585
+g2600
+ssg541
+(dp4698
+sg543
+(dp4699
+sg545
+(dp4700
+sg547
+(dp4701
+g4633
+g4105
+sg1781
+g3888
+ssg549
+(dp4702
+sg551
+(dp4703
+sg553
+(dp4704
+sg555
+(dp4705
+sg557
+(dp4706
+sg559
+(dp4707
+sg561
+(dp4708
+sg563
+(dp4709
+VMencius
+p4710
+g2621
+ssg565
+(dp4711
+g4470
+g3313
+ssg567
+(dp4712
+sg569
+(dp4713
+g487
+g2508
+ssg571
+(dp4714
+sg573
+(dp4715
+g665
+g2706
+sg4489
+g2909
+ssg575
+(dp4716
+sg577
+(dp4717
+g2019
+g4142
+ssg579
+(dp4718
+sg581
+(dp4719
+sg583
+(dp4720
+sg585
+(dp4721
+sg587
+(dp4722
+sg589
+(dp4723
+sg591
+(dp4724
+sg593
+(dp4725
+sg595
+(dp4726
+g327
+g2364
+sg4545
+g3418
+ssg597
+(dp4727
+sg599
+(dp4728
+sg601
+(dp4729
+sg603
+(dp4730
+sg605
+(dp4731
+sg607
+(dp4732
+sg609
+(dp4733
+sg611
+(dp4734
+sg613
+(dp4735
+sg615
+(dp4736
+g4633
+g4095
+ssg617
+(dp4737
+g2019
+g4166
+sg487
+g2507
+sg4470
+g3338
+ssg619
+(dp4738
+sg621
+(dp4739
+sg623
+(dp4740
+g4487
+g2949
+sg2019
+g4160
+ssg625
+(dp4741
+sg627
+(dp4742
+sg629
+(dp4743
+sg631
+(dp4744
+sg633
+(dp4745
+sg635
+(dp4746
+sg637
+(dp4747
+g2019
+g4296
+sg1745
+g3821
+ssg639
+(dp4748
+sg641
+(dp4749
+sg643
+(dp4750
+sg645
+(dp4751
+sg647
+(dp4752
+sg649
+(dp4753
+g2019
+g4198
+ssg651
+(dp4754
+VTony Honoré
+p4755
+g3188
+ssg653
+(dp4756
+g4479
+g3293
+sg665
+g2692
+ssg655
+(dp4757
+sg657
+(dp4758
+sg659
+(dp4759
+sg661
+(dp4760
+sg663
+(dp4761
+g4487
+g2945
+sg2019
+g4184
+sVCharles Taylor (philosopher)
+p4762
+g3736
+sVJohn Locke
+p4763
+g3198
+ssg665
+(dp4764
+sg667
+(dp4765
+g2019
+g4188
+ssg669
+(dp4766
+sg671
+(dp4767
+g1213
+g3233
+ssg673
+(dp4768
+g1745
+g3800
+ssg675
+(dp4769
+sg677
+(dp4770
+sg679
+(dp4771
+sg681
+(dp4772
+g4762
+g3728
+sg2019
+g4194
+sg4452
+g2431
+sg4506
+g2352
+sg1347
+g3386
+ssg683
+(dp4773
+sg685
+(dp4774
+g4487
+g2940
+sVJaakko Hintikka
+p4775
+g3769
+ssg687
+(dp4776
+sg689
+(dp4777
+sg691
+(dp4778
+sg693
+(dp4779
+g2019
+g4200
+ssg695
+(dp4780
+VCarlo Lottieri
+p4781
+g3935
+sg1745
+g3832
+ssg697
+(dp4782
+sg699
+(dp4783
+g1745
+g3813
+ssg701
+(dp4784
+sg703
+(dp4785
+sg705
+(dp4786
+sg707
+(dp4787
+sg709
+(dp4788
+g487
+g2506
+ssg711
+(dp4789
+sg713
+(dp4790
+sg715
+(dp4791
+sg717
+(dp4792
+sg719
+(dp4793
+sg721
+(dp4794
+sg723
+(dp4795
+sg725
+(dp4796
+sg727
+(dp4797
+sg729
+(dp4798
+sg731
+(dp4799
+sg733
+(dp4800
+sg735
+(dp4801
+sg737
+(dp4802
+g4679
+g3591
+ssg739
+(dp4803
+sg741
+(dp4804
+g2019
+g4214
+ssg743
+(dp4805
+sg745
+(dp4806
+sg747
+(dp4807
+sg749
+(dp4808
+sg751
+(dp4809
+g1663
+g3692
+ssg753
+(dp4810
+sg755
+(dp4811
+sg757
+(dp4812
+sg759
+(dp4813
+sg761
+(dp4814
+g4470
+g3309
+ssg763
+(dp4815
+sg765
+(dp4816
+sg767
+(dp4817
+g4443
+g3179
+ssg769
+(dp4818
+sg771
+(dp4819
+VPaul of Venice
+p4820
+g2874
+ssg773
+(dp4821
+sg775
+(dp4822
+sg777
+(dp4823
+g2019
+g4224
+ssg779
+(dp4824
+sg781
+(dp4825
+sg783
+(dp4826
+sg785
+(dp4827
+sg787
+(dp4828
+g4463
+g3607
+ssg789
+(dp4829
+sg791
+(dp4830
+sg793
+(dp4831
+g2019
+g4232
+sg4820
+g2872
+sVDharmakirti
+p4832
+g3641
+ssg795
+(dp4833
+sg797
+(dp4834
+sg799
+(dp4835
+sg801
+(dp4836
+sg803
+(dp4837
+sg805
+(dp4838
+sg807
+(dp4839
+sg809
+(dp4840
+g4533
+g3745
+ssg811
+(dp4841
+g665
+g2698
+ssg813
+(dp4842
+sg815
+(dp4843
+sg817
+(dp4844
+sg819
+(dp4845
+sg821
+(dp4846
+sg823
+(dp4847
+sg825
+(dp4848
+g2019
+g4248
+sg1319
+g3368
+ssg827
+(dp4849
+sg829
+(dp4850
+g1745
+g3785
+ssg831
+(dp4851
+g2019
+g4311
+sg555
+g2583
+ssg833
+(dp4852
+g689
+g2763
+ssg835
+(dp4853
+sg837
+(dp4854
+sg839
+(dp4855
+g4479
+g3297
+sg2019
+g4254
+ssg841
+(dp4856
+g1455
+g3485
+ssg843
+(dp4857
+VEdmund Burke
+p4858
+g2486
+sg329
+g2366
+ssg845
+(dp4859
+sg847
+(dp4860
+sg849
+(dp4861
+g2019
+g4260
+sg487
+g2515
+ssg851
+(dp4862
+g651
+g2667
+ssg853
+(dp4863
+VMichel Foucault
+p4864
+g3393
+sg4484
+g3510
+sg4762
+g3730
+sg1157
+g3185
+sVPeter Geach
+p4865
+g3125
+ssg855
+(dp4866
+sg857
+(dp4867
+g1063
+g3083
+sg329
+g2367
+ssg859
+(dp4868
+VEmmanuel Levinas
+p4869
+g2988
+ssg861
+(dp4870
+sg863
+(dp4871
+sg865
+(dp4872
+sg867
+(dp4873
+g665
+g2707
+ssg869
+(dp4874
+sg871
+(dp4875
+sg873
+(dp4876
+g1971
+g4060
+sg1249
+g3259
+sg1363
+g3405
+ssg875
+(dp4877
+g2019
+g4266
+ssg877
+(dp4878
+sg879
+(dp4879
+sg881
+(dp4880
+g4479
+g3279
+sg1851
+g3959
+sg4452
+g2420
+sg4430
+g2552
+sg2019
+g4132
+ssg883
+(dp4881
+sg885
+(dp4882
+sg887
+(dp4883
+sg889
+(dp4884
+g1909
+g4003
+ssg891
+(dp4885
+sg893
+(dp4886
+sg895
+(dp4887
+sg897
+(dp4888
+VAlain Badiou
+p4889
+g2961
+sVJacques Lacan
+p4890
+g3062
+ssg899
+(dp4891
+g1507
+g3541
+sg4470
+g3345
+sg969
+g3007
+sg635
+g2648
+sg119
+g2199
+sVAlfred North Whitehead
+p4892
+g3218
+sg815
+g2845
+sg439
+g2472
+sg2019
+g4274
+sg4487
+g2947
+sg1113
+g3134
+ssg901
+(dp4893
+sg903
+(dp4894
+sg905
+(dp4895
+g777
+g2817
+ssg907
+(dp4896
+sg909
+(dp4897
+g4479
+g3299
+sg4506
+g2347
+sVKarl Popper
+p4898
+g3877
+sg4775
+g3779
+ssg911
+(dp4899
+g4633
+g4101
+ssg913
+(dp4900
+g819
+g2860
+ssg915
+(dp4901
+sg917
+(dp4902
+g253
+g2297
+sg4443
+g3175
+ssg919
+(dp4903
+g665
+g2676
+sVGilles Deleuze
+p4904
+g4074
+sg4890
+g3060
+sg327
+g2361
+sg147
+g2221
+ssg921
+(dp4905
+g4452
+g2432
+ssg923
+(dp4906
+g307
+g2342
+sg1745
+g3787
+ssg925
+(dp4907
+g2019
+g4321
+ssg927
+(dp4908
+sg929
+(dp4909
+g1873
+g3972
+ssg931
+(dp4910
+sg933
+(dp4911
+sg935
+(dp4912
+sg937
+(dp4913
+g1507
+g3545
+sg1613
+g3651
+sg187
+g2251
+sg255
+g2305
+sg4470
+g3335
+ssg939
+(dp4914
+g1509
+g3548
+sVDean Zimmerman
+p4915
+g3676
+ssg941
+(dp4916
+sg943
+(dp4917
+sg945
+(dp4918
+sg947
+(dp4919
+sg949
+(dp4920
+g377
+g2398
+ssg951
+(dp4921
+sg953
+(dp4922
+g665
+g2722
+sVMaurice Blanchot
+p4923
+g3707
+ssg955
+(dp4924
+sg957
+(dp4925
+sg959
+(dp4926
+g4869
+g2990
+sg4889
+g2959
+sg4463
+g3609
+ssg961
+(dp4927
+g1063
+g3087
+sg1745
+g3807
+ssg963
+(dp4928
+sg965
+(dp4929
+sg967
+(dp4930
+sg969
+(dp4931
+VHeraclitus
+p4932
+g2966
+ssg971
+(dp4933
+g4463
+g3613
+sg665
+g2709
+sg693
+g2766
+sg4889
+g2958
+ssg973
+(dp4934
+sg975
+(dp4935
+g1167
+g3193
+ssg977
+(dp4936
+sg979
+(dp4937
+sg981
+(dp4938
+sg983
+(dp4939
+sg985
+(dp4940
+sg987
+(dp4941
+sg989
+(dp4942
+g2019
+g4300
+sg167
+g2236
+sg1745
+g3827
+ssg991
+(dp4943
+sg993
+(dp4944
+sg995
+(dp4945
+sg997
+(dp4946
+sg999
+(dp4947
+sg1001
+(dp4948
+sg1003
+(dp4949
+sg1005
+(dp4950
+sg1007
+(dp4951
+sg1009
+(dp4952
+sg1011
+(dp4953
+sg1013
+(dp4954
+sg1015
+(dp4955
+g1121
+g3140
+ssg1017
+(dp4956
+sg1019
+(dp4957
+sg1021
+(dp4958
+g665
+g2729
+ssg1023
+(dp4959
+sg1025
+(dp4960
+g1063
+g3095
+ssg1027
+(dp4961
+sg1029
+(dp4962
+sg1031
+(dp4963
+g635
+g2645
+ssg1033
+(dp4964
+sg1035
+(dp4965
+g1947
+g4039
+ssg1037
+(dp4966
+g665
+g2714
+sg541
+g2574
+ssg1039
+(dp4967
+sg1041
+(dp4968
+g635
+g2650
+sg1745
+g3858
+ssg1043
+(dp4969
+g4452
+g2434
+sVErnst Bloch
+p4970
+g2240
+sg1213
+g3231
+ssg1045
+(dp4971
+g1505
+g3536
+sg585
+g2602
+ssg1047
+(dp4972
+sg1049
+(dp4973
+sg1051
+(dp4974
+g2019
+g4126
+sg1745
+g3783
+ssg1053
+(dp4975
+g1745
+g3789
+ssg1055
+(dp4976
+g665
+g2683
+sg4762
+g3734
+ssg1057
+(dp4977
+sg1059
+(dp4978
+g815
+g2847
+ssg1061
+(dp4979
+sg1063
+(dp4980
+sg1065
+(dp4981
+sg1067
+(dp4982
+g377
+g2401
+sg439
+g2474
+ssg1069
+(dp4983
+g2019
+g4230
+ssg1071
+(dp4984
+g4530
+g4115
+ssg1073
+(dp4985
+sg1075
+(dp4986
+g4487
+g2941
+ssg1077
+(dp4987
+sg1079
+(dp4988
+sg1081
+(dp4989
+sg1083
+(dp4990
+g1599
+g3636
+ssg1085
+(dp4991
+sg1087
+(dp4992
+sg1089
+(dp4993
+sg1091
+(dp4994
+sg1093
+(dp4995
+sg1095
+(dp4996
+sg1097
+(dp4997
+sg1099
+(dp4998
+g4869
+g2994
+sg2019
+g4204
+ssg1101
+(dp4999
+sg1103
+(dp5000
+g429
+g2464
+sg327
+g2362
+ssg1105
+(dp5001
+sg1107
+(dp5002
+sg1109
+(dp5003
+g1745
+g3848
+ssg1111
+(dp5004
+sg1113
+(dp5005
+sg1115
+(dp5006
+sg1117
+(dp5007
+sg1119
+(dp5008
+sg1121
+(dp5009
+sg1123
+(dp5010
+sg1125
+(dp5011
+g4633
+g4103
+ssg1127
+(dp5012
+sg1129
+(dp5013
+g1847
+g3953
+ssg1131
+(dp5014
+g2019
+g4152
+ssg1133
+(dp5015
+sg1135
+(dp5016
+g2019
+g4156
+ssg1137
+(dp5017
+g2013
+g4121
+sg1483
+g3517
+ssg1139
+(dp5018
+sg1141
+(dp5019
+sg1143
+(dp5020
+sg1145
+(dp5021
+g2019
+g4162
+sg545
+g2577
+sg665
+g2724
+sVMario Tronti
+p5022
+g3205
+sg1745
+g3837
+sg1111
+g3131
+ssg1147
+(dp5023
+sg1149
+(dp5024
+g429
+g2465
+ssg1151
+(dp5025
+g1733
+g3763
+sg1363
+g3401
+ssg1153
+(dp5026
+g1685
+g3712
+ssg1155
+(dp5027
+sg1157
+(dp5028
+sg1159
+(dp5029
+g651
+g2664
+ssg1161
+(dp5030
+sg1163
+(dp5031
+sg1165
+(dp5032
+sg1167
+(dp5033
+g2019
+g4172
+sg665
+g2736
+ssg1169
+(dp5034
+g2019
+g4174
+sg4470
+g3328
+sg349
+g2381
+sg1745
+g3850
+ssg1171
+(dp5035
+sg1173
+(dp5036
+sg1175
+(dp5037
+sg1177
+(dp5038
+g1071
+g3102
+ssg1179
+(dp5039
+sg1181
+(dp5040
+sg1183
+(dp5041
+sg1185
+(dp5042
+g1745
+g3825
+ssg1187
+(dp5043
+sg1189
+(dp5044
+sg1191
+(dp5045
+g1671
+g3697
+sg1483
+g3519
+ssg1193
+(dp5046
+sg1195
+(dp5047
+sg1197
+(dp5048
+g1125
+g3143
+ssg1199
+(dp5049
+g389
+g2409
+sg4487
+g2944
+sVBertrand Russell
+p5050
+g2933
+ssg1201
+(dp5051
+sg1203
+(dp5052
+sg1205
+(dp5053
+g1929
+g4021
+sg665
+g2691
+sg2019
+g4186
+ssg1207
+(dp5054
+sg1209
+(dp5055
+sg1211
+(dp5056
+sg1213
+(dp5057
+sg1215
+(dp5058
+sg1217
+(dp5059
+sg1219
+(dp5060
+g253
+g2299
+sg813
+g2842
+ssg1221
+(dp5061
+sg1223
+(dp5062
+sg1225
+(dp5063
+g839
+g2878
+ssg1227
+(dp5064
+sg1229
+(dp5065
+sg1231
+(dp5066
+sg1233
+(dp5067
+sg1235
+(dp5068
+sg1237
+(dp5069
+sg1239
+(dp5070
+sg1241
+(dp5071
+g509
+g2539
+ssg1243
+(dp5072
+sg1245
+(dp5073
+sg1247
+(dp5074
+sg1249
+(dp5075
+sg1251
+(dp5076
+g4553
+g3655
+ssg1253
+(dp5077
+g2019
+g4208
+sg4452
+g2439
+ssg1255
+(dp5078
+sg1257
+(dp5079
+g2019
+g4210
+sg665
+g2717
+ssg1259
+(dp5080
+sg1261
+(dp5081
+sg1263
+(dp5082
+sg1265
+(dp5083
+sg1267
+(dp5084
+VGiorgio Agamben
+p5085
+g3010
+sg665
+g2719
+sg281
+g2328
+sg53
+g2153
+sg2019
+g4212
+ssg1269
+(dp5086
+sg1271
+(dp5087
+sg1273
+(dp5088
+g4463
+g3611
+sg4762
+g3738
+sg509
+g2536
+sg4480
+g3500
+sg887
+g2921
+ssg1275
+(dp5089
+sg1277
+(dp5090
+sg1279
+(dp5091
+g1785
+g3908
+ssg1281
+(dp5092
+sg1283
+(dp5093
+sg1285
+(dp5094
+sg1287
+(dp5095
+sg1289
+(dp5096
+sg1291
+(dp5097
+g2019
+g4216
+sg4710
+g2622
+sg4545
+g3420
+sg1745
+g3843
+ssg1293
+(dp5098
+sg1295
+(dp5099
+g1063
+g3081
+ssg1297
+(dp5100
+g2019
+g4220
+sg665
+g2732
+sVJacques Rancière
+p5101
+g3682
+sg159
+g2231
+ssg1299
+(dp5102
+sg1301
+(dp5103
+sg1303
+(dp5104
+sg1305
+(dp5105
+g1599
+g3635
+ssg1307
+(dp5106
+g4832
+g3645
+ssg1309
+(dp5107
+sg1311
+(dp5108
+sg1313
+(dp5109
+g4463
+g3617
+sg4489
+g2910
+sg1941
+g4035
+ssg1315
+(dp5110
+sg1317
+(dp5111
+g4480
+g3503
+ssg1319
+(dp5112
+sg1321
+(dp5113
+sg1323
+(dp5114
+sg1325
+(dp5115
+g1363
+g3403
+ssg1327
+(dp5116
+g2019
+g4228
+sg1063
+g3084
+ssg1329
+(dp5117
+sg1331
+(dp5118
+g2019
+g4234
+ssg1333
+(dp5119
+g4470
+g3317
+ssg1335
+(dp5120
+sg1337
+(dp5121
+sg1339
+(dp5122
+sg1341
+(dp5123
+g261
+g2309
+ssg1343
+(dp5124
+sg1345
+(dp5125
+sg1347
+(dp5126
+sg1349
+(dp5127
+g417
+g2456
+ssg1351
+(dp5128
+sg1353
+(dp5129
+sg1355
+(dp5130
+g1903
+g3998
+ssg1357
+(dp5131
+g4463
+g3603
+sVJudith Butler
+p5132
+g3224
+sg2019
+g4242
+sg281
+g2324
+sg4479
+g3277
+sg665
+g2702
+sg4452
+g2413
+sg4923
+g3705
+ssg1359
+(dp5133
+sg1361
+(dp5134
+sg1363
+(dp5135
+g4633
+g4085
+ssg1365
+(dp5136
+sg1367
+(dp5137
+g2019
+g4246
+sg4470
+g3326
+sg349
+g2380
+sg1533
+g3570
+sg1745
+g3811
+ssg1369
+(dp5138
+sg1371
+(dp5139
+g2019
+g4284
+ssg1373
+(dp5140
+sg1375
+(dp5141
+sg1377
+(dp5142
+sg1379
+(dp5143
+g327
+g2363
+sg1489
+g3524
+ssg1381
+(dp5144
+g4633
+g4089
+ssg1383
+(dp5145
+g2019
+g4256
+sg665
+g2713
+sg1745
+g3819
+ssg1385
+(dp5146
+g5050
+g2931
+ssg1387
+(dp5147
+sg1389
+(dp5148
+sg1391
+(dp5149
+sg1393
+(dp5150
+sg1395
+(dp5151
+sg1397
+(dp5152
+sg1399
+(dp5153
+sg1401
+(dp5154
+VDavid Hilbert
+p5155
+g4388
+ssg1403
+(dp5156
+g4479
+g3283
+sg1929
+g4019
+sg1063
+g3085
+sg887
+g2919
+sg2019
+g4262
+ssg1405
+(dp5157
+g1745
+g3792
+ssg1407
+(dp5158
+sg1409
+(dp5159
+g4479
+g3285
+sg597
+g2610
+sg4430
+g2561
+ssg1411
+(dp5160
+sg1413
+(dp5161
+sg1415
+(dp5162
+g4452
+g2427
+ssg1417
+(dp5163
+sg1419
+(dp5164
+g4470
+g3320
+ssg1421
+(dp5165
+sg1423
+(dp5166
+sg1425
+(dp5167
+sg1427
+(dp5168
+sg1429
+(dp5169
+sg1431
+(dp5170
+g4904
+g4075
+ssg1433
+(dp5171
+g479
+g2501
+ssg1435
+(dp5172
+sg1437
+(dp5173
+sg1439
+(dp5174
+g2019
+g4272
+ssg1441
+(dp5175
+sg1443
+(dp5176
+g665
+g2733
+ssg1445
+(dp5177
+sg1447
+(dp5178
+sg1449
+(dp5179
+sg1451
+(dp5180
+sg1453
+(dp5181
+g4409
+g3168
+sg4763
+g3196
+ssg1455
+(dp5182
+sg1457
+(dp5183
+sg1459
+(dp5184
+sg1461
+(dp5185
+sg1463
+(dp5186
+sg1465
+(dp5187
+g935
+g2976
+ssg1467
+(dp5188
+sg1469
+(dp5189
+g4409
+g3171
+ssg1471
+(dp5190
+sg1473
+(dp5191
+g4463
+g3605
+sg4762
+g3732
+sg1317
+g3365
+sg2019
+g4282
+sg509
+g2537
+sg1411
+g3459
+sg4479
+g3281
+sg665
+g2680
+sVTheodor W. Adorno
+p5192
+g3069
+ssg1475
+(dp5193
+sg1477
+(dp5194
+sg1479
+(dp5195
+g875
+g2900
+sg689
+g2762
+sg1745
+g3791
+ssg1481
+(dp5196
+sg1483
+(dp5197
+sg1485
+(dp5198
+g2055
+g4348
+ssg1487
+(dp5199
+sg1489
+(dp5200
+VRudolf Carnap
+p5201
+g4355
+sg4545
+g3430
+ssg1491
+(dp5202
+sg1493
+(dp5203
+sg1495
+(dp5204
+sg1497
+(dp5205
+sg1499
+(dp5206
+sg1501
+(dp5207
+sg1503
+(dp5208
+sg1505
+(dp5209
+sg1507
+(dp5210
+g1959
+g4053
+ssg1509
+(dp5211
+sg1511
+(dp5212
+sg1513
+(dp5213
+g635
+g2641
+ssg1515
+(dp5214
+sg1517
+(dp5215
+sg1519
+(dp5216
+sg1521
+(dp5217
+sg1523
+(dp5218
+g1819
+g3929
+ssg1525
+(dp5219
+sg1527
+(dp5220
+sg1529
+(dp5221
+sg1531
+(dp5222
+sg1533
+(dp5223
+sg1535
+(dp5224
+sg1537
+(dp5225
+sg1539
+(dp5226
+g1785
+g3898
+ssg1541
+(dp5227
+sg1543
+(dp5228
+sg1545
+(dp5229
+sg1547
+(dp5230
+sg1549
+(dp5231
+sg1551
+(dp5232
+sg1553
+(dp5233
+sg1555
+(dp5234
+sg1557
+(dp5235
+g635
+g2635
+sg4480
+g3501
+sg2105
+g4385
+sg4775
+g3771
+ssg1559
+(dp5236
+sg1561
+(dp5237
+g2019
+g4154
+ssg1563
+(dp5238
+sg1565
+(dp5239
+sg1567
+(dp5240
+sg1569
+(dp5241
+sg1571
+(dp5242
+sg1573
+(dp5243
+g4489
+g2907
+sg859
+g2890
+sg63
+g2159
+sg281
+g2323
+sg123
+g2204
+sg4479
+g3287
+sg665
+g2739
+sg4452
+g2415
+sg199
+g2262
+sg4869
+g2992
+sVRoland Barthes
+p5244
+g3272
+sg693
+g2768
+ssg1575
+(dp5245
+sg1577
+(dp5246
+g2019
+g4320
+sg2037
+g4336
+sg4470
+g3324
+sg349
+g2378
+sg1745
+g3852
+ssg1579
+(dp5247
+sg1581
+(dp5248
+g1543
+g3576
+ssg1583
+(dp5249
+sg1585
+(dp5250
+sg1587
+(dp5251
+sg1589
+(dp5252
+sg1591
+(dp5253
+sg1593
+(dp5254
+sg1595
+(dp5255
+g2019
+g4128
+ssg1597
+(dp5256
+sg1599
+(dp5257
+sg1601
+(dp5258
+g665
+g2684
+ssg1603
+(dp5259
+sg1605
+(dp5260
+g2001
+g4107
+ssg1607
+(dp5261
+sg1609
+(dp5262
+sg1611
+(dp5263
+sg1613
+(dp5264
+sg1615
+(dp5265
+sg1617
+(dp5266
+g261
+g2311
+ssg1619
+(dp5267
+sg1621
+(dp5268
+sg1623
+(dp5269
+sg1625
+(dp5270
+sg1627
+(dp5271
+sg1629
+(dp5272
+sg1631
+(dp5273
+sg1633
+(dp5274
+g4456
+g3723
+sg197
+g2259
+sg819
+g2854
+ssg1635
+(dp5275
+sg1637
+(dp5276
+sg1639
+(dp5277
+sg1641
+(dp5278
+sg1643
+(dp5279
+sg1645
+(dp5280
+g1063
+g3088
+ssg1647
+(dp5281
+g939
+g2979
+ssg1649
+(dp5282
+sg1651
+(dp5283
+g1745
+g3841
+ssg1653
+(dp5284
+g1661
+g3687
+sg2019
+g4144
+sg1839
+g3943
+sg813
+g2841
+ssg1655
+(dp5285
+g2019
+g4146
+sg665
+g2715
+ssg1657
+(dp5286
+sg1659
+(dp5287
+sg1661
+(dp5288
+sg1663
+(dp5289
+sg1665
+(dp5290
+sg1667
+(dp5291
+VNorman Malcolm
+p5292
+g3107
+ssg1669
+(dp5293
+sg1671
+(dp5294
+sg1673
+(dp5295
+g2019
+g4236
+ssg1675
+(dp5296
+sg1677
+(dp5297
+g1317
+g3363
+ssg1679
+(dp5298
+sg1681
+(dp5299
+sg1683
+(dp5300
+g4463
+g3615
+sg281
+g2326
+sg53
+g2151
+ssg1685
+(dp5301
+sg1687
+(dp5302
+sg1689
+(dp5303
+sg1691
+(dp5304
+g487
+g2512
+ssg1693
+(dp5305
+sg1695
+(dp5306
+g819
+g2850
+ssg1697
+(dp5307
+g685
+g2759
+ssg1699
+(dp5308
+sg1701
+(dp5309
+g1929
+g4023
+sg2019
+g4136
+sg471
+g2495
+ssg1703
+(dp5310
+g359
+g2387
+ssg1705
+(dp5311
+sg1707
+(dp5312
+sg1709
+(dp5313
+g2019
+g4170
+sg4470
+g3336
+ssg1711
+(dp5314
+g2019
+g4168
+sg665
+g2730
+sg1519
+g3557
+ssg1713
+(dp5315
+sg1715
+(dp5316
+sg1717
+(dp5317
+g5022
+g3203
+ssg1719
+(dp5318
+sg1721
+(dp5319
+g665
+g2740
+ssg1723
+(dp5320
+g63
+g2161
+sg819
+g2858
+sg2019
+g4178
+sg123
+g2208
+sg759
+g2807
+sg197
+g2258
+sg779
+g2820
+sg1745
+g3856
+sg1785
+g3906
+sg1685
+g3714
+ssg1725
+(dp5321
+sg1727
+(dp5322
+sg1729
+(dp5323
+sg1731
+(dp5324
+sg1733
+(dp5325
+sg1735
+(dp5326
+g875
+g2901
+ssg1737
+(dp5327
+sg1739
+(dp5328
+sg1741
+(dp5329
+g377
+g2402
+sg635
+g2637
+ssg1743
+(dp5330
+VHannah Arendt
+p5331
+g4378
+ssg1745
+(dp5332
+sg1747
+(dp5333
+g1359
+g3397
+ssg1749
+(dp5334
+sg1751
+(dp5335
+sg1753
+(dp5336
+sg1755
+(dp5337
+sg1757
+(dp5338
+g2019
+g4190
+sg665
+g2693
+sg4890
+g3064
+sg4889
+g2963
+ssg1759
+(dp5339
+g4452
+g2433
+ssg1761
+(dp5340
+g2019
+g4192
+ssg1763
+(dp5341
+sg1765
+(dp5342
+sg1767
+(dp5343
+g89
+g2176
+sg4470
+g3311
+sg993
+g3029
+sg4633
+g4083
+sg1063
+g3090
+sg2019
+g4307
+ssg1769
+(dp5344
+g1365
+g3409
+ssg1771
+(dp5345
+sg1773
+(dp5346
+sg1775
+(dp5347
+sg1777
+(dp5348
+g377
+g2399
+sg4633
+g4087
+sg1031
+g3053
+sg4545
+g3426
+sg417
+g2455
+sg1619
+g3660
+ssg1779
+(dp5349
+sg1781
+(dp5350
+sg1783
+(dp5351
+sg1785
+(dp5352
+g2019
+g4240
+sg4649
+g4008
+ssg1787
+(dp5353
+sg1789
+(dp5354
+g4533
+g3743
+ssg1791
+(dp5355
+sg1793
+(dp5356
+sg1795
+(dp5357
+sg1797
+(dp5358
+sg1799
+(dp5359
+g119
+g2195
+ssg1801
+(dp5360
+sg1803
+(dp5361
+sg1805
+(dp5362
+VBernard Williams
+p5363
+g2755
+sg1745
+g3823
+ssg1807
+(dp5364
+g4430
+g2559
+ssg1809
+(dp5365
+g4544
+g4330
+ssg1811
+(dp5366
+g1745
+g3834
+ssg1813
+(dp5367
+sg1815
+(dp5368
+sg1817
+(dp5369
+g1543
+g3578
+ssg1819
+(dp5370
+VLeopold Löwenheim
+p5371
+g3561
+ssg1821
+(dp5372
+sg1823
+(dp5373
+g119
+g2198
+sg4430
+g2556
+sg73
+g2167
+ssg1825
+(dp5374
+sg1827
+(dp5375
+VHans-Hermann Hoppe
+p5376
+g2771
+sg997
+g3032
+ssg1829
+(dp5377
+sg1831
+(dp5378
+sg1833
+(dp5379
+g2019
+g4302
+sg123
+g2206
+sg63
+g2160
+sg4470
+g3322
+ssg1835
+(dp5380
+sg1837
+(dp5381
+sg1839
+(dp5382
+sg1841
+(dp5383
+sg1843
+(dp5384
+sg1845
+(dp5385
+g2019
+g4222
+ssg1847
+(dp5386
+sg1849
+(dp5387
+sg1851
+(dp5388
+g4530
+g4113
+ssg1853
+(dp5389
+sg1855
+(dp5390
+sg1857
+(dp5391
+sg1859
+(dp5392
+sg1861
+(dp5393
+VHilary Putnam
+p5394
+g2292
+sg377
+g2400
+sg4545
+g3437
+ssg1863
+(dp5395
+sg1865
+(dp5396
+g2019
+g4270
+ssg1867
+(dp5397
+g4484
+g3513
+ssg1869
+(dp5398
+g591
+g2606
+ssg1871
+(dp5399
+sg1873
+(dp5400
+g2019
+g4226
+ssg1875
+(dp5401
+sg1877
+(dp5402
+g993
+g3027
+sg5050
+g2930
+sg4506
+g2346
+ssg1879
+(dp5403
+sg1881
+(dp5404
+sg1883
+(dp5405
+sg1885
+(dp5406
+g2019
+g4244
+sg875
+g2902
+ssg1887
+(dp5407
+g2019
+g4238
+sg4452
+g2429
+sg4470
+g3340
+sg31
+g2136
+ssg1889
+(dp5408
+sg1891
+(dp5409
+sg1893
+(dp5410
+g637
+g2654
+ssg1895
+(dp5411
+g1745
+g3844
+ssg1897
+(dp5412
+sg1899
+(dp5413
+sg1901
+(dp5414
+sg1903
+(dp5415
+sg1905
+(dp5416
+g1309
+g3358
+sVAlexander Campbell Fraser
+p5417
+g3918
+sg4470
+g3341
+sg1847
+g3951
+ssg1907
+(dp5418
+sg1909
+(dp5419
+sg1911
+(dp5420
+sg1913
+(dp5421
+sg1915
+(dp5422
+VJohn Rawls
+p5423
+g3451
+sg2019
+g4250
+sg4470
+g3329
+sg1785
+g3902
+ssg1917
+(dp5424
+sg1919
+(dp5425
+sg1921
+(dp5426
+sg1923
+(dp5427
+sg1925
+(dp5428
+sg1927
+(dp5429
+sg1929
+(dp5430
+sg1931
+(dp5431
+sg1933
+(dp5432
+sg1935
+(dp5433
+g819
+g2859
+ssg1937
+(dp5434
+g2019
+g4252
+sg1745
+g3817
+ssg1939
+(dp5435
+sg1941
+(dp5436
+g35
+g2141
+ssg1943
+(dp5437
+sg1945
+(dp5438
+g2019
+g4264
+sg487
+g2509
+ssg1947
+(dp5439
+sg1949
+(dp5440
+sg1951
+(dp5441
+sg1953
+(dp5442
+sg1955
+(dp5443
+sg1957
+(dp5444
+sg1959
+(dp5445
+sg1961
+(dp5446
+sg1963
+(dp5447
+g2019
+g4268
+sg509
+g2538
+ssg1965
+(dp5448
+g1063
+g3080
+ssg1967
+(dp5449
+sg1969
+(dp5450
+sg1971
+(dp5451
+sg1973
+(dp5452
+sg1975
+(dp5453
+g4869
+g2997
+sg5331
+g4380
+sg5085
+g3014
+sg4452
+g2438
+sg4923
+g3709
+sg4463
+g3619
+ssg1977
+(dp5454
+sg1979
+(dp5455
+sg1981
+(dp5456
+sg1983
+(dp5457
+sg1985
+(dp5458
+sg1987
+(dp5459
+g4864
+g3395
+sg1507
+g3543
+sVGilbert Simondon
+p5460
+g3471
+sg223
+g2278
+sg499
+g2527
+sg4470
+g3343
+sg2019
+g4276
+sg5085
+g3012
+sg665
+g2744
+sg4452
+g2437
+sg4430
+g2563
+ssg1989
+(dp5461
+sg1991
+(dp5462
+sg1993
+(dp5463
+g1745
+g3846
+ssg1995
+(dp5464
+g1121
+g3139
+ssg1997
+(dp5465
+sg1999
+(dp5466
+g4775
+g3773
+sg4679
+g3587
+sg635
+g2639
+sg1247
+g3252
+sg1781
+g3887
+ssg2001
+(dp5467
+g4832
+g3643
+ssg2003
+(dp5468
+sg2005
+(dp5469
+g4869
+g2995
+ssg2007
+(dp5470
+g517
+g2545
+sg4470
+g3315
+ssg2009
+(dp5471
+g1071
+g3101
+sg223
+g2275
+sg499
+g2525
+sg1851
+g3957
+sg1063
+g3092
+sg665
+g2695
+sg2019
+g4288
+ssg2011
+(dp5472
+sg2013
+(dp5473
+sg2015
+(dp5474
+sg2017
+(dp5475
+sg2019
+(dp5476
+sg2021
+(dp5477
+sg2023
+(dp5478
+sg2025
+(dp5479
+sg2027
+(dp5480
+g1929
+g4025
+sg2019
+g4292
+sg151
+g2224
+sg4452
+g2426
+ssg2029
+(dp5481
+sg2031
+(dp5482
+sg2033
+(dp5483
+g4479
+g3295
+sg4633
+g4097
+sg4892
+g3219
+sg5371
+g3563
+sg4775
+g3777
+ssg2035
+(dp5484
+g665
+g2712
+ssg2037
+(dp5485
+sg2039
+(dp5486
+sg2041
+(dp5487
+sg2043
+(dp5488
+sg2045
+(dp5489
+sg2047
+(dp5490
+sg2049
+(dp5491
+sg2051
+(dp5492
+sg2053
+(dp5493
+sg2055
+(dp5494
+g1337
+g3379
+sVHarvey Friedman
+p5495
+g4362
+ssg2057
+(dp5496
+g2019
+g4303
+ssg2059
+(dp5497
+g2019
+g4305
+sg4452
+g2424
+sg53
+g2152
+ssg2061
+(dp5498
+sg2063
+(dp5499
+sg2065
+(dp5500
+g4633
+g4093
+sg635
+g2646
+sg4775
+g3775
+ssg2067
+(dp5501
+sg2069
+(dp5502
+VLudwig von Mises
+p5503
+g2969
+sg2019
+g4196
+sg1845
+g3948
+sg1745
+g3804
+sg805
+g2835
+sg4409
+g3169
+ssg2071
+(dp5504
+g4545
+g3433
+ssg2073
+(dp5505
+sg2075
+(dp5506
+sg2077
+(dp5507
+g1745
+g3835
+ssg2079
+(dp5508
+g1745
+g3805
+ssg2081
+(dp5509
+sg2083
+(dp5510
+g2019
+g4309
+sg4452
+g2435
+ssg2085
+(dp5511
+sg2087
+(dp5512
+g2019
+g4150
+ssg2089
+(dp5513
+sg2091
+(dp5514
+g2019
+g4312
+ssg2093
+(dp5515
+sg2095
+(dp5516
+sg2097
+(dp5517
+sg2099
+(dp5518
+g1929
+g4027
+sg665
+g2734
+sg2019
+g4280
+ssg2101
+(dp5519
+g887
+g2922
+ssg2103
+(dp5520
+sg2105
+(dp5521
+sg2107
+(dp5522
+g515
+g2543
+ssg2109
+(dp5523
+g1985
+g4071
+sg1745
+g3860
+sg255
+g2301
+sg1595
+g3632
+ssg2111
+(dp5524
+sg2113
+(dp5525
+sg2115
+(dp5526
+sg2117
+(dp5527
+ssba(dp5528
+S'aestheticians'
+p5529
+(lp5530
+g1589
+ag1029
+ag1567
+ag697
+ag1027
+ag4484
+ag4520
+aVRudolf Arnheim
+p5531
+ag27
+ag415
+ag1873
+ag1065
+ag1209
+ag1189
+ag399
+ag5244
+ag281
+ag671
+ag157
+ag1073
+ag1449
+ag199
+ag243
+ag1593
+ag1345
+ag4923
+ag4435
+ag2037
+ag1005
+ag1013
+ag421
+ag903
+ag543
+aVR. G. Collingwood
+p5532
+ag479
+ag4425
+ag1657
+ag151
+ag877
+ag839
+ag4463
+aVUmberto Eco
+p5533
+aVJonathan Edwards (theologian)
+p5534
+aVRalph Waldo Emerson
+p5535
+ag213
+aVValentin Feldman
+p5536
+ag1957
+ag4864
+aVHans-Georg Gadamer
+p5537
+ag1529
+ag1771
+ag1681
+ag401
+ag435
+ag675
+ag1369
+ag1407
+ag471
+ag443
+ag1737
+ag4410
+ag425
+ag549
+ag17
+ag4470
+ag565
+ag1487
+ag533
+ag335
+ag4430
+ag137
+ag623
+ag1393
+ag113
+ag1077
+ag187
+ag791
+ag1459
+ag1193
+ag1143
+ag1107
+ag405
+ag147
+ag159
+ag343
+ag633
+aVJacques Maritain
+p5538
+ag2047
+ag1669
+ag1897
+ag4452
+ag1785
+ag541
+ag1279
+ag485
+ag25
+ag63
+ag1599
+ag525
+aVAyn Rand
+p5539
+aVThomas Reid
+p5540
+ag1953
+aVGeorge Santayana
+p5541
+ag161
+ag1629
+ag191
+ag1245
+ag4436
+ag107
+ag315
+ag1213
+ag781
+ag11
+ag475
+ag2115
+ag627
+ag1085
+ag95
+aVTudor Vianu
+p5542
+ag1907
+ag1093
+ag1039
+ag763
+ag823
+asS'sociopolitical'
+p5543
+(lp5544
+VAbraham Joshua Heschel
+p5545
+ag2003
+ag1533
+ag769
+ag897
+ag2089
+aVAlan Ryan
+p5546
+ag1849
+ag385
+aVAlexis de Tocqueville
+p5547
+ag1911
+ag503
+ag1445
+ag497
+ag1527
+ag449
+ag4530
+aVAristotle
+p5548
+ag1609
+ag1017
+ag287
+ag655
+aVAverroes
+p5549
+ag193
+aVAyn Rand
+p5550
+ag1561
+aVBertrand de Jouvenel
+p5551
+ag5050
+ag299
+ag555
+ag715
+ag997
+ag1993
+ag1019
+ag693
+ag4781
+ag1865
+ag1081
+ag4762
+ag1841
+ag973
+aVCheng Yi (philosopher)
+p5552
+aVCicero
+p5553
+ag1505
+ag43
+ag773
+aVConfucius
+p5554
+ag1947
+aVCornel West
+p5555
+ag509
+ag871
+ag1501
+aVDaniel Guérin
+p5556
+ag83
+aVDavid Hume
+p5557
+ag1991
+aVDavid Miller (political theorist)
+p5558
+ag307
+ag969
+ag2111
+aVDisciples of Confucius
+p5559
+ag33
+ag155
+ag4858
+ag1211
+aVEdward Said
+p5560
+ag411
+ag29
+aVEric Voegelin
+p5561
+ag933
+ag4970
+ag805
+ag1447
+ag499
+ag537
+aVFerdinand de Saussure
+p5562
+ag2011
+ag1371
+aVFrancis Fukuyama
+p5563
+ag611
+ag311
+ag1541
+ag167
+ag859
+ag413
+ag131
+ag1981
+aVFujiwara Seika
+p5564
+ag887
+ag1925
+ag957
+aVGeorg Wilhelm Friedrich Hegel
+p5565
+ag227
+ag1269
+aVGeorges Bataille
+p5566
+aVGerald Cohen
+p5567
+ag1161
+ag1761
+ag345
+ag173
+ag1519
+ag679
+ag5085
+ag519
+ag369
+aVGustave de Molinari
+p5568
+ag57
+aVGuy Debord
+p5569
+ag2095
+ag651
+ag1625
+ag723
+ag5331
+ag991
+ag5376
+ag317
+ag1395
+ag829
+ag661
+aVHarriet Martineau
+p5570
+ag289
+ag297
+ag225
+aVHenri Lefebvre
+p5571
+ag1653
+ag349
+ag817
+ag677
+ag4603
+ag255
+ag1375
+ag1853
+ag553
+ag55
+ag813
+ag649
+ag189
+aVImmanuel Kant
+p5572
+ag545
+ag1929
+ag717
+ag19
+ag469
+ag1399
+ag2117
+ag1347
+ag4890
+ag5101
+ag323
+ag1659
+aVJames Tully (philosopher)
+p5573
+ag965
+aVJanet Biehl
+p5574
+ag1537
+ag491
+ag1937
+aVJean-François Lyotard
+p5575
+ag4533
+ag259
+ag1051
+aVJohn Austin (legal philosopher)
+p5576
+ag1753
+aVJohn Finnis
+p5577
+aVJohn Hospers
+p5578
+ag4763
+ag945
+ag5423
+ag787
+aVJohn Stuart Mill
+p5579
+ag1343
+ag1389
+ag105
+ag1547
+ag165
+ag481
+ag1147
+ag31
+ag5132
+ag221
+ag1155
+ag845
+ag4480
+ag1429
+ag1535
+ag4409
+ag4898
+ag363
+ag1185
+ag2043
+ag2015
+ag217
+ag1551
+ag445
+ag789
+ag807
+ag1301
+aVLorenzo Peña
+p5580
+aVLouis Althusser
+p5581
+ag5503
+ag51
+ag669
+ag947
+ag303
+ag501
+ag883
+ag249
+ag2085
+ag5022
+aVMartha Nussbaum
+p5582
+ag795
+aVMaurice Brinton
+p5583
+aVMaurice Cranston
+p5584
+ag1089
+ag103
+ag667
+ag427
+ag333
+ag4710
+ag1515
+ag1079
+aVMichael Oakeshott
+p5585
+ag1521
+aVMichel Foucault
+p5586
+ag1743
+ag865
+ag1713
+ag777
+ag799
+ag125
+ag1427
+ag999
+ag2087
+ag373
+ag153
+aVMuhammad Asad
+p5587
+aVMuhammad Iqbal
+p5588
+ag637
+aVMurray Rothbard
+p5589
+ag273
+ag1255
+aVNiccolò Machiavelli
+p5590
+ag1503
+aVNoam Chomsky
+p5591
+ag1277
+ag1049
+ag977
+ag285
+ag737
+aVOskar Negt
+p5592
+ag1227
+ag1071
+ag293
+aVPaul Virilio
+p5593
+ag1421
+ag1417
+ag441
+ag1087
+ag1693
+ag493
+ag2031
+ag1057
+ag1109
+ag573
+ag657
+aVPlato
+p5594
+ag647
+ag2063
+ag1939
+ag821
+ag673
+ag1611
+ag135
+ag1639
+ag329
+ag1133
+ag1365
+aVRoberto Esposito
+p5595
+ag825
+ag683
+ag1967
+ag927
+ag59
+ag381
+aVRosa Luxemburg
+p5596
+ag65
+aVRussell Kirk
+p5597
+ag277
+ag1845
+ag331
+ag605
+ag1167
+aVSlavoj \u017di\u017eek
+p5598
+ag109
+ag175
+ag111
+ag1135
+aVT. M. Scanlon
+p5599
+aVTakis Fotopoulos
+p5600
+aVTalcott Parsons
+p5601
+ag1467
+ag701
+ag967
+ag5192
+ag1439
+aVThomas Aquinas
+p5602
+ag1595
+ag4649
+ag211
+ag1335
+aVThucydides
+p5603
+ag23
+aVToju Nakae
+p5604
+ag4755
+ag397
+ag1215
+ag961
+ag1673
+ag1661
+aVWalter Benjamin
+p5605
+ag1315
+ag963
+aVWilhelm Dilthey
+p5606
+ag879
+aVWilliam James
+p5607
+ag1731
+ag1457
+ag1665
+ag1643
+aVXun Zi
+p5608
+ag941
+ag1951
+ag309
+ag79
+ag1217
+ag487
+ag665
+ag1425
+ag2019
+asS'logicians'
+p5609
+(lp5610
+g1843
+ag515
+ag355
+ag1575
+ag1889
+ag1139
+ag889
+ag609
+aVThomas Aquinas
+p5611
+ag747
+aVAristotle
+p5612
+ag1011
+ag35
+ag751
+ag1137
+ag1909
+aVHenk Barendregt
+p5613
+ag483
+ag1337
+ag1123
+ag1119
+aVPaul Benacerraf
+p5614
+ag1451
+ag1059
+ag321
+ag1835
+ag1095
+ag197
+ag263
+ag21
+aVGeorge Boole
+p5615
+ag4545
+ag1207
+ag295
+ag1591
+ag687
+ag1391
+ag133
+ag1129
+ag431
+aVChanakya
+p5616
+ag261
+ag5201
+ag437
+ag855
+ag143
+ag1977
+aVAlonzo Church
+p5617
+ag283
+ag1949
+ag205
+ag2103
+ag4680
+ag1363
+ag49
+ag707
+ag645
+ag631
+ag1483
+ag1151
+ag1251
+ag4832
+ag2001
+ag593
+ag1707
+ag353
+ag739
+ag1969
+ag615
+aVSolomon Feferman
+p5618
+ag1437
+ag2093
+ag511
+ag1923
+ag1583
+ag1779
+ag625
+ag1623
+ag2013
+ag327
+ag5495
+ag1705
+ag477
+ag575
+ag1165
+ag81
+ag1361
+ag4865
+ag815
+ag129
+ag643
+ag895
+ag377
+ag659
+ag721
+ag1261
+ag2105
+ag735
+ag2055
+ag1339
+aVGeorg Wilhelm Friedrich Hegel
+p5619
+ag1637
+aVLeon Henkin
+p5620
+ag181
+ag1715
+ag5155
+ag4775
+ag361
+ag267
+ag233
+ag1069
+ag13
+ag589
+ag461
+ag1489
+ag1263
+ag1651
+ag1511
+ag1115
+ag985
+ag467
+ag4553
+ag423
+ag621
+ag1247
+ag1381
+ag127
+ag583
+ag929
+ag1863
+ag1221
+ag1813
+ag1671
+ag685
+ag1689
+ag237
+ag1955
+ag1285
+ag1631
+ag1179
+aVGottfried Leibniz
+p5621
+aVStanis\u0142aw Le\u015bniewski
+p5622
+aVClarence Irving Lewis
+p5623
+ag797
+ag1203
+ag641
+aVRamon Llull
+p5624
+ag1815
+ag567
+ag2075
+ag339
+ag5371
+ag1125
+ag1971
+ag893
+ag837
+ag755
+ag1847
+ag85
+ag403
+aVGary R. Mar
+p5625
+aVRuth Barcan Marcus
+p5626
+ag619
+ag183
+ag635
+ag1733
+ag727
+ag2045
+aVJohn Stuart Mill
+p5627
+ag1855
+ag417
+ag1649
+ag911
+ag1007
+ag1041
+ag1113
+ag803
+ag793
+ag1401
+ag1127
+ag269
+ag463
+aVCharles Parsons (philosopher)
+p5628
+ag15
+ag4820
+ag1175
+ag4679
+aVLorenzo Peña
+p5629
+ag1321
+ag1377
+ag1555
+ag185
+ag451
+ag1455
+aVPorphyry (philosopher)
+p5630
+ag551
+ag1917
+ag301
+ag535
+ag201
+ag505
+ag5394
+ag123
+ag4544
+ag149
+aVConstantin R\u0103dulescu-Motru
+p5631
+aVFrank Plumpton Ramsey
+p5632
+ag229
+ag1495
+ag457
+aVAbraham Robinson
+p5633
+ag1781
+ag1719
+ag115
+ag527
+ag325
+aVBertrand Russell
+p5634
+ag771
+ag69
+ag2017
+ag1033
+ag1615
+ag1249
+ag1679
+ag1031
+ag775
+ag139
+ag1325
+ag1307
+aVSaharon Shelah
+p5635
+ag1559
+ag1627
+ag1153
+ag1283
+ag1819
+aVDimiter Skordev
+p5636
+ag513
+aVRaymond Smullyan
+p5637
+ag351
+ag1913
+aVPeter of Spain (author)
+p5638
+ag473
+ag1961
+ag1597
+ag1821
+ag1097
+ag1801
+ag4633
+aVTheophrastus
+p5639
+ag1553
+ag1499
+ag1311
+ag1513
+ag91
+ag1875
+ag1237
+ag1259
+ag1461
+ag901
+ag99
+ag1619
+aVPaul of Venice
+p5640
+ag1903
+ag1859
+aVHao Wang (academic)
+p5641
+ag1973
+ag235
+ag4892
+ag4487
+ag9
+ag409
+ag779
+aVGeorg Henrik von Wright
+p5642
+ag439
+ag1871
+ag1899
+aVErnst Zermelo
+p5643
+ag801
+asS'epistemologists'
+p5644
+(lp5645
+g951
+ag429
+aVThomas Aquinas
+p5646
+aVAristotle
+p5647
+ag729
+aVA. J. Ayer
+p5648
+aVFrancis Bacon
+p5649
+ag119
+ag2025
+ag241
+ag455
+ag177
+aVMario Bunge
+p5650
+aVJudith Butler
+p5651
+ag1061
+aVNoam Chomsky
+p5652
+ag1323
+ag987
+ag1851
+ag1881
+aVNader El-Bizri
+p5653
+ag891
+ag407
+ag1223
+ag1319
+ag539
+ag1091
+aVEmma Goldman
+p5654
+aVNelson Goodman
+p5655
+ag1121
+ag1809
+aVSusan Haack
+p5656
+aVDonna Haraway
+p5657
+ag981
+ag253
+ag251
+ag1271
+ag1195
+ag935
+aVThomas Hobbes
+p5658
+aVDavid Hume
+p5659
+ag347
+ag1105
+aVImmanuel Kant
+p5660
+aVSøren Kierkegaard
+p5661
+ag1587
+ag121
+ag2023
+ag869
+ag691
+ag1831
+ag1491
+aVJohn Locke
+p5662
+ag1411
+ag5292
+ag847
+ag1837
+aVLudwig von Mises
+p5663
+ag585
+aVGeorge Edward Moore
+p5664
+ag1045
+ag863
+aVRobert Nozick
+p5665
+aVWilliam of Ockham
+p5666
+ag1141
+ag521
+ag1117
+ag1317
+ag841
+ag1509
+aVPlato
+p5667
+ag559
+aVKarl Popper
+p5668
+ag2029
+aVAyn Rand
+p5669
+ag371
+aVBertrand Russell
+p5670
+aVJohn Searle
+p5671
+ag1749
+ag207
+ag223
+aVSocrates
+p5672
+ag1739
+aVErnest Sosa
+p5673
+ag1613
+ag1387
+aVP. F. Strawson
+p5674
+aVBarry Stroud
+p5675
+ag1989
+ag1921
+ag495
+aVGiambattista Vico
+p5676
+ag1353
+ag1927
+ag1477
+ag557
+aVLudwig Wittgenstein
+p5677
+ag1565
+ag1293
+ag713
+asS'metaphysicians'
+p5678
+(lp5679
+g819
+aVDemocritus
+p5680
+ag4932
+ag1685
+ag1281
+ag1699
+ag705
+ag1299
+ag89
+ag1009
+aVPlato
+p5681
+aVAristotle
+p5682
+aVThomas Aquinas
+p5683
+ag37
+ag587
+aVRené Descartes
+p5684
+ag2053
+aVBaruch Spinoza
+p5685
+ag291
+ag73
+aVGottfried Leibniz
+p5686
+aVGeorge Berkeley
+p5687
+aVImmanuel Kant
+p5688
+ag577
+aVArthur Schopenhauer
+p5689
+ag365
+ag1891
+ag4489
+aVGottlob Frege
+p5690
+ag1181
+ag1959
+aVBertrand Russell
+p5691
+aVAlfred North Whitehead
+p5692
+ag1507
+aVLudwig Wittgenstein
+p5693
+ag1235
+ag689
+ag753
+aVWilliam Alston
+p5694
+ag2051
+ag4889
+ag907
+aVPaul Benacerraf
+p5695
+aVC. D. Broad
+p5696
+aVBerit Brogaard
+p5697
+aVDavid Chalmers
+p5698
+ag4904
+ag1171
+ag367
+aVNader El-Bizri
+p5699
+aVCatherine Elgin
+p5700
+aVKit Fine
+p5701
+aVPeter Geach
+p5702
+ag2061
+aVNelson Goodman
+p5703
+ag743
+aVSusan Haack
+p5704
+aVJohn Hawthorne
+p5705
+aVSally Haslanger
+p5706
+ag383
+aVDavid Kolb
+p5707
+aVSaul Kripke
+p5708
+ag1997
+ag97
+ag783
+ag1531
+aVPenelope Maddy
+p5709
+aVRuth Barcan Marcus
+p5710
+aVTrenton Merricks
+p5711
+ag767
+ag265
+ag979
+aVGualtiero Piccinini
+p5712
+aVAlvin Plantinga
+p5713
+aVGraham Priest
+p5714
+aVHilary Putnam
+p5715
+ag915
+ag1687
+aVNathan Salmon
+p5716
+aVJean-Paul Sartre
+p5717
+ag1543
+aVTheodore Sider
+p5718
+ag5460
+aVWolfgang Smith
+p5719
+ag613
+aVP. F. Strawson
+p5720
+ag917
+aVPeter Unger
+p5721
+ag939
+ag1289
+ag571
+ag1469
+aVJessica Wilson
+p5722
+ag507
+ag4915
+ag745
+asS'ethicists'
+p5723
+(lp5724
+g1783
+aVB. R. Ambedkar
+p5725
+ag749
+aVMortimer Adler
+p5726
+ag87
+aVThomas Aquinas
+p5727
+ag561
+ag1933
+ag1879
+ag759
+ag245
+aVKarl-Otto Apel
+p5728
+ag1603
+aVAristotle
+p5729
+ag4456
+ag639
+ag1901
+aVAugustine of Hippo
+p5730
+ag1941
+aVJoxe Azurmendi
+p5731
+ag357
+ag581
+aVFrancis Bacon
+p5732
+aVAlain Badiou
+p5733
+ag257
+aVTom Beauchamp
+p5734
+ag1275
+aVJeremy Bentham
+p5735
+ag389
+aVMaurice Blanchot
+p5736
+aVDietrich Bonhoeffer
+p5737
+aVMurray Bookchin
+p5738
+aVGeorge Boole
+p5739
+ag1983
+ag885
+ag1099
+ag629
+aVMario Bunge
+p5740
+aVJudith Butler
+p5741
+aVAlbert Camus
+p5742
+ag1725
+ag1525
+ag517
+ag1373
+aVConfucius
+p5743
+ag1463
+ag531
+ag703
+aVSimon Critchley
+p5744
+ag169
+ag1201
+ag1309
+aVPartha Dasgupta
+p5745
+ag337
+ag61
+aVCora Diamond
+p5746
+ag1797
+ag391
+ag733
+aVRonald Dworkin
+p5747
+ag1111
+ag1173
+ag603
+ag931
+ag67
+aVJohn Finnis
+p5748
+ag1563
+ag861
+ag1329
+ag4443
+ag163
+ag5417
+ag1435
+ag419
+ag1257
+ag209
+ag1265
+ag809
+ag2039
+ag1331
+ag597
+ag2049
+ag1763
+aVThomas Hill Green
+p5749
+ag995
+aVHugo Grotius
+p5750
+ag41
+aVJürgen Habermas
+p5751
+ag741
+ag4506
+aVGilbert Harman
+p5752
+ag1053
+aVRobert S. Hartman
+p5753
+ag1157
+ag699
+ag983
+aVMartin Heidegger
+p5754
+ag1359
+ag1883
+ag1751
+aVAbraham Joshua Heschel
+p5755
+aVHierocles of Alexandria
+p5756
+ag2113
+aVThomas Hobbes
+p5757
+ag1829
+aVHans-Hermann Hoppe
+p5758
+aVDavid Hume
+p5759
+ag1047
+ag195
+ag75
+aVFrancis Hutcheson (philosopher)
+p5760
+ag1287
+ag453
+ag1001
+ag1919
+ag1641
+ag1433
+ag1303
+ag1621
+ag757
+ag387
+aVImmanuel Kant
+p5761
+ag1003
+aVSøren Kierkegaard
+p5762
+aVMartin Luther King, Jr.
+p5763
+ag1727
+ag1811
+aVLawrence Kohlberg
+p5764
+aVMario Kopi\u0107
+p5765
+ag1183
+ag2097
+aVPeter Kropotkin
+p5766
+ag711
+ag1243
+ag1493
+ag4869
+ag1825
+aVJohn Locke
+p5767
+ag1755
+ag1729
+aVNiccolò Machiavelli
+p5768
+ag853
+ag1333
+ag875
+aVMao Zedong
+p5769
+ag607
+ag1985
+ag4444
+ag1475
+ag1775
+ag993
+aVMencius
+p5770
+ag1787
+aVMozi
+p5771
+ag1413
+ag1131
+aVJohn Stuart Mill
+p5772
+ag375
+ag45
+aVG. E. Moore
+p5773
+ag231
+aVThomas Nagel
+p5774
+ag1817
+ag71
+ag827
+ag591
+aVFriedrich Nietzsche
+p5775
+ag1607
+ag579
+ag2021
+aVRobert Nozick
+p5776
+aVMartha Nussbaum
+p5777
+ag835
+ag1517
+aVMichel Onfray
+p5778
+ag117
+ag1397
+ag359
+ag1585
+ag1233
+aVPhilip Pettit
+p5779
+ag465
+aVPlato
+p5780
+ag379
+ag1023
+ag765
+ag1423
+ag433
+ag1857
+aVJohn Rawls
+p5781
+aVJoseph Raz
+p5782
+ag2067
+ag1663
+ag4479
+ag1351
+aVMurray Rothbard
+p5783
+aVJean-Jacques Rousseau
+p5784
+aVJohn Ruskin
+p5785
+ag955
+aVBertrand Russell
+p5786
+ag53
+aVEdward Said
+p5787
+ag1773
+ag1239
+ag1163
+ag1793
+ag39
+ag1791
+aVT. M. Scanlon
+p5788
+ag1231
+ag219
+ag1571
+aVFriedrich Schiller
+p5789
+ag275
+aVKarl Wilhelm Friedrich von Schlegel
+p5790
+aVMoritz Schlick
+p5791
+ag1803
+aVDavid Schmidtz
+p5792
+aVArthur Schopenhauer
+p5793
+ag1471
+aVAmartya Sen
+p5794
+ag489
+ag725
+aVHenry Sidgwick
+p5795
+ag1539
+ag179
+ag215
+aVJ. J. C. Smart
+p5796
+ag1367
+ag77
+ag93
+ag529
+ag1795
+aVHerbert Spencer
+p5797
+aVBaruch Spinoza
+p5798
+ag341
+aVWalter Terence Stace
+p5799
+ag1229
+ag1187
+aVMax Stirner
+p5800
+ag1441
+ag1545
+ag203
+ag1101
+aVSun Yat-sen
+p5801
+ag271
+ag1549
+aVJudith Jarvis Thomson
+p5802
+aVPaul Tillich
+p5803
+ag1979
+ag1839
+ag1481
+aVThiruvalluvar
+p5804
+ag1497
+ag599
+ag2073
+ag1579
+ag1569
+ag785
+ag1675
+ag2041
+ag2081
+ag5363
+ag1635
+aVChristian Wolff (philosopher)
+p5805
+ag943
+ag319
+ag601
+ag719
+ag1765
+ag731
+ag1745
+ag1931
+ag1943
+ag1063
+asa(lp5806
+g9
+ag11
+ag13
+ag15
+ag17
+ag19
+ag21
+ag23
+ag25
+ag1421
+ag29
+ag31
+ag33
+ag37
+ag39
+ag357
+ag41
+ag43
+ag45
+ag1781
+ag49
+ag51
+ag53
+ag55
+ag59
+ag61
+ag63
+ag65
+ag67
+ag69
+ag71
+ag73
+ag75
+ag77
+ag79
+ag731
+ag81
+ag83
+ag85
+ag1669
+ag89
+ag91
+ag93
+ag95
+ag97
+ag99
+ag927
+ag103
+ag105
+ag107
+ag109
+ag111
+ag113
+ag1435
+ag117
+ag119
+ag121
+ag123
+ag125
+ag127
+ag579
+ag129
+ag131
+ag133
+ag135
+ag137
+ag139
+ag5538
+ag143
+ag1971
+ag505
+ag147
+ag571
+ag149
+ag151
+ag153
+ag155
+ag157
+ag159
+ag161
+ag713
+ag165
+ag167
+ag169
+ag1451
+ag173
+ag175
+ag177
+ag1381
+ag179
+ag969
+ag183
+ag185
+ag187
+ag189
+ag191
+ag193
+ag195
+ag197
+ag199
+ag201
+ag203
+ag205
+ag1183
+ag207
+ag209
+ag725
+ag211
+ag213
+ag215
+ag217
+ag219
+ag221
+ag223
+ag225
+ag227
+ag229
+ag233
+ag235
+ag5534
+ag1809
+ag243
+ag245
+ag1811
+ag249
+ag251
+ag1469
+ag257
+ag259
+ag261
+ag1367
+ag263
+ag265
+ag267
+ag1817
+ag271
+ag273
+ag275
+ag277
+ag1653
+ag281
+ag285
+ag287
+ag1471
+ag291
+ag293
+ag295
+ag297
+ag299
+ag301
+ag1825
+ag307
+ag309
+ag311
+ag4506
+ag315
+ag317
+ag319
+ag1095
+ag321
+ag323
+ag325
+ag327
+ag329
+ag1531
+ag333
+ag335
+ag1481
+ag339
+ag341
+ag743
+ag345
+ag347
+ag349
+ag351
+ag353
+ag355
+ag2063
+ag1493
+ag361
+ag363
+ag365
+ag367
+ag369
+ag371
+ag373
+ag375
+ag377
+ag379
+ag381
+ag383
+ag385
+ag889
+ag387
+ag389
+ag391
+ag4452
+ag4680
+ag399
+ag401
+ag1497
+ag405
+ag407
+ag409
+ag1121
+ag413
+ag415
+ag581
+ag417
+ag419
+ag1257
+ag421
+ag423
+ag425
+ag427
+ag429
+ag603
+ag431
+ag433
+ag435
+ag439
+ag441
+ag443
+ag1503
+ag5603
+ag449
+ag451
+ag453
+ag455
+ag87
+ag457
+ag461
+ag463
+ag465
+ag1127
+ag469
+ag471
+ag473
+ag475
+ag477
+ag481
+ag483
+ag485
+ag487
+ag489
+ag491
+ag493
+ag495
+ag497
+ag499
+ag1133
+ag773
+ag507
+ag509
+ag511
+ag513
+ag1863
+ag517
+ag519
+ag1137
+ag1125
+ag525
+ag527
+ag841
+ag529
+ag531
+ag915
+ag535
+ag537
+ag1883
+ag543
+ag747
+ag545
+ag5620
+ag549
+ag1903
+ag553
+ag1163
+ag555
+ag557
+ag559
+ag561
+ag1619
+ag4409
+ag565
+ag1875
+ag5559
+ag1671
+ag573
+ag575
+ag577
+ag1365
+ag1375
+ag583
+ag587
+ag589
+ag591
+ag593
+ag1151
+ag597
+ag1881
+ag163
+ag1515
+ag1131
+ag605
+ag607
+ag1153
+ag611
+ag613
+ag615
+ag4710
+ag619
+ag621
+ag623
+ag625
+ag629
+ag631
+ag633
+ag1525
+ag639
+ag641
+ag643
+ag1843
+ag647
+ag651
+ag1889
+ag655
+ag657
+ag693
+ag659
+ag661
+ag1167
+ag665
+ag667
+ag669
+ag1973
+ag671
+ag673
+ag807
+ag677
+ag679
+ag1791
+ag683
+ag685
+ag687
+ag689
+ag691
+ag2115
+ag979
+ag697
+ag699
+ag701
+ag703
+ag1195
+ag705
+ag707
+ag303
+ag711
+ag5553
+ag715
+ag1181
+ag719
+ag241
+ag727
+ag729
+ag1533
+ag733
+ag735
+ag819
+ag739
+ag741
+ag343
+ag745
+ag503
+ag749
+ag751
+ag753
+ag755
+ag757
+ag759
+ag1539
+ag1569
+ag763
+ag767
+ag769
+ag771
+ag1771
+ag775
+ag777
+ag1543
+ag781
+ag783
+ag785
+ag787
+ag789
+ag791
+ag1171
+ag793
+ag795
+ag797
+ag799
+ag801
+ag803
+ag805
+ag675
+ag809
+ag5592
+ag813
+ag737
+ag821
+ag823
+ag4820
+ag827
+ag829
+ag4425
+ag825
+ag835
+ag5765
+ag837
+ag839
+ag869
+ag5597
+ag847
+ag5608
+ag5576
+ag853
+ag855
+ag5561
+ag5664
+ag1773
+ag861
+ag863
+ag865
+ag359
+ag5593
+ag1057
+ag871
+ag5564
+ag5623
+ag875
+ag879
+ag4489
+ag1559
+ag885
+ag1085
+ag891
+ag893
+ag895
+ag897
+ag5050
+ag901
+ag903
+ag5556
+ag907
+ag4487
+ag911
+ag5639
+ag1211
+ag917
+ag4889
+ag4932
+ag5503
+ag1371
+ag929
+ag2051
+ag933
+ag935
+ag1417
+ag939
+ag941
+ag943
+ag945
+ag5637
+ag1527
+ag1831
+ag957
+ag1575
+ag961
+ag963
+ag965
+ag967
+ag883
+ag5085
+ag1221
+ag1411
+ag5737
+ag977
+ag1651
+ag5554
+ag981
+ag983
+ag985
+ag1947
+ag5568
+ag991
+ag993
+ag5363
+ag995
+ag997
+ag1603
+ag999
+ag1001
+ag1003
+ag1005
+ag1007
+ag1009
+ag1013
+ag5617
+ag1017
+ag1019
+ag5562
+ag1023
+ag1585
+ag1027
+ag1029
+ag1031
+ag1587
+ag5542
+ag4890
+ag1039
+ag1041
+ag5192
+ag1045
+ag1049
+ag1051
+ag1053
+ag5582
+ag1899
+ag331
+ag1059
+ag1061
+ag5744
+ag1063
+ag1239
+ag5641
+ag1437
+ag1071
+ag1073
+ag5292
+ag1079
+ag1081
+ag1087
+ag1089
+ag1091
+ag1093
+ag1599
+ag1097
+ag1099
+ag1101
+ag4865
+ag1105
+ag1107
+ag1109
+ag1111
+ag1113
+ag1115
+ag1117
+ag1119
+ag411
+ag1123
+ag1583
+ag467
+ag1129
+ag181
+ag501
+ag1135
+ag4430
+ag1139
+ag1141
+ag1143
+ag5552
+ag1147
+ag4443
+ag1991
+ag609
+ag1155
+ag1157
+ag4755
+ag1161
+ag645
+ag1165
+ag5573
+ag4763
+ag2055
+ag1173
+ag1613
+ag5022
+ag1477
+ag717
+ag1819
+ag5719
+ag5588
+ag2039
+ag5674
+ag1187
+ag1189
+ag5563
+ag1193
+ag2015
+ag5622
+ag4892
+ag1201
+ag1203
+ag5132
+ag1207
+ag1259
+ag1209
+ag1505
+ag1213
+ag1215
+ag1217
+ag955
+ag973
+ag1223
+ag5546
+ag1227
+ag1229
+ag1231
+ag1233
+ag1235
+ag1237
+ag1065
+ag5583
+ag1333
+ag1243
+ag1247
+ag1249
+ag1251
+ag1185
+ag1255
+ag1407
+ag1179
+ag1261
+ag599
+ag2023
+ag1263
+ag1265
+ag5244
+ag1269
+ag1271
+ag1553
+ag1275
+ag1277
+ag1279
+ag1281
+ag1283
+ag1285
+ag1287
+ag1289
+ag4470
+ag1293
+ag4904
+ag1299
+ag1303
+ag4435
+ag1307
+ag1309
+ag1311
+ag5653
+ag1315
+ag1317
+ag1319
+ag1321
+ag1323
+ag1325
+ag5590
+ag1329
+ag1331
+ag1673
+ag5624
+ag1337
+ag1339
+ag5643
+ag1343
+ag4915
+ag5625
+ag1351
+ag1353
+ag5615
+ag4864
+ag1359
+ag1361
+ag1363
+ag5549
+ag1047
+ag1369
+ag1373
+ag1917
+ag1377
+ag1937
+ag1853
+ag5596
+ag5541
+ag1387
+ag1389
+ag931
+ag1391
+ag1393
+ag1395
+ag1829
+ag1399
+ag1401
+ag5423
+ag2001
+ag2043
+ag4444
+ag4479
+ag859
+ag1413
+ag5535
+ag1441
+ag5607
+ag5791
+ag27
+ag1423
+ag1425
+ag1427
+ag5460
+ag5636
+ag1429
+ag1865
+ag1433
+ag115
+ag2003
+ag1439
+ag1993
+ag5657
+ag1445
+ag1447
+ag1449
+ag4970
+ag5567
+ag1455
+ag1457
+ag1459
+ag1461
+ag1463
+ag5718
+ag1467
+ag2013
+ag255
+ag289
+ag4480
+ag1475
+ag5628
+ag4484
+ag337
+ag1483
+ag5635
+ag1487
+ag1489
+ag1491
+ag723
+ag1495
+ag403
+ag601
+ag1499
+ag1501
+ag445
+ag4858
+ag1507
+ag1509
+ag1511
+ag1513
+ag5569
+ag1517
+ag1519
+ag1521
+ag5371
+ag637
+ag4869
+ag815
+ag1347
+ag1535
+ag1537
+ag5675
+ag1541
+ag779
+ag1545
+ag1547
+ag1549
+ag1551
+ag1555
+ag4679
+ag5533
+ag1679
+ag1563
+ag1565
+ag1567
+ag231
+ag1571
+ag4463
+ag551
+ag5579
+ag1579
+ag1913
+ag5558
+ag1033
+ag1589
+ag1591
+ag1595
+ag1597
+ag1727
+ag1077
+ag5571
+ag1813
+ag4832
+ag1607
+ag1609
+ag1611
+ag1175
+ag5716
+ag1615
+ag4553
+ag627
+ag1621
+ag1623
+ag1625
+ag1627
+ag1629
+ag1631
+ag5630
+ag1635
+ag1637
+ag1641
+ag1643
+ag1335
+ag1345
+ag1649
+ag1923
+ag1069
+ag5101
+ag1693
+ag1659
+ag4456
+ag1663
+ag5642
+ag1529
+ag2087
+ag1675
+ag5764
+ag1561
+ag1681
+ag4923
+ag1685
+ag1687
+ag1689
+ag5604
+ag1657
+ag1661
+ag1967
+ag1699
+ag4762
+ag5599
+ag1705
+ag1707
+ag4533
+ag1301
+ag1713
+ag1715
+ag817
+ag1719
+ag5537
+ag4520
+ag1725
+ag541
+ag1729
+ag1955
+ag1731
+ag1733
+ag5545
+ag1739
+ag1909
+ag1743
+ag1745
+ag5531
+ag1749
+ag1751
+ag987
+ag1753
+ag1755
+ag5598
+ag4410
+ag1761
+ag2029
+ag1765
+ag4898
+ag649
+ag479
+ag5595
+ag1775
+ag5618
+ag1779
+ag5532
+ag1783
+ag1785
+ag1787
+ag5584
+ag5756
+ag1793
+ag1795
+ag1797
+ag5417
+ag1801
+ag1803
+ag5794
+ag521
+ag947
+ag5394
+ag253
+ag1815
+ag269
+ag283
+ag1821
+ag5696
+ag5606
+ag1939
+ag539
+ag1665
+ag951
+ag1835
+ag1837
+ag1839
+ag1841
+ag877
+ag1845
+ag2067
+ag1849
+ag1851
+ag437
+ag1855
+ag1857
+ag1859
+ag5614
+ag515
+ag5803
+ag1871
+ag1873
+ag567
+ag5648
+ag1879
+ag5632
+ag1639
+ag585
+ag4436
+ag5555
+ag1891
+ag5574
+ag1933
+ag5633
+ag1897
+ag635
+ag1901
+ag721
+ag5742
+ag1907
+ag4775
+ag1911
+ag533
+ag4649
+ag1983
+ag1919
+ag1921
+ag887
+ag1927
+ag1929
+ag1931
+ag397
+ag4545
+ag1941
+ag1943
+ag5376
+ag1245
+ag1949
+ag1951
+ag1953
+ag237
+ag1957
+ag5745
+ag1959
+ag1961
+ag5600
+ag5551
+ag765
+ag5746
+ag1969
+ag5613
+ag1011
+ag5591
+ag1977
+ag1979
+ag1981
+ag1985
+ag5581
+ag1989
+ag5673
+ag1997
+ag5734
+ag4633
+ag5570
+ag5577
+ag5536
+ag57
+ag4530
+ag1397
+ag2011
+ag1737
+ag2017
+ag2019
+ag2021
+ag1593
+ag2025
+ag5717
+ag35
+ag4544
+ag5560
+ag2037
+ag1925
+ag2041
+ag2045
+ag2047
+ag1763
+ag2049
+ag845
+ag2053
+ag5587
+ag5539
+ag2061
+ag4781
+ag5201
+ag1847
+ag5589
+ag5495
+ag2073
+ag2075
+ag2031
+ag5601
+ag2081
+ag5540
+ag2085
+ag2089
+ag5547
+ag2093
+ag2095
+ag2097
+ag5331
+ag5792
+ag2103
+ag2105
+ag5155
+ag4603
+ag2111
+ag2113
+ag5580
+ag2117
+aa.
